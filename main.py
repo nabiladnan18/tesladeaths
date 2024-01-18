@@ -35,7 +35,7 @@ st.markdown(
         </div>
         <div class="first-child">
             <h5><em>DISCLAIMER: Made for educational purposes. I do not own the data!</em> 🙅</h5>
-            <p>🙏 Inspired by <a href='https://tesladeaths.com'>https://tesladeaths.com</a></p>
+            <p style="margin-bottom:20px">🙏 Inspired by <a href='https://tesladeaths.com'>https://tesladeaths.com</a></p>
         </div>
     </div>
 """,
@@ -46,6 +46,13 @@ st.markdown(
 
 # st.dataframe(data, hide_index=True)
 deaths_by_country = data.groupby("Country")[["Deaths"]].sum()
+total_deaths = data["Deaths"].sum()
+
+st.metric(
+    value=total_deaths,
+    label="Total Deaths",
+)
+
 bar_chart = pl.plot(
     deaths_by_country, kind="bar", title="Deaths by country", y="Deaths"
 )
@@ -54,13 +61,14 @@ st.plotly_chart(bar_chart, use_container_width=True)
 grouped_df = deaths_by_country.reset_index()
 grouped_df["Percentage"] = (grouped_df["Deaths"] / grouped_df["Deaths"].sum()) * 100
 pie_chart = (
-    alt.Chart(grouped_df)
+    alt.Chart(
+        grouped_df, width=500, height=500, title="Percentage of deaths by country"
+    )
     .mark_arc()
     .encode(
         alt.Color("Country:N"),
         alt.Tooltip(["Country:N", "Percentage:Q"]),
         theta="Percentage:Q",
     )
-    .properties(width=500, height=500, title="Percentage of deaths by country")
 )
 st.altair_chart(pie_chart, use_container_width=True)
