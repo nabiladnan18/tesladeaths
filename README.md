@@ -1,5 +1,7 @@
-# TESLA DEATHS
+# 💀 Tesla Deaths
 
-Based on the page [https://www.tesladeaths.com](www.tesladeaths.com).
+### A statistical representation of number of deaths in which a Tesla vehicle was involved
 
-Made for educational purposes.
+*DISCLAIMER: Made for educational purposes. I do not own the data!* 🙅
+
+🙏 Inspired by [https://www.tesladeaths.com](www.tesladeaths.com).
