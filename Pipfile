@@ -11,6 +11,7 @@ streamlit = "*"
 plotly = "*"
 streamlit-aggrid = "*"
 altair = "*"
+streamlit-extras = "*"
 
 [dev-packages]
 ipykernel = "*"
