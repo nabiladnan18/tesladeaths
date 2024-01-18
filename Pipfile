@@ -8,6 +8,9 @@ requests-html = "*"
 polars = "*"
 pandas = "*"
 streamlit = "*"
+plotly = "*"
+streamlit-aggrid = "*"
+altair = "*"
 
 [dev-packages]
 ipykernel = "*"
