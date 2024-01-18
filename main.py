@@ -123,3 +123,7 @@ col4.metric(value=last_year_deaths, label=f"Deaths in {last_year}")
 st.plotly_chart(bar_chart, use_container_width=False)
 st.altair_chart(pie_chart, use_container_width=False)
 st.plotly_chart(line_chart, use_container_width=False)
+
+with st.sidebar:
+    options = st.selectbox("Options", ["Option 1", "Option 2", "Option3"])
+    range = st.select_slider(label="Slider", options=[*range(0, 10)])
