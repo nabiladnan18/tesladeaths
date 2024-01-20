@@ -7,6 +7,15 @@ import plotly as pl
 import altair as alt
 import math
 
+st.set_page_config(
+    layout="wide",
+    initial_sidebar_state="expanded",
+)
+
+# with st.sidebar:
+#     options = st.selectbox("Options", ["Option 1", "Option 2", "Option3"])
+#     range = st.select_slider(label="Slider", options=[*range(0, 10)])
+
 
 data = pd.read_csv("./scraper/data.csv")
 # data["Year"] = data["Year"].apply(lambda x: str(x))
@@ -50,14 +59,9 @@ st.markdown(
 
 
 # st.dataframe(data, hide_index=True)
+
 deaths_by_country = data.groupby("Country")[["Deaths"]].sum()
 total_deaths = data["Deaths"].sum()
-
-bar_chart = pl.plot(
-    deaths_by_country, kind="bar", title="Deaths by country", y="Deaths"
-)
-
-
 grouped_df = deaths_by_country.reset_index()
 grouped_df["Percentage"] = (grouped_df["Deaths"] / grouped_df["Deaths"].sum()) * 100
 
@@ -74,7 +78,12 @@ pie_chart = (
 )
 deaths_by_year = data.groupby("Year")["Deaths"].sum()
 mean_deaths_per_year = math.ceil(deaths_by_year.mean())
-line_chart = pl.plot(deaths_by_year, kind="line", title="Deaths over time", y="Deaths")
+# line_chart = pl.plot(
+#     deaths_by_year,
+#     kind="scatter",
+#     title="Deaths over time",
+#     y="Deaths",
+# )
 
 now = datetime.now()
 now_year = now.year
@@ -100,6 +109,67 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
+# regular barchart
+bar_chart = pl.plot(
+    deaths_by_country, kind="bar", title="Deaths by country", y="Deaths"
+)
+
+df = data.loc[
+    :,
+    [
+        "Country",
+        "Tesla driver",
+        "Tesla occupant",
+        "Other vehicle",
+        "Cyclists/ Peds",
+    ],
+]
+
+df = (
+    df.groupby("Country")[
+        [
+            "Tesla driver",
+            "Tesla occupant",
+            "Other vehicle",
+            "Cyclists/ Peds",
+        ]
+    ]
+    .sum()
+    .reset_index()
+)
+
+
+categorywise_deaths_long = pd.melt(
+    df,
+    id_vars=["Country"],
+    value_vars=[
+        "Tesla driver",
+        "Tesla occupant",
+        "Other vehicle",
+        "Cyclists/ Peds",
+    ],
+    value_name="Deaths",
+    var_name="Category",
+)
+
+
+stacked_chart = (
+    alt.Chart(categorywise_deaths_long)
+    .mark_bar()
+    .encode(
+        x=alt.X("Country", type="nominal").axis(title="Country"),
+        y=alt.Y("Deaths", type="quantitative", stack="normalize").axis(
+            title="Deaths", format="%"
+        ),
+        color=alt.Color("Category"),
+        tooltip=["Category", "Deaths:Q"],
+    )
+    .properties(
+        height=400,
+        title="Category by country",
+    )
+)
+
 col1.metric(value=total_deaths, label="Total Deaths")
 col2.metric(
     value=mean_deaths_per_year,
@@ -118,12 +188,14 @@ col3.metric(
     delta=-int(last_year_deaths),
     delta_color="inverse",
 )
-col4.metric(value=last_year_deaths, label=f"Deaths in {last_year}")
+col4.metric(value=last_year_deaths, label="Deaths in previous year")
 
-st.plotly_chart(bar_chart, use_container_width=False)
-st.altair_chart(pie_chart, use_container_width=False)
-st.plotly_chart(line_chart, use_container_width=False)
+col1, col2 = st.columns([6, 4])
 
-with st.sidebar:
-    options = st.selectbox("Options", ["Option 1", "Option 2", "Option3"])
-    range = st.select_slider(label="Slider", options=[*range(0, 10)])
+col1.plotly_chart(bar_chart, use_container_width=True)
+col2.altair_chart(pie_chart, use_container_width=True)
+
+st.altair_chart(stacked_chart, use_container_width=True)
+# st.plotly_chart(line_chart, use_container_width=False)
+
+deaths_by_year_no_index = deaths_by_year.reset_index()
