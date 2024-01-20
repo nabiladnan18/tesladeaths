@@ -111,7 +111,10 @@ st.markdown(
 
 # regular barchart
 bar_chart = pl.plot(
-    deaths_by_country, kind="bar", title="Deaths by country", y="Deaths"
+    deaths_by_country,
+    kind="bar",
+    title="Deaths by country",
+    y="Deaths",
 )
 
 df = data.loc[
