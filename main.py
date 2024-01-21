@@ -1,3 +1,7 @@
+import re
+from polars import last
+
+from requests_html import HTMLSession, Element
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 
@@ -6,6 +10,23 @@ import streamlit as st
 import plotly as pl
 import altair as alt
 import math
+
+
+SOURCE = "https://www.tesladeaths.com"
+session = HTMLSession()
+r = session.get(SOURCE)
+
+html = r.html.find("em")
+pattern = pattern = re.compile("\d{4}-\d{2}-\d{2}")
+
+
+last_updated_on = []
+for em in html:
+    match = pattern.search(em.text)
+    if match:
+        last_updated_on.append(match.group())
+
+last_updated_on = last_updated_on[0]
 
 st.set_page_config(
     layout="wide",
@@ -57,6 +78,12 @@ st.markdown(
 )
 # Tesla Deaths Stats
 
+st.markdown(
+    """
+    <p>Last data found on: {date}</p> 
+    """.format(date=last_updated_on),
+    unsafe_allow_html=True,
+)
 
 # st.dataframe(data, hide_index=True)
 
