@@ -11,35 +11,24 @@ import plotly as pl
 import altair as alt
 import math
 
-
-SOURCE = "https://www.tesladeaths.com"
-session = HTMLSession()
-r = session.get(SOURCE)
-
-html = r.html.find("em")
-pattern = pattern = re.compile("\d{4}-\d{2}-\d{2}")
-
-
-last_updated_on = []
-for em in html:
-    match = pattern.search(em.text)
-    if match:
-        last_updated_on.append(match.group())
-
-last_updated_on = last_updated_on[0]
+from app.utils import scrape_page_data, find_last_updated, get_table_df
 
 st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
 
+SOURCE = "https://www.tesladeaths.com"
+
+scraped_page = scrape_page_data(SOURCE)
+
+data = get_table_df(scraped_page)
+
+
 # with st.sidebar:
 #     options = st.selectbox("Options", ["Option 1", "Option 2", "Option3"])
 #     range = st.select_slider(label="Slider", options=[*range(0, 10)])
 
-
-data = pd.read_csv("./scraper/data.csv")
-# data["Year"] = data["Year"].apply(lambda x: str(x))
 
 st.markdown(
     """
@@ -81,7 +70,7 @@ st.markdown(
 st.markdown(
     """
     <p>Last data found on: {date}</p> 
-    """.format(date=last_updated_on),
+    """.format(date=find_last_updated(scraped_page)),
     unsafe_allow_html=True,
 )
 
