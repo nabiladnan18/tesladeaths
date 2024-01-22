@@ -221,6 +221,11 @@ deaths_by_year = (
     )
     .properties(title="Deaths over time")
 )
+mean_line = (
+    alt.Chart(pd.DataFrame({"mean_deaths": [mean_deaths_per_year]}))
+    .mark_rule(color="red")
+    .encode(y="mean_deaths:Q")
+)
+final_chart = deaths_by_year + mean_line
 
-
-st.altair_chart(deaths_by_year, use_container_width=True)
+st.altair_chart(final_chart, use_container_width=True)

@@ -55,9 +55,6 @@ def get_table_data(table: Element) -> list:
     return rows
 
 
-# def convert_year(string) _
-
-
 def convert_dates(date_string) -> pd.DatetimeIndex:
     try:
         result_date = pd.to_datetime(date_string)
