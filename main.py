@@ -1,10 +1,5 @@
-import re
-from polars import last
-
-from requests_html import HTMLSession, Element
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
-
 import pandas as pd
 import streamlit as st
 import plotly as pl
@@ -74,7 +69,6 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-# st.dataframe(data, hide_index=True)
 
 deaths_by_country = data.groupby("Country")[["Deaths"]].sum()
 total_deaths = data["Deaths"].sum()
@@ -107,7 +101,6 @@ last_year = now - relativedelta(years=1)
 last_year = last_year.year
 
 current_year_deaths = data[data["Year"] == now_year]["Deaths"].sum()
-
 last_year_deaths = data[data["Year"] == last_year]["Deaths"].sum()
 last_year_average = data[data["Year"] == last_year]["Deaths"].mean()
 
@@ -218,3 +211,16 @@ st.altair_chart(stacked_chart, use_container_width=True)
 # st.plotly_chart(line_chart, use_container_width=False)
 
 deaths_by_year_no_index = deaths_by_year.reset_index()
+deaths_by_year = (
+    alt.Chart(deaths_by_year_no_index)
+    .mark_bar()
+    .encode(
+        x=alt.X("Year", type="nominal").axis(title="Years"),
+        y=alt.Y("Deaths", type="quantitative"),
+        tooltip=["Year:N", "Deaths:Q"],
+    )
+    .properties(title="Deaths over time")
+)
+
+
+st.altair_chart(deaths_by_year, use_container_width=True)
