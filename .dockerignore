@@ -1,0 +1,8 @@
+*.ipynb
+.vscode/
+Dockerfile
+docker-compose.yaml
+*.yaml
+*.yml
+scraper/
+__pycache__
