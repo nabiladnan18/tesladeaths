@@ -1,0 +1,10 @@
+version: "3"
+services:
+  tesla_deaths:
+    container_name: tesla_deaths_app
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 8501:8501
+    

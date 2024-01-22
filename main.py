@@ -1,24 +1,29 @@
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
-
 import pandas as pd
 import streamlit as st
 import plotly as pl
 import altair as alt
 import math
 
+from app.utils import scrape_page_data, find_last_updated, get_table_df
+
 st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
 
+SOURCE = "https://www.tesladeaths.com"
+
+scraped_page = scrape_page_data(SOURCE)
+
+data = get_table_df(scraped_page)
+
+
 # with st.sidebar:
 #     options = st.selectbox("Options", ["Option 1", "Option 2", "Option3"])
 #     range = st.select_slider(label="Slider", options=[*range(0, 10)])
 
-
-data = pd.read_csv("./scraper/data.csv")
-# data["Year"] = data["Year"].apply(lambda x: str(x))
 
 st.markdown(
     """
@@ -57,8 +62,13 @@ st.markdown(
 )
 # Tesla Deaths Stats
 
+st.markdown(
+    """
+    <p>Last data found on: {date}</p> 
+    """.format(date=find_last_updated(scraped_page)),
+    unsafe_allow_html=True,
+)
 
-# st.dataframe(data, hide_index=True)
 
 deaths_by_country = data.groupby("Country")[["Deaths"]].sum()
 total_deaths = data["Deaths"].sum()
@@ -91,7 +101,6 @@ last_year = now - relativedelta(years=1)
 last_year = last_year.year
 
 current_year_deaths = data[data["Year"] == now_year]["Deaths"].sum()
-
 last_year_deaths = data[data["Year"] == last_year]["Deaths"].sum()
 last_year_average = data[data["Year"] == last_year]["Deaths"].mean()
 
@@ -202,3 +211,21 @@ st.altair_chart(stacked_chart, use_container_width=True)
 # st.plotly_chart(line_chart, use_container_width=False)
 
 deaths_by_year_no_index = deaths_by_year.reset_index()
+deaths_by_year = (
+    alt.Chart(deaths_by_year_no_index)
+    .mark_bar()
+    .encode(
+        x=alt.X("Year", type="nominal").axis(title="Years"),
+        y=alt.Y("Deaths", type="quantitative"),
+        tooltip=["Year:N", "Deaths:Q"],
+    )
+    .properties(title="Deaths over time")
+)
+mean_line = (
+    alt.Chart(pd.DataFrame({"mean_deaths": [mean_deaths_per_year]}))
+    .mark_rule(color="red")
+    .encode(y="mean_deaths:Q")
+)
+final_chart = deaths_by_year + mean_line
+
+st.altair_chart(final_chart, use_container_width=True)
