@@ -1,5 +1,6 @@
 import re
 
+import streamlit as st
 from requests_html import HTMLSession, Element, HTMLResponse
 import pandas as pd
 import logging
@@ -10,6 +11,7 @@ logging.basicConfig(
 )
 
 
+@st.cache_resource
 def scrape_page_data(source) -> HTMLResponse:
     session = HTMLSession()
     r = session.get(source)
