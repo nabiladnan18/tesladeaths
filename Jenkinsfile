@@ -9,15 +9,15 @@ pipeline {
     }
     
     stages {
-        stage('Checkout') {
+        steps('Checkout') {
             checkout scm
         }
         
-        stage('Login to Registry') {
+        steps('Login to Registry') {
             sh'docker login -u $DOCKERHUB_USERNAME -p $DOCKERHUB_PASSWORD'
         }
         
-        stage('Build and push image') {
+        steps('Build and push image') {
             sh'docker build -t $DOCKERHUB_USERNAME/tesla_deaths_app:latest .'
             sh'docker push $DOCKERHUB_USERNAME/tesla_deaths_app:latest'
         }
