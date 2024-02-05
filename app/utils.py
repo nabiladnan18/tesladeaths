@@ -93,4 +93,7 @@ def get_table_df(r: HTMLResponse) -> pd.DataFrame:
     # Converting Years to strings
     df["Year"] = df["Year"].apply(pd.to_numeric)
 
+    # Fix Holland --> Netherlands
+    df["Country"].replace({"Holland": "Netherlands"}, inplace=True)
+
     return df

@@ -8,10 +8,7 @@ import math
 
 from app.utils import scrape_page_data, find_last_updated, get_table_df
 
-st.set_page_config(
-    layout="wide",
-    initial_sidebar_state="expanded",
-)
+st.set_page_config(layout="wide", page_title="💀 Tesla Deaths")
 
 SOURCE = "https://www.tesladeaths.com"
 
@@ -30,16 +27,16 @@ st.markdown(
     <style>
         .flex-container {
             display: flex;
-            flex-direction: column;  
+            flex-direction: column;
         }
 
         .flex-child {
             flex: 1;
-        }  
+        }
 
         .flex-child:first-child {
             margin-right: 20px;
-        } 
+        }
 
         p {
             text-align: left;
@@ -181,6 +178,8 @@ stacked_chart = (
         title="Category by country",
     )
 )
+
+# Dummy Deployment To Test Jenkins Pipeline
 
 col1.metric(value=total_deaths, label="Total Deaths")
 col2.metric(

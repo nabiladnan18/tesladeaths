@@ -9,4 +9,4 @@ RUN pipenv install --system --deploy --ignore-pipfile
 
 COPY . /app
 
-CMD ["/bin/bash", "-c", "streamlit run main.py"]
+CMD ["/bin/bash", "-c", "streamlit run main.py --server.address 0.0.0.0"]
