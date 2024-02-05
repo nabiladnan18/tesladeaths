@@ -1,0 +1,5 @@
+[server]
+port = 8501
+baseUrlPath = "/tesla"
+enableCORS = true
+# enableStaticServing = true
