@@ -9,17 +9,17 @@ pipeline {
     }
     
     stages {
-        stage('Checkout') {
-            steps {
-                checkout scm
-            }
-        }
-        
-        // stage('Install dependencies') {
+        // stage('Checkout') {
         //     steps {
-                
+        //         checkout scm
         //     }
         // }
+        
+        stage('Install dependencies') {
+            steps {
+                
+            }
+        }
         
         stage('Login to Registry') {
             steps {
