@@ -15,11 +15,11 @@ pipeline {
         //     }
         // }
         
-        stage('Install dependencies') {
-            steps {
+        // stage('Install dependencies') {
+        //     steps {
                 
-            }
-        }
+        //     }
+        // }
         
         stage('Login to Registry') {
             steps {
