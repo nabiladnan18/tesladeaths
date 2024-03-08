@@ -8,10 +8,6 @@ pipeline {
     }
     
     stages {
-        stage('Checkout') {
-            checkout scm
-        }
-        
         stage('Login to Registry') {
             sh'docker login -u $DOCKERHUB_USERNAME -p $DOCKERHUB_PASSWORD'
         }
