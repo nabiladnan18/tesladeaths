@@ -5,7 +5,6 @@ pipeline {
         DOCKERHUB_USERNAME = credentials('DOCKERHUB_USERNAME')
         DOCKERHUB_PASSWORD = credentials('DOCKERHUB_PASSWORD')
         AWS_CREDENTIALS = credentials('AWS_SSH_CREDENTIALS')
-        EC2 = credentials('EC2_INSTANCE')
     }
     
     stages {
