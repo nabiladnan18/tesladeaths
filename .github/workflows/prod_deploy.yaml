@@ -51,7 +51,7 @@ jobs:
     env:
         DOCKERHUB_USERNAME: ${{secrets.DOCKERHUB_USERNAME}}
         DOCKERHUB_PASSWORD: ${{secrets.DOCKERHUB_PASSWORD}}    
-    
+    needs: docker_build
     runs-on: ubuntu-22.04
     
     steps:
