@@ -61,10 +61,9 @@ jobs:
             host: ${{ secrets.EC2_HOST }}
             username: ${{ secrets.EC2_USER }}
             key: ${{ secrets.SSH_KEY }}
-            fingerprint: 
+            fingerprint: ${{ secrets.FINGERPRINT }}
             script: |
                 docker rm -f tesla_deaths || true
-                echo ${DOCKERHUB_PASSWORD} | docker login -u ${DOCKERHUB_USERNAME} --password-stdin 
-                docker pull ${DOCKERHUB_USERNAME}/tesla_deaths:${{ github.ref_name }}
-                docker run -d --name tesla_deaths --network appnetwork -p 8501:8501 ${DOCKERHUB_USERNAME}/tesla_deaths:${{ github.ref_name }}
-  
+                echo $DOCKERHUB_PASSWORD | docker login -u $DOCKERHUB_USERNAME --password-stdin 
+                docker pull $DOCKERHUB_USERNAME/tesla_deaths:${{ github.ref_name }}
+                docker run -d --name tesla_deaths --network appnetwork -p 8501:8501 $DOCKERHUB_USERNAME/tesla_deaths:${{ github.ref_name }}
