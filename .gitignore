@@ -108,14 +108,7 @@ ipython_config.py
 #   pdm stores project-wide configurations in .pdm.toml, but it is recommended to not include it
 #   in version control.
 #   https://pdm.fming.dev/#use-with-ide
-.pdm.toml
-
-# PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
-__pypackages__/
-
-# Celery stuff
-celerybeat-schedule
-celerybeat.pid
+.pdm.tomlref_name
 
 # SageMath parsed files
 *.sage.py
@@ -163,3 +156,4 @@ cython_debug/
 # VSCode stuff
 .vscode/
 settings.json
+.tool-versions

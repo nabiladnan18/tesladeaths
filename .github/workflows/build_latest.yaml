@@ -40,4 +40,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: ${{secrets.DOCKERHUB_USERNAME}}/tesladeaths:latest
+        tags: ${{secrets.DOCKERHUB_USERNAME}}/tesla_deaths:latest
