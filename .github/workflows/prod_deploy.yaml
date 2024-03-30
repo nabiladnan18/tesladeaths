@@ -58,9 +58,9 @@ jobs:
       - name: Deploy versioned image in EC2
         uses: appleboy/ssh-action@v1.0.3
         with:
-            host: ${{ secrets.EC2_HOST }}
-            username: ${{ secrets.EC2_USER }}
-            key: ${{ secrets.SSH_KEY }}
+            host: ${{ secrets.HOST }}
+            username: ${{ secrets.USERNAME }}
+            key: ${{ secrets.KEY }}
             fingerprint: ${{ secrets.FINGERPRINT }}
             script: |
                 docker rm -f tesla_deaths || true
