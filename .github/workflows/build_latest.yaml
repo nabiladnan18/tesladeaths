@@ -41,3 +41,22 @@ jobs:
         context: .
         push: true
         tags: ${{secrets.DOCKERHUB_USERNAME}}/tesla_deaths:latest
+        
+  test_connection:
+      environment:
+          name: test
+      env:
+          DOCKERHUB_USERNAME: ${{secrets.DOCKERHUB_USERNAME}}
+          DOCKERHUB_PASSWORD: ${{secrets.DOCKERHUB_PASSWORD}}
+      needs: build
+      runs-on: ubuntu-22.04
+      
+      steps:
+          - name: Test EC2 Connection
+            uses: appleboy/ssh-action@master
+            with:
+              host: ${{secrets.HOST}}
+              username: ${{secrets.USERNAME}}
+              key: ${{secrets.KEY}}
+              fingerprint: ${{secrets.FINGERPRINT}}
+              script: whoami
