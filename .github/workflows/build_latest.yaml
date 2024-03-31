@@ -52,11 +52,11 @@ jobs:
       runs-on: ubuntu-22.04
       
       steps:
-          - name: Test EC2 Connection
-            uses: appleboy/ssh-action@master
-            with:
-              host: ${{secrets.HOST}}
-              username: ${{secrets.USERNAME}}
-              key: ${{secrets.KEY}}
-              fingerprint: ${{secrets.FINGERPRINT}}
-              script: whoami
+      - name: Test EC2 Connection
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{secrets.HOST}}
+          username: ${{secrets.USERNAME}}
+          key: ${{secrets.KEY}}
+          fingerprint: ${{secrets.FINGERPRINT}}
+          script: whoami
