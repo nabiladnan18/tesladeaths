@@ -56,7 +56,7 @@ jobs:
     
     steps:
       - name: Deploy versioned image in EC2
-        uses: appleboy/ssh-action@v1.0.3
+        uses: appleboy/ssh-action@master
         with:
             host: ${{ secrets.HOST }}
             username: ${{ secrets.USERNAME }}
