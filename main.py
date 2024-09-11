@@ -74,7 +74,7 @@ grouped_df["Percentage"] = (grouped_df["Deaths"] / grouped_df["Deaths"].sum()) *
 
 pie_chart = (
     alt.Chart(
-        grouped_df, width=500, height=500, title="Percentage of deaths by country"
+        grouped_df, width=500, height=600, title="Percentage of deaths by country"
     )
     .mark_arc()
     .encode(
@@ -83,6 +83,7 @@ pie_chart = (
         theta="Percentage:Q",
     )
 )
+
 deaths_by_year = data.groupby("Year")["Deaths"].sum()
 mean_deaths_per_year = math.ceil(deaths_by_year.mean())
 # line_chart = pl.plot(
@@ -196,7 +197,7 @@ col2.metric(
 col3.metric(
     value=current_year_deaths,
     label="Deaths YTD",
-    delta=-int(last_year_deaths),
+    delta=-int(last_year_deaths - current_year_deaths),
     delta_color="inverse",
 )
 col4.metric(value=last_year_deaths, label="Deaths in previous year")
