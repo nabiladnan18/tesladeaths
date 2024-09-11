@@ -5,7 +5,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: nadnan18/tesla_deaths:v0.4
+    image: nadnan18/tesla_deaths:v0.5
     ports:
       - 8501:8501
     
