@@ -35,24 +35,17 @@ def get_table_elements(r: HTMLResponse) -> Element:
 
 
 def get_table_headers(table: Element) -> list:
-    table_headers = table.find("th")
+    table_headers = table.find("th")[:12]
 
     return [row.text for row in table_headers]
 
 
 def get_table_data(table: Element) -> list:
-    # Last 350 rows is empty/ contains uninteresting data
-    table_data = table.find("td")[:-350]
+    # The last 14 tr's do not have useful data
+    # The first tr has all the headings
+    table_data = table.find("tr")[1:-14]
 
-    rows = []
-    for i in list(range(0, len(table_data), 23)):
-        build_row = []
-        for index, data in enumerate(table_data[0 + i : 23 + i]):
-            if data.text.startswith("http"):
-                build_row.append(*data.links)
-            else:
-                build_row.append(data.text)
-        rows.append(build_row)
+    rows = [row.text.split("\n")[:12] for row in table_data]
 
     return rows
 
