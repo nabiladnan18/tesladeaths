@@ -1,389 +1,469 @@
-Case #,Year,Date,Country,State,Description,Deaths,Tesla driver,Tesla occupant,Other vehicle,Cyclists/ Peds,TSLA+cycl / peds,Model,AutoPilot claimed,Reported in NHTSA SGO,Verified Tesla Autopilot Death,Excerpt Verifying Tesla Autopilot Deaths,Source,Note,Deceased 1,Deceased 2,Deceased 3,Deceased 4
-377,2023,2023-11-15,USA,NC,Moped runs into Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20231117073442/https://www.wbtv.com/2023/11/15/police-moped-driver-dies-after-hickory-crash/,,,,,
-376,2023,2023-11-04,USA,WA,Tesla rolls over and hits enbankment,1,1,0,0,0,0,-,-,-,-,-,https://web.archive.org/web/20231106013012/https://www.thenewstribune.com/news/local/article281433003.html,,,,,
-375,2023,2023-11-03,USA,FL,Tesla hits a dislodged motorcyclist,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20231106001806/https://www.orangeobserver.com/news/2023/nov/03/motorcyclist-killed-in-horizon-west-crash/,,,,,
-374,2023,2023-10-30,USA,NY,Tesla hits multiple cars,1,0,1,0,0,0,-,-,-,-,-,https://web.archive.org/web/20231031221805/https://qns.com/2023/10/woman-killed-springfield-gardens-collision/,,,,,
-373,2023,2023-10-30,USA,NY,DUI,1,0,0,1,0,0,-,-,-,-,-,"https://web.archive.org/web/20231031221230/https://liherald.com/fivetowns/stories/pedestrain-fatal-on-rockaway-turnpike,199642",,,,,
-372,2023,2023-10-26,USA,CA,Motorcycle crashes into Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20231029022129/https://www.independent.com/2023/10/26/23-year-old-motorcyclist-killed-in-head-on-collision-with-tesla-in-lompoc/,,Joseph Cruz,,,
-371,2023,2023-10-14,UK,-,Cyclist hit by Tesla,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20231029015633/https://www.standard.co.uk/news/crime/cyclist-dies-crash-with-tesla-shoreditch-hackney-great-eastern-street-london-b1116587.html,,,,,
-370,2023,2023-10-14,USA,WA,Car hit by oncoming Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20231016052359/https://www.koin.com/local/washington-county/fatal-crash-investigation-washington-county-sheriffs-office-10132023/,,Balbina Andrade,,,
-369,2023,2023-10-14,USA,CA,Stolen Tesla hits minivan,2,1,0,1,0,1,-,-,-,-,-,https://web.archive.org/web/20231016051354/https://www.kcra.com/article/sacramento-county-crash-stolen-vehicle-tesla/45538410,,,,,
-368,2023,2023-10-13,USA,CA,"Tesla hits divider and tree, ignites",2,1,1,0,0,2,-,-,-,-,-,https://web.archive.org/web/20231017065742/https://www.fresnobee.com/news/local/article280582599.html,,Alfred Valles,Selina Valles,,
-367.1,2023,2023-10-12,USA,SC,"Tesla hits tress, catches fire",1,1,0,0,0,0,-,-,-,-,,https://archive.ph/gVgWJ,,William Hensley,,,
-367,2023,2023-10-10,USA,MA,Tesla hits car making u-turn,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20231015224632/https://www.foxbangor.com/news/national/entertainment/ygs-baby-mama-involved-in-fatal-crash-89-year-old-woman-killed/article_af36e0b6-76b5-5723-8e27-ace4752ef807.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share,,,,,
-366,2023,2023-10-04,USA,CA,"Head-on collision, Tesla catches fire",1,1,0,0,0,1,Y,-,-,-,-,https://web.archive.org/web/20231006051310/https://abc30.com/deadly-crash-roads-closed-highway-168-shepherd-avenue/13865530/,,,,,
-365,2023,2023-10-02,USA,CA,Tesla heading in wrong direction collides with car,2,1,0,1,0,1,3,-,-,-,-,https://web.archive.org/web/20231003070948/https://mynewsla.com/business/2023/10/02/2-killed-in-fiery-wrong-way-crash-on-91-freeway-in-corona/,,,,,
-364,2023,2023-09-30,USA,CA,Tesla hits pole,1,1,0,0,0,1,Y,-,-,-,-,https://web.archive.org/web/20230930225752/https://www.modbee.com/news/local/article279968219.html,,,,,
-363,2023,2023-09-25,USA,VA,Rear-end car crash,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20230908112310/https://www.wric.com/news/local-news/hanover-county/harley-davidson-motorcycle-driver-killed-in-head-on-crash-with-tesla-suv-in-hanover/,,Chris Clifford,,,
-361,2023,2023-09-24,USA,PA,Collision,3,0,0,0,0,0,-,-,-,-,-,https://web.archive.org/web/20230928143327/https://www.wtae.com/article/fayette-county-car-crash-shutting-down-springfield-pike/45293674#,,Raymond Ramage,Peter Zepf,Katelin Lorch,
-360,2023,2023-09-04,USA,VA,Motorcycle and Tesla head-on collide,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20230908112310/https://www.wric.com/news/local-news/hanover-county/harley-davidson-motorcycle-driver-killed-in-head-on-crash-with-tesla-suv-in-hanover/,,April Sawyer,,,
-359,2023,2023-09-01,USA,ID,Tesla crosses center line and hits oncoming car,4,1,2,1,0,4,-,-,-,-,-,https://web.archive.org/web/20230903192929/https://www.idahostatejournal.com/freeaccess/four-dead-including-juvenile-following-head-on-crash-on-local-highway/article_63543808-49ce-11ee-87c5-87efce25696a.html,,,,,
-358,2023,2023-08-29,USA,TX,Tesla crashes into wall of hospital,2,1,1,0,0,2,-,-,-,-,-,https://web.archive.org/web/20230830215719/https://abc13.com/fatal-crash-tesla-going-at-high-rate-of-speed-hits-concrete-wall-methodist-hospital-parking-lot-in-conroe-james-and-frances-adams-killed/13716132/,,Frances Adams,James Adams,,
-357.1,2023,2023-08-14,UK,-,Tesla hits bicyclist,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20231021152630/https://www.standard.co.uk/news/london/cyclist-killed-hackney-east-london-three-protest-gao-gao-b1114709.html,,,,,
-357,2023,2023-08-13,USA,NJ,Motorcycle hits Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20230815021316/https://dailyvoice.com/new-jersey/hudson/motorcyclist-killed-in-jersey-city-crash-authorities/,,,,,
-356,2023,2023-08-12,Germany,-,Tesla hits guardrail and burns,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20230813144004/https://www.bild.de/regional/muenchen/muenchen-aktuell/gegen-strommast-tesla-fahrer-verbrennt-in-seinem-auto-85028096.bild.html,,,,,
-355,2023,2023-08-12,USA,CA,Multi-car accident involving semi,1,0,0,0,0,0,-,-,-,-,-,https://web.archive.org/web/20230813141749/https://mynewsla.com/riverside/2023/08/12/one-killed-in-three-vehicle-crash-in-riverside/,,Oscar Mancillas Jr.,,,
-354,2023,2023-08-01,USA,CA,Motorcycle hits Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20230804213530/https://beverlypress.com/2023/08/motorcyclist-killed-in-crash/,,,,,
-353,2023,2023-07-31,USA,TX,Hit and run,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20230827000447/https://cw39.com/news/local/hpd-arrests-alleged-hit-and-run-driver-after-spotting-tesla-with-damage-miles-from-scene/,,,,,
-352,2023,2023-07-29,USA,UT,"Tesla crashes into tree, burns",3,1,2,0,0,3,-,-,-,-,-,https://web.archive.org/web/20230730173709/https://kutv.com/news/local/three-killed-after-vehicle-hits-tree-catches-fire-on-beck-street-tesla-speed-under-investigation-fully-engulfed-flames,,Robert Pikus,Joseph Torman,Joseph Vashaw,
-351,2023,2023-07-29,USA,TX,"Tesla crashes into tree, burns",1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20230730162837/https://abc13.com/del-rio-street-crash-car-hits-tree-near-old-spanish-trail-tesla-driver-dies-house/13569053/,,,,,
-350,2023,2023-07-22,USA,NC,Tesla crashes into trees,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20230727155857/https://www.wfmynews2.com/article/news/local/traffic-crash-fatality-westridge-road-jillian-daly/83-b240caba-a2b4-4f76-b21f-4f29061d50a6,,Jillian Daly,,,
-349,2023,2023-07-21,USA,VA,Tesla crashes into side of truck,1,1,0,0,0,1,Y,1,13781-5996,1,-,https://web.archive.org/web/20230723185542/https://www.fauquier.com/news/article_0383d91a-2732-11ee-842d-739e7da7cbcf.html,,Pablo Teodoro III,,,
-348,2023,2023-07-20,USA,CA,Multi-car accident,1,0,0,0,0,0,-,-,-,-,-,https://web.archive.org/web/20230723185529/https://www.alaturkanews.com/2023/07/22/grisly-multi-car-crash-kills-one-in-agoura-hills/?utm_source=dlvr.it&utm_medium=twitter,,,,,
-346,2023,2023-07-16,USA,FL,Tesla runs off road and crashes into pole,1,1,0,0,0,1,Y,-,-,-,-,https://web.archive.org/web/20230718162537/https://cbs12.com/news/local/man-killed-in-crash-light-pole-43-year-old-luciano-tozato-dos-reis-driver-hits-light-pole-in-high-speed-crash-in-delray-beach-july-17-2023,,,,,
-345,2023,2023-07-08,USA,MN,Speeding Tesla crashes into minivan,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20230710031846/https://www.fox9.com/news/suspect-who-took-off-from-officers-arrested-after-fatal-car-crash-in-robbinsdale,,,,,
-344,2023,2023-07-08,USA,CA,Tesla crashes in parking lot,3,1,2,0,0,3,-,-,-,-,-,https://web.archive.org/web/20230710030554/https://ktla.com/news/local-news/fiery-crash-into-parking-lot-of-elementary-school-in-murrieta-kills-3-seriously-injures-1/,,,,,
-343,2023,2023-07-08,Germany,-,Tesla crashes into trees,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20230709004928/https://www.bild.de/regional/hamburg/hamburg-aktuell/tragoedie-auf-dorfstrasse-tesla-zerrissen-fahrer-tot-84609120.bild.html?t_ref=https%3A%2F%2Fm.bild.de%2Fregional%2Fhamburg%2Fhamburg-aktuell%2Ftragoedie-auf-dorfstrasse-tesla-zerrissen-fahrer-tot-84609120.bildMobile.html,,,,,
-342.2,2023,2023-07-07,USA,CA,Tesla hits fire hydrant and burns,2,1,1,0,0,2,-,-,-,-,-,https://web.archive.org/web/20230713002619/https://fox5sandiego.com/traffic/one-dead-three-injured-in-suspected-dui-crash-on-sr-54/,,Amrik Wander,Arvind Ram,,
-342.1,2023,2023-07-07,USA,CA,Multi Car accident involving DUI,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20230713002619/https://fox5sandiego.com/traffic/one-dead-three-injured-in-suspected-dui-crash-on-sr-54/,,,,,
-342,2023,2023-07-05,USA,CA,Collision,2,0,1,1,0,1,3,-,13781-5835,2,-,https://web.archive.org/web/20230707171814/https://southtahoenow.com/story/07/06/2023/south-lake-tahoe-man-dies-two-vehicle-collision-pioneer-trail,,Andy Martinez,Baby Charlie,,
-341,2023,2023-07-04,USA,FL,Tesla crashes into divider,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20230705082401/https://www.wesh.com/article/417-crash-fire/44433797,,,,,
-340,2023,2023-07-01,Italy,-,Tesla drives into opposite lane,1,0,0,1,0,0,-,-,-,-,-,https://archive.is/OWzOk,,Simona Cardone,,,
-339,2023,2023-07-01,France,-,Tesla hits tree,1,1,0,0,0,1,S,-,-,-,-,https://web.archive.org/web/20230703020525/https://www.lindependant.fr/2023/06/28/deces-de-jean-basptiste-desssort-le-youtubeur-auto-teste-une-tesla-quand-il-a-percute-un-arbre-la-voiture-sest-embrasee-11306896.php,,Jean-Bapiste Dessort,,,
-338,2023,2023-06-29,USA,NY,"Tesla crashes into house, explodes",2,0,0,0,0,0,X,-,-,-,-,https://web.archive.org/web/20230706063522/https://www.syracuse.com/crime/2023/07/two-dead-after-tesla-crashes-and-catches-home-on-fire-in-upstate-ny-troopers-say.html,,Peter E. Lasher,,,
-337.1,2023,2023-06-26,USA,WA,"Tesla hits trees, ignites",1,1,0,0,0,0,,-,-,-,-,https://web.archive.org/web/20230908112120/https://www.spokesman.com/stories/2023/sep/05/deadly-tesla-crash-in-spokane-county-used-as-a-tes/,,,,,
-337,2023,2023-06-26,USA,CA,Tesla t-bones car,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20230628185615/https://roundtable.io/keynewsnetwork/uncategorized/suspects-allegedly-attempt-to-flee-scene-of-high-speed-fatal-crash,,,,,
-336,2023,2023-06-22,USA,MD,Tesla crashes into divider,1,1,0,0,0,0,-,-,-,-,-,https://web.archive.org/web/20230624062654/https://www.cbsnews.com/baltimore/news/man-dead-after-car-crash-in-howard-county/,,,,,
-335.1,2023,2023-06-20,USA,CA,Car collides with Tesla,1,0,0,1,0,0,Y,-,13781-5785,1,-,https://web.archive.org/web/20230818021810/https://www.kcra.com/article/at-least-1-person-killed-wrong-way-crash-highway-99-turlock/44266539,,,,,
-335,2023,2023-06-15,USA,FL,Tesla loses control and hits divider,1,1,0,0,0,0,-,-,-,-,-,https://web.archive.org/web/20230615182825/https://www.nbcmiami.com/news/local/1-dead-9-injured-after-8-car-crash-shuts-down-i-95-southbound-lanes-in-miami/3054413/,,,,,
-334,2023,2023-06-14,USA,CA,"Tesla loses control and hits tree, catches fire",2,1,1,0,0,0,Y,-,-,-,-,https://web.archive.org/web/20230625201130/https://www.kron4.com/news/bay-area/mother-and-daughter-killed-in-santa-clara-tesla-crash/,,Beidi Chambers,Elyse Chambers,,
-333,2023,2023-06-13,USA,CA,Tesla rolls off road and hits culvert,1,1,0,0,0,0,-,-,-,-,-,https://web.archive.org/web/20230614031939/https://www.yourcentralvalley.com/news/local-news/identified-sanger-pd-officer-killed-in-tesla-crash/,,Manvir (Manny) Dhanoa,,,
-332,2023,2023-06-11,USA,NY,Tesla rolls off road,4,1,3,0,0,4,-,-,-,-,-,https://web.archive.org/web/20230611223547/https://www.iheartradio.ca/virginradio/edmonton/3-killed-3-injured-in-early-morning-south-edmonton-crash-1.19772123,,,,,
-331,2023,2023-06-11,USA,MA,Motorcycle crashes into Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20230613053121/https://www.capecod.com/cape-wide-news/breaking-serious-crash-at-bearses-way-and-enterprise-way-in-hyannis/,,,,,
-330,2023,2023-06-07,USA,NY,Tesla hits pedestrian,1,0,0,0,1,1,-,-,13781-5685,1,-,https://web.archive.org/web/20230609015334/https://www.nydailynews.com/new-york/nyc-crime/ny-teen-tesla-fatal-crash-brooklyn-sidewalk-midwood-20230608-6ouzrgdtwreflhneajwzq36pv4-story.html,,Milorad Rajacic,,,
-329,2023,2023-06-06,USA,OR,"Tesla drifts off interstate, hits tree, catches fire",1,1,0,0,0,1,S,-,13781-5673,1,-,https://web.archive.org/web/20230607004716/https://ktvl.com/news/local/osp-driver-dies-after-tesla-drifts-off-roadway-and-crashes-into-tree-catches-on-fire,,,,,
-328,2023,2023-05-31,USA,CA,SUV and Tesla collide,2,1,0,1,0,1,-,-,-,-,-,https://web.archive.org/web/20230601002229/https://www.mercurynews.com/2023/05/30/two-killed-in-crash-on-highway-1-in-san-mateo-county/,,Patricio Cabrera Jr.,James Willis,,
-327,2023,2023-05-28,USA,IL,Tesla hits ejected motorcyclist,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20230529224206/https://www.whio.com/news/local/cincinnati-man-dies-after-being-ejected-motorcycle-hit-by-tesla-sr-133/5KX4LIB3CRBD5ENU4MRK7HHMTQ/,,,,,
-326,2023,2023-05-23,USA,CT,Tesla crashes in nine cars,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20230524042938/https://www.nbcconnecticut.com/news/local/man-dead-after-tesla-collides-with-9-vehicles-in-new-haven/3037187/,,Christopher Andreozzi,,,
-325,2023,2023-05-22,USA,GA,"Tesla crashes into woods, catches fire",2,1,1,0,0,2,-,-,-,-,-,https://web.archive.org/web/20230715034525/https://www.wtvm.com/video/2023/05/22/two-dead-following-car-crash-near-hancock-road-columbus/,Names of deceased came from a relative's email,Toan Nguyen,Phong Do,,
-324.1,2023,2023-05-15,UK,-,Cyclist hit by Tesla,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20230531234142/https://www.echo-news.co.uk/news/23558904.fatal-crash-bronte-road-witham-sees-man-arrested/?ref=twtrec,,,,,
-324,2023,2023-05-14,USA,CA,SUV filled with family members and Tesla collide,3,0,0,3,0,0,-,-,-,-,-,https://web.archive.org/web/20230516053944/https://www.thetelegraph.com/news/article/3-members-of-california-family-killed-6-others-18099000.php,,,,,
-323,2023,2023-05-13,USA,OR,Tesla collides with tow truck,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20230512160402/https://www.portlandoregon.gov/police/news/read.cfm?id=492865,,Daniel Q. London,,,
-322,2023,2023-05-07,Ireland,-,Tesla and motorbike collide,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20230514213539/https://eastpdxnews.com/general-news-features/tesla-driver-dies-in-brentwood-darlington-smashup/,,Connor McGrugan,,,
-321,2023,2023-05-05,USA,CA,Motorcycle crashes into Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20230509040720/https://www.vcstar.com/story/news/2023/05/06/motorcycle-rider-killed-in-thousand-oaks-crash-with-tesla/70191220007/,,,,,
-320,2023,2023-05-05,China,-,"Tesla hits barrier, DUI",2,1,1,0,0,2,-,-,-,-,-,https://web.archive.org/web/20230515010237/https://taiwanenglishnews.com/2-killed-tesla-disintegrates-in-high-speed-drunk-driving-crash-on-taichung-city-expressway/,,,,,
-319,2023,2023-04-30,USA,NJ,Collision,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20230504150922/https://patch.com/new-jersey/oceancity/fatal-taxi-crash-atlantic-city-under-investigation-prosecutor?utm_source=twitter&utm_medium=web&utm_campaign=share,,,,,
-318,2023,2023-04-25,USA,CA,Tesla hits electric bike,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20230426154420/https://www.nbcbayarea.com/news/local/east-bay/electric-bike-crash-with-tesla/3214480/,,,,,
-317,2023,2023-04-23,USA,CA,Multi Car crash,2,0,0,2,0,0,3,-,13781-5372,2,-,https://web.archive.org/web/20230426152841/https://www.nbcsandiego.com/news/adult-infant-dead-in-crash-on-i-15-near-fallbrook-traffic-delayed-for-hours/3214209/,,,,,
-316,2023,2023-04-18,USA,CT,"Tesla hits car, car crashes into median",1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20230420202913/https://www.nbcconnecticut.com/news/local/state-police-seek-witnesses-to-fatal-i-84-crash-in-southington/3017558/,,,,,
-315,2023,2023-04-17,USA,TX,Two car collision,1,1,1,0,0,1,3,-,-,-,-,https://web.archive.org/web/20230418204302/https://www.cbs7.com/2023/04/17/man-dies-crash-42nd-tanglewood/,,Zachary Rosier,,,
-314,2023,2023-04-14,USA,AL,Tesla crashes into semi,2,1,1,0,0,2,-,-,-,-,-,https://web.archive.org/web/20230504150936/https://abc3340.com/news/local/two-teens-killed-in-early-morning-crash-in-tuscaloosa-police-department-accident-fatal-skyland-boulevard-tesla,,Madison Shaque,Samuel Brown,,
-313,2023,2023-04-03,USA,CA,Fiery crash,1,0,1,0,0,1,X,-,-,-,-,https://web.archive.org/web/20230407223548/https://www.cbsnews.com/losangeles/news/authorities-id-woman-killed-in-fiery-tesla-crash-on-sunset-boulevard/,,Monica Hyun Mi Suh,,,
-312.1,2023,2023-03-28,USA,CA,Pickup hits Tesla,1,0,0,0,0,1,-,-,13781-5165,1,-,https://web.archive.org/web/20230714010457/https://nbcpalmsprings.com/2023/03/29/man-killed-in-crash-at-corona-intersection/,,,,,
-312,2023,2023-03-25,USA,CA,Hit and run,1,0,0,0,1,1,3,-,-,-,-,https://web.archive.org/web/20230327204530/https://www.ksat.com/news/local/2023/03/25/sapd-tesla-driver-strikes-kills-man-on-sidewalk-and-crashes-into-building/,,Erik Michael Moody,,,
-311.1,2023,2023-03-15,USA,NJ,"Tesla hits tree during snow storm, ignites",1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20230521005524/https://dailyvoice.com/new-jersey/cresskill/news/bergen-county-man-killed-in-electric-car-crash-that-ignited-hours-long-battery-fire-on-pip/827878/,,,,,
-311,2023,2023-03-12,USA,UT,Car hits Tesla that crashed into cable barrier; inclement weather,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20230313171801/https://www.abc4.com/news/central-utah/uhp-investigating-serious-crash-southbound-i-15-closed/,,,,,
-310,2023,2023-02-25,USA,MO,Tesla hits turning car,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20230509040040/https://www.stltoday.com/news/local/crime-and-courts/woman-dies-days-after-crash-near-downtown-st-louis/article_90bb4fa5-07b0-54fd-aa47-17b37228be13.html,,Molly Zerjal,,,
-309,2023,2023-02-25,USA,CA,Collision,2,1,1,0,0,2,-,-,-,-,-,https://web.archive.org/web/20230304112448/https://www.thedailytimes.com/news/two-dead-two-injured-following-alcoa-highway-crash/article_6b561436-a654-11ed-a0c8-53602b15a8ae.html,,,,,
-308,2023,2023-02-21,USA,DC,Multi-car crash,1,1,0,0,0,1,3,-,-,-,-,https://web.archive.org/web/20230304195804/https://twitter.com/SegravesNBC4/status/1630243764852899842,,Mohammed Islam,,,
-307,2023,2023-02-20,USA,ID,Tesla drives into embankment,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20230304195927/https://www.bigcountrynewsconnection.com/idaho/man-dies-after-driving-tesla-over-embankment-in-north-idaho/article_b834f33c-b390-11ed-97c1-c38c3a85c0ce.html,,,,,
-306,2023,2023-02-20,USA,CA,Tesla drives into opposite lane,3,0,2,1,0,2,-,-,-,-,-,https://web.archive.org/web/20230304162006/https://kyma.com/news/2023/02/21/three-people-dead-in-wrong-way-car-crash/,,,,,
-305,2023,2023-02-18,USA,CA,Tesla crashes into fire truck,1,1,0,0,0,1,-,1,13781-4963,1,-,https://web.archive.org/web/20230304234722/https://www.cbsnews.com/sanfrancisco/news/1-dead-5-injured-including-firefighters-when-tesla-slams-into-fire-truck-on-i-680/,,,,,
-304,2023,2023-02-17,China,-,"Tesla lands on front end, crashes into vehicles",1,0,1,0,0,0,3,-,-,-,-,https://web.archive.org/web/20230305001533/https://cnevpost.com/2023/02/17/tesla-model-3-crashes-after-high-speed-driving/,,,,,
-303,2023,2023-02-17,USA,NY,Tesla collides with car head-on,4,1,1,2,0,2,-,-,-,-,-,https://web.archive.org/web/20230305005137/https://suffolktimes.timesreview.com/2023/02/four-dead-friday-night-in-head-on-collision-in-east-marion/,,Heath Miller,William Price,Peter R. Smith,Patricia A. O’Neill
-302,2023,2023-02-15,USA,CO,Four vehicle collision,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20230305004551/https://www.denverpost.com/2023/02/14/boulder-crews-responding-to-crash-at-colo-93-and-marshall-road/amp/,,,,,
-301,2023,2023-02-14,USA,NJ,Pickup hits Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20230305005946/https://dailyvoice.com/new-jersey/somerset/police-fire/27-year-old-man-killed-in-route-78-crash/856663/,,,,,
-300,2023,2023-02-07,USA,TN,Two-car collision,2,1,1,0,0,2,,-,-,-,-,https://web.archive.org/web/20230305005316/https://www.thedailytimes.com/news/two-dead-two-injured-following-alcoa-highway-crash/article_6b561436-a654-11ed-a0c8-53602b15a8ae.html,,Frank Winkler,Nancy Winkler,,
-299,2023,2023-01-31,USA,PA,Speeding Tesla hits pedestrian,1,0,0,0,1,1,3,-,-,-,-,https://web.archive.org/web/20230305005233/https://www.fox29.com/news/police-driver-sought-in-deadly-philadelphia-hit-and-run-ditched-bloodstained-hoodie-under-parked-car,,,,,
-298,2023,2023-01-30,USA,MO,Speeding Tesla crashes into car,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20230130231416/https://www.ozarksfirst.com/news/tesla-driver-accused-of-going-94-mph-killing-1-in-springfield/,,,,,
-297,2023,2023-01-21,USA,CA,Tesla crashes into resident's pool,1,1,0,0,0,1,-,-,-,-,-,https://archive.is/r4ida,,,,,
-296,2023,2023-01-17,USA,CA,Tesla crashes into back of semi,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20230118162813/https://www.vvng.com/driver-of-tesla-killed-after-slamming-into-back-of-semi-truck-in-victorville/,,,,,
-295,2023,2023-01-07,Canada,-,Tesla crashes,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20230109041434/https://canadatoday.news/bc/video-a-fatal-accident-closes-the-fraser-highway-in-the-murrayville-neighborhood-of-langley-9-117454/,,Taren Singh Lal,,,
-294,2023,2023-01-07,USA,WA,"Tesla hits pole, catches on fire",1,0,1,0,0,1,-,-,-,-,-,https://web.archive.org/web/20230107232745/https://www.thenewstribune.com/news/local/article270899982.html,,,,,
-293.1,2023,2023-01-07,USA,WA,"Tesla hits pole, ignites",1,0,1,0,0,1,-,-,-,-,-,https://archive.is/uIT44#selection-1683.66-1683.79,,,,,
-293,2022,2022-12-22,USA,GA,Tesla crashes and burns,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20221222203930/https://wfxl.com/news/local/man-dies-after-single-vehicle-accident-car-fire-in-lee-county-flowing-well-tesla-fatality-electric-car,,,,,
-292,2022,2022-12-19,Canada,-,Tesla crashes into storefront,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20221223203725/https://www.thesuburban.com/news/west_island_news/eyewitness-account-of-fatal-car-crash-in-lachine/article_a68b9e52-3ae4-55fb-8b2d-5cfcd1bcddd2.html,,,,,
-291,2022,2022-12-18,USA,CA,Tesla hit two other cars,1,0,1,0,0,0,-,-,-,-,-,https://web.archive.org/web/20221213060612/https://mynewsla.com/crime/2022/12/12/girl-fatally-injured-in-menifee-crash-identified-2/,,,,,
-290,2022,2022-12-17,USA,CA,Tesla hits pedestrian on highway,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20221213060612/https://mynewsla.com/crime/2022/12/12/girl-fatally-injured-in-menifee-crash-identified-2/,,,,,
-289,2022,2022-12-11,USA,CA,Tesla crashes into wall,1,1,0,0,0,0,-,-,-,-,-,https://web.archive.org/web/20221213060612/https://mynewsla.com/crime/2022/12/12/girl-fatally-injured-in-menifee-crash-identified-2/,,Clarissa Lewis,,,
-288,2022,2022-12-11,USA,MO,Collision at intersection,1,0,0,1,0,0,-,-,-,-,-,https://www.ky3.com/2022/12/04/springfield-police-identify-woman-who-died-crash-glenstone-near-i-44/?outputType=amp,,Rita Deckard,,,
-287,2022,2022-12-06,Canada,-,"Tesla veers, collides with truck",1,1,0,0,0,0,-,-,-,-,-,https://web.archive.org/web/20221201065037/https://www.carscoops.com/2022/11/another-speeding-tesla-model-y-rams-into-two-cars-killing-two-in-china/,,,,,
-286,2022,2022-11-28,China,-,"Tesla runs red light, collides with two cars",2,0,0,2,0,0,Y,-,-,-,-,https://web.archive.org/web/20221201065037/https://www.carscoops.com/2022/11/another-speeding-tesla-model-y-rams-into-two-cars-killing-two-in-china/,,,,,
-285,2022,2022-11-27,USA,CA,"Tesla careens off road, hits trees",1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20221127191022/https://www.mercurynews.com/2022/11/27/man-22-killed-when-tesla-vehicle-careens-off-roadway-south-of-san-jose/,,,,,
-284,2022,2022-11-26,USA,AR,Tesla hits pedestrian,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20221201055652/https://www.nwahomepage.com/news/71-year-old-bentonville-man-dies-after-hit-by-vehicle/,,Donald McLaughlin,,,
-283,2022,2022-11-18,China,-,Tesla crashes into dump truck,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20221120105724/https://www.breakinglatest.news/business/the-driver-of-a-tesla-in-wenzhou-was-killed-in-a-tragic-accidentofficial-bulletin-quick-technology-technology-changes-the-future/,,,,,
-282,2022,2022-11-12,Mexico,-,Tesla hits Toyota,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20221112163911/https://www.elnuevodia.com/noticias/seguridad/notas/muere-un-joven-de-18-anos-en-un-accidente-de-transito-en-dorado/,,Carlos Manuel Fuentes Rodríguez,,,
-281,2022,2022-11-12,USA,CA,Multi-vehicle accident,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20221113202115/https://www.villagenews.com/story/2022/11/10/news/motorcyclist-killed-in-hit-and-run-fallbrook-crash/71551.html,,,,,
-280,2022,2022-11-11,USA,CA,"Tesla hits wall, catches fire",1,0,1,0,0,0,-,1,-,-,-,https://web.archive.org/web/20221111234459/https://www.cbsnews.com/losangeles/news/1-dead-2-injured-after-car-bursts-into-flames-during-multi-car-crash-in-garden-grove/,,,,,
-279,2022,2022-11-05,China,-,Out of control Tesla hits bicyclist and motorcyclist,2,0,0,1,1,1,-,-,-,-,-,https://web.archive.org/web/20221113202525/https://www.reuters.com/business/autos-transportation/tesla-says-it-will-assist-police-probe-into-fatal-crash-china-2022-11-13/,,,,,
-278,2022,2022-11-04,USA,IL,"Collision at intersection, Tesla driver dies in hospital",1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20221119044327/https://www.lakemchenryscanner.com/2022/11/18/73-year-old-man-dies-over-a-week-after-serious-crash-in-barrington-hills/,,Charles Dietz Jr.,,,
-277,2022,2022-10-19,USA,CA,Multi-car crash,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20221020201801/https://www.kget.com/traffic/1-dead-in-tesla-battery-fire-near-outlets-at-tejon/,,,,,
-276,2022,2022-10-18,USA,FL,"Tesla collides with minivan, engulfed by flames",4,1,1,2,0,2,-,-,-,-,-,https://web.archive.org/web/20221020002232/https://www.wptv.com/news/treasure-coast/region-martin-county/florida-highway-patrol-investigates-how-deadly-tesla-minivan-crash-occurred-in-martin-county,,,,,
-275,2022,2022-10-12,UK,-,Tesla crashes into ditch,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20221013123559/https://www.northantstelegraph.co.uk/news/people/wellingborough-tesla-driver-killed-after-car-crashes-into-lincolnshire-ditch-3878243,,,,,
-274,2022,2022-10-09,USA,CA,Tesla hits concrete block,1,0,1,0,0,1,-,-,-,-,-,https://web.archive.org/web/20221010045055/https://kion546.com/news/2022/10/09/woman-dies-in-hollister-crash-and-the-man-behind-the-wheel-is-arrested/,,,,,
-273,2022,2022-10-01,USA,FL,Tesla hits tree and catches fire,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20221001225631/https://www.mysuncoast.com/2022/10/01/driver-dies-when-tesla-catches-fire-crash-i-75/,,,,,
-272,2022,2022-09-18,USA,SC,"Tesla crashes into tree, ignites",2,1,1,0,0,2,-,-,-,-,-,https://archive.ph/eVnc8,,,,,
-271,2022,2022-09-18,USA,MD,Multi-car accident,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220919011338/https://www.wmar2news.com/news/local-news/1-killed-in-multi-vehicle-crash-in-montgomery-county,,Sandra Lorena Morales De Arevala,,,
-270,2022,2022-09-16,USA,GA,"Tesla loses control and crashes into bus shelter, kills man inside",1,0,0,0,1,1,-,1,-,-,-,https://web.archive.org/web/20220817115235/https://www.ajc.com/news/1-dead-after-tesla-driver-loses-control-hits-man-at-cobb-bus-shelter/TLV4M4XY5BHWVAO77GGSM5Y24M/,,,,,
-269,2022,2022-09-13,USA,CA,Tesla runs off highway,1,1,0,0,0,1,3,1,13781-4011,1,-,NHTSA SGO,,Jeff Robertson,,,
-268,2022,2022-09-12,USA,NY,"Tesla runs off road, catches fire",1,1,0,0,0,0,-,-,-,-,-,https://web.archive.org/web/20230504151027/https://www.nyspnews.com/state-police-are-investigation-one-car-fatal-motor-vehicle-accient-on-county-route-5-town-dickinson.htm,Received confirmation from family friend that it was a Tesla,Michael J. Irrera,,,
-267,2022,2022-09-07,USA,CA,Motorcycle collides with Tesla,1,1,0,0,0,0,-,-,-,-,-,https://archive.ph/qp3oz,,,,,
-266.1,2022,2022-09-12,USA,FL,[REDACTED],1,0,0,0,0,0,Y,-,"13781-5248 | Currently marked as [Unknown] for ""Automated System Engaged?""",1,-,NHTSA SGO,,,,,
-266,2022,2022-08-30,USA,CA,Tesla hits motorcycle,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220909100041/https://www.cbsnews.com/sanfrancisco/news/man-riding-dirt-bike-in-san-jose-dies-in-collision-with-tesla/,,,,,
-265,2022,2022-08-26,USA,FL,Tesla hits motorcycle,1,0,0,1,0,0,3,1,13781-3713,1,-,https://web.archive.org/web/20220826192806/https://bocanewsnow.com/2022/08/26/boca-ratons-ingrid-noon-killed-motorcycle-struck-by-tesla/,,Ingrid Noon,,,
-264,2022,2022-08-24,USA,MA,Motorcyclist hits Tesla,1,0,0,1,0,0,-,-,-,-,-,https://archive.ph/LIuuq,,,,,
-263,2022,2022-08-23,USA,SC,Multi-car accident on highway,2,0,0,2,0,0,3,2,13781-3710,2,-,https://web.archive.org/web/20221019005507/https://www.wbtw.com/news/state-regional-news/2-dead-3-injured-after-box-truck-rear-ends-motorcycle-then-hits-tesla-in-south-carolina/,,,,,
-262,2022,2022-08-21,UK,-,"Car drives thru garage, hits Tesla, lands on railroad tracks",1,0,0,1,0,0,-,,-,-,-,https://web.archive.org/web/20220822181849/https://www.telegraph.co.uk/news/2022/08/22/woman-dies-range-rover-ends-tube-line-crash-tesla/,,,,,
-261,2022,2022-08-20,USA,FL,"Tesla swerves, runs off roadway, overturns",1,1,0,0,0,1,S,,-,-,-,https://web.archive.org/web/20220822002546/https://www.wflx.com/2022/08/21/1-dead-1-seriously-injured-crash-near-lake-worth-beach/,,Guy Ludgy Barbancourt,,,
-260,2022,2022-08-20,USA,FL,Pedestrian hit in road,1,0,0,0,1,1,-,,-,-,-,https://web.archive.org/web/20220820202436/https://www.clickorlando.com/traffic/2022/08/20/man-dies-after-being-struck-while-crossing-university-boulevard-troopers-say/,,,,,
-259,2022,2022-08-16,Germany,-,"Tesla car crashes into tree, burns",3,0,0,0,0,3,-,,-,-,-,https://web.archive.org/web/20220820195541/https://www.tag24.de/nachrichten/unfall/tesla-kracht-gegen-baum-und-brennt-aus-zwei-tote-und-drei-schwerverletzte-2584180,,,,,
-258,2022,2022-08-14,USA,CA,Tesla veers into oncoming traffic,4,1,3,0,0,4,-,,-,-,-,https://web.archive.org/web/20220820182847/https://www.ksbw.com/article/hollister-crash-kills-4-tesla-big-rig/40898893,,,,,
-257,2022,2022-08-14,Finland,-,Unlicensed driver hits pedestrian,1,0,0,0,1,1,-,,-,-,-,https://web.archive.org/web/20220820195407/https://yle.fi/uutiset/3-12576787,,,,,
-256,2022,2022-08-02,USA,FL,Man in wheelchair hit crossing road,1,0,0,0,1,1,3,,-,-,-,https://web.archive.org/web/20220817110831/https://www.wfla.com/news/man-in-wheelchair-fatally-struck-by-suv-tesla-in-pasco-county/,,,,,
-255,2022,2022-07-27,Canada,-,Tesla hits cyclist,1,0,0,0,1,1,-,,-,-,-,https://web.archive.org/web/20220815224835/https://viewpointvancouver.ca/2022/08/15/one-pedestrian-death-a-month-in-vancouver-vision-zero-at-least-you-are-talking-to-each-other/,,Sarah Lutgens,,,
-254,2022,2022-07-27,USA,ME,Tesla crashes at high speed,1,1,0,0,0,1,-,,-,-,-,https://web.archive.org/web/20220817110830/https://www.boothbayregister.com/article/southport-accident-victim-named/163623,,James Pener,,,
-253,2022,2022-07-24,USA,UT,Tesla hits motorcycle,1,0,0,1,0,0,3,1,13781-3488,1,-,https://web.archive.org/web/20220817110830/https://www.ksl.com/article/50445474/motorcyclist-dies-in-i-15-collision-with-tesla-on-autopilot-uhp-says,,Landon Embry,,,
-252,2022,2022-07-16,USA,PA,Tesla goes airborne and crashes,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817110830/https://www.wpxi.com/news/local/least-1-person-killed-fatal-crash-pine-township/ARDDKESNLZAX7EABJBPELT4KZY/?outputType=amp,,Douglas David Rockacy,,,
-251,2022,2022-07-12,China,-,Out of control Tesla hits pedestrians,2,0,0,0,2,2,Y,-,-,-,-,https://web.archive.org/web/20220817110831/https://whatchinareads.com/article/?uid=00e9b6f6ff4d11ec98bbc7030b3aab5e,,,,,
-250,2022,2022-07-08,USA,CA,3-car accident involving Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817110916/https://fox5sandiego.com/traffic/82-year-old-killed-in-rollover-crash-identified/,,,,,
-249,2022,2022-07-08,USA,HA,Motorcycle crashes into Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817110831/https://www.staradvertiser.com/2022/07/09/breaking-news/kihei-man-46-dead-after-motorcycle-collision-in-wailuku/,,Jeremy Caballero,,,
-248,2022,2022-07-07,USA,CA,Motorcycle hit by Tesla,1,0,0,1,0,0,Y,1,13781-3488,1,-,https://web.archive.org/web/20220817110830/https://www.msn.com/en-us/autos/news/91-freeway-closed-for-crash-that-killed-motorcycle-rider-in-riverside/ar-AAZk1Fs?cvid=11ebd5855f384f6688f82574f84937e4,,Marvin Walker,,,
-247,2022,2022-07-06,USA,FL,Tesla hits parked tractor-trailer,2,1,1,0,0,2,S,2,13781-3327,2,-,https://web.archive.org/web/20220817111255/https://mycbs4.com/news/local/two-people-killed-in-i-75-accident-after-car-collides-into-semi-truck,,,,,
-246,2022,2022-07-05,USA,GA,"Tesla strikes pole, burns",1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817111312/https://www.11alive.com/article/news/local/atlanta-crash-ralph-d-abernathy/85-c224cf65-b2ef-47b7-8bad-facb0fa5a329,,,,,
-245,2022,2022-06-26,USA,CA,Tesla drives into opposite lane,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817110848/https://www.sacramentoinjuryattorneysblog.com/fatal-motorcycle-crash-near-farmington/,,Mike Vargas Sr.,,,
-244,2022,2022-06-20,USA,AL,Tesla crashes into car,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817110831/https://www.wkrg.com/mobile-county/mobile-man-killed-in-crash-off-dawes-road/,,Kaleb D. Dawson,,,
-243,2022,2022-06-20,USA,PA,Tesla hit and run,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20220817110832/https://www.nbcphiladelphia.com/news/local/woman-struck-and-killed-by-hit-and-run-vehicle-in-germantown/3276232/,,,,,
-242,2022,2022-06-20,Canada,-,Tesla runs into overpass,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817110830/https://montreal.ctvnews.ca/highway-40-partially-closed-after-fiery-collision-between-car-overpass-1.5954326,,,,,
-241,2022,2022-06-19,USA,MI,"Tesla hits telephone pole, ignites",2,1,1,0,0,2,-,-,-,-,-,https://web.archive.org/web/20220817110830/https://montreal.ctvnews.ca/highway-40-partially-closed-after-fiery-collision-between-car-overpass-1.5954326,,"Candice Marie Rajala,",Eric Joseph Roycroft,,
-240,2022,2022-06-17,USA,CA,Head-on collision,2,1,1,0,0,2,-,-,-,-,-,https://web.archive.org/web/20220817110830/https://www.kget.com/news/crime-watch/ex-tehachapi-city-council-candidate-killed-in-crash/,,James Clinton Davies,Alex Francisco Cuesta,,
-239,2022,2022-06-14,USA,CA,Tesla moves into opposite lane and head-on crashes,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817111253/https://www.turnto23.com/news/local-news/one-person-was-killed-in-a-collision-on-highway-178,,Peggy K. Agaplou,,,
-238,2022,2022-06-13,USA,CA,Two-car collision,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817111306/https://www.latimes.com/socal/daily-pilot/news/story/2022-06-13/newport-coast-woman-dead-after-traffic-collision,,,,,
-237,2022,2022-06-07,USA,CA,DUI crash,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20220817111343/https://www.sandiegouniontribune.com/news/public-safety/story/2022-06-07/pedestrian-suffers-life-threatening-injuries-in-kearny-mesa-crash-driver-arrested-accused-of-dui,,,,,
-236,2022,2022-06-03,USA,NV,Motorcycle crashes into Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817111252/https://www.reviewjournal.com/local/summerlin/motorcyclist-killed-in-summerlin-crash-2586936/,,,,,
-235,2022,2022-06-12,USA,NJ,[REDACTED],1,0,0,0,0,1,3,1,13781-3513,1,-,NHTSA SGO,,,,,
-234,2022,2022-05-28,USA,NY,Tesla DUI crash,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817111305/https://www.timesunion.com/news/article/Incident-shuts-down-Northway-in-Colonie-overnight-17206453.php,,Katryn R. Fisher,,,
-233,2022,2022-05-28,USA,OR,Tesla loses control and crashes into car,2,1,0,1,0,1,Y,-,-,-,-,https://web.archive.org/web/20220531173206/https://www.koin.com/news/crashes/seaside-teacher-26-dies-after-tesla-crash-on-hwy-26/,,Fredrick Scheffler II,Kyle Rieger,,
-232,2022,2022-05-28,USA,CA,Speeding tesla crashes into tree,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817111345/https://www.nytimes.com/2022/05/27/us/politics/california-senate-candidate-odowd-musk.html,,,,,
-231,2022,2022-05-25,USA,OR,Tesla crashes into pole,1,0,1,0,0,1,S,-,-,-,-,https://web.archive.org/web/20220817111704/https://katu.com/news/local/passenger-dies-when-milwaukie-oregon-man-crashes-tesla-model-s-into-power-pole-north-of-diamond-lake-highway-138e-douglas-county,,Koelby Edlund,,,
-230,2022,2022-05-23,USA,AZ,Tesla driver hit in multi-car accident,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817111344/https://ktar.com/story/5071099/crash-closes-interstate-17-in-north-phoenix-for-hours/,,,,,
-229,2022,2022-05-21,China,-,Tesla hits pedestrian,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20220817111359/https://transitjam.com/2022/05/21/tesla-driver-arrested-after-woman-killed-at-fanling-pedestrian-crossing/,,Ms. Au,,,
-228,2022,2022-05-19,USA,NJ,"Tesla hits trees, ignites",1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817111406/https://www.nj.com/cumberland/2022/05/south-jersey-driver-killed-after-tesla-hits-trees-catches-fire.html,,Daniel Sincavage,,,
-227,2022,2022-05-19,USA,NJ,Multiple car crash on highway,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817111343/https://www.rlsmedia.com/article/update-shorts-hills-resident-killed-after-his-tesla-rear-ended-tractor-trailer-route-24,,David M. Baum,,,
-226,2022,2022-05-18,USA,CA,Tesla hits pedestrian,1,0,0,0,1,1,3,1,13781-3279,1,-,https://web.archive.org/web/20220817111726/https://www.facebook.com/CHPCAPISTRANO/posts/373120718175800,,,,,
-225,2022,2022-05-17,USA,CO,Fiery crash,1,1,0,0,0,1,3,1,13781-3074,1,-,https://web.archive.org/web/20220815212600/https://api.nhtsa.gov/complaints/odinumber?odinumber=11466262 and https://web.archive.org/web/20220820183319/https://mymountaintown.com/forum/46-scanner-emergency-info-weather-forecasts/340695-accident-and-car-fire-on-upper-bear-creek-rd-evergreen%23392626,,,,,
-224,2022,2022-05-12,Australia,-,Tesla hits electric bike who dies 5 days later from injuries,1,0,0,0,1,1,X,-,-,-,-,https://web.archive.org/web/20220817112042/https://thewest.com.au/news/fatal-crash-involving-tesla-in-perths-east-c-6861739,,,,,
-223,2022,2022-05-12,USA,CA,Tesla smashes into construction equipment,3,1,2,0,0,3,S,1,-,-,-,https://web.archive.org/web/20220817111727/https://www.pressdemocrat.com/article/news/3-dead-as-tesla-model-s-smashes-into-construction-equipment-in-southern-cal/,,Wayne Walter Swanson Jr.,Crystal McCallum,Andrew James Chaves,
-222,2022,2022-05-07,USA,UT,Tesla DUI involving another vehicle,2,0,0,2,0,0,-,-,-,-,-,https://web.archive.org/web/20220817111705/https://www.abc4.com/news/local-news/driver-that-crashed-on-n-temple-at-89-mph-with-20-bac-killing-two-people-arrested/,,Joseph Lucero,Sarina Astorga,,
-221,2022,2022-05-01,USA,PA,Tesla DUI hits pedestrian,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20220817112847/https://twitter.com/KeeleyFox29/status/1520804528148434944,,,,,
-220,2022,2022-04-29,USA,NC,"Highway accident, Tesla goes airborne",1,1,0,0,0,0,-,-,-,-,-,https://web.archive.org/web/20220817111656/https://www.cbs17.com/news/local-news/durham-county-news/apex-driver-dies-after-tesla-goes-airborne-and-flips-onto-i-40-in-durham-police-say/,,,,,
-219,2022,2022-04-14,USA,FL,Crash with motorcycle,1,0,0,1,0,0,Y,1,13781-3470,1,-,NHTSA SGO,,,,,
-218,2022,2022-04-10,UK,-,Two car accident,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817111707/https://www.hertsad.co.uk/news/traffic/tesla-crash-a414-longabout-colney-heath-8889184,,,,,
-217,2022,2022-04-08,Netherlands,-,Head-on collision with truck and Tesla,1,0,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817111705/https://myprivacy.dpgmedia.nl/consent?siteKey=V9f6VUvlHxq9wKIN&callbackUrl=https%3A%2F%2Fwww.ad.nl%2Fprivacy-gate%2Faccept-tcf2%3FredirectUri%3D%252Fauto%252Fautomobilist-komt-om-het-leven-bij-frontale-botsing-met-vrachtwagen~a7c5916e%252F,,,,,
-216,2022,2022-03-26,USA,CA,"DUI crash on highway, Tesla catches fire",1,0,0,0,0,1,Y,1,13781-2600,1,-,https://web.archive.org/web/20220817111737/https://www.eastbaytimes.com/2022/03/27/ashland-fatal-i-580-hit-and-run-crash-claims-tesla-passenger/,,,,,
-215,2022,2022-03-21,USA,CA,Three car collision involving Tesla,2,0,0,2,0,0,-,-,-,-,-,https://web.archive.org/web/20220817111732/https://kion546.com/news/2022/03/21/two-people-from-salinas-dead-after-crash-in-san-benito-county/,,,,,
-214,2022,2022-03-20,USA,CA,Car crosses double yellow and crashes with a Tesla,2,1,0,1,0,1,3,-,-,-,-,https://web.archive.org/web/20220817112043/https://sfist.com/2022/03/23/driver-killed-in-wrong-way-crash-near-carquinez-bridge-identified-as-missing-29-year-old-sf-woman/,,Ruiju Ma,Madyson James,,
-213,2022,2022-03-14,USA,CA,Tesla collides into rail on highway,2,1,1,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817112546/https://www.dailybulletin.com/2022/03/14/2-rialto-residents-killed-in-wrong-way-crash-of-tesla-on-15-freeway-in-ontario/,,Jose Elizarraraz Bravo,Luis Elizarraraz Bravo,,
-212,2022,2022-03-14,USA,FL,Tesla crash that ends in fire,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817113049/https://wsvn.com/news/local/driver-dead-after-tesla-catches-fire-in-miami-gardens/,,,,,
-211,2022,2022-03-13,Switzerland,-,Frontal collision between Tesla and VW,1,0,0,1,0,1,-,-,-,-,-,https://web.archive.org/web/20220817114126/https://www.20min.ch/story/schwerer-unfall-auf-autobahnzubringer-frau-42-stirbt-vier-verletzte-438706344026,,,,,
-210,2022,2022-03-12,USA,NY,Tesla ignites on parkway,1,1,0,0,0,1,S,-,-,-,-,https://web.archive.org/web/20220817113049/https://patch.com/new-york/newcity/fatal-tesla-crash-palisades-parkway,,,,,
-209,2022,2022-03-07,China,-,"Tesla on Autopilot hits maintenance car, then BMW hits responder",1,0,0,0,1,1,-,1,-,-,-,https://web.archive.org/web/20220817113258/https://autos.udn.com/autos/story/12168/6147762,,Yu Nan,,,
-208,2022,2022-03-07,USA,CA,Car found overturned in a ravine,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817112128/https://www.ktvu.com/news/mystery-surrounds-death-of-usf-student-christopher-liang-found-dead-in-tesla,,Christopher Liang,,,
-207,2022,2022-03-05,USA,CA,Tesla crashes head on with other car,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817112211/https://kion546.com/news/2022/03/23/fast-food-restaurant-co-workers-remember-salinas-man-killed-in-fresno-crash/,,,,,
-206,2022,2022-02-28,USA,ID,Car found in water-swollen ditch,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817112548/https://www.wthr.com/article/news/local/police-investigate-columbus-indiana-man-found-dead-in-crashed-tesla/531-7a842ae1-11f2-46e1-96f7-01d4fe7cf66d,,,,,
-205,2022,2022-02-27,USA,MO,Tesla breaks down in traffic and causes pile-up,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817113101/https://www.autoevolution.com/news/mysterious-tesla-fatal-crash-in-missouri-gets-us-asking-what-caused-it-183775.html,,Terry L. Siegel,,,
-204,2022,2022-02-12,USA,CA,Tesla crashes into a tree,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817113108/https://abc7.com/woodland-hills-deadly-crash-woman-killed-car-slams-into-tree/11560146/,,,,,
-203,2022,2022-02-07,USA,FL,"Tesla loses control, hits pole, ignites",1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817112853/https://www.wfla.com/news/traffic/deadly-crash-closes-part-of-state-road-54-in-lutz/,,,,,
-202,2022,2022-01-16,USA,CA,Three-car collision near intersection,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817112615/https://gum.criteo.com/syncframe?origin=publishertag&topUrl=kfoxtv.com,,,,,
-201,2022,2022-01-01,USA,CA,Motorcyclist crashes into Tesla,1,0,0,1,0,0,X,-,-,-,-,https://web.archive.org/web/20220102071418/https://www.vvng.com/sb-i-15-shutdown-in-cajon-pass-due-to-crash-involving-a-motorcycle/,,,,,
-200,2022,2022-01-01,USA,CA,Single-collision on onramp,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817112847/https://www.kron4.com/news/bay-area/fatal-crash-on-sb-i-680-onramp-in-san-jose/,,,,,
-199,2021,2021-12-31,USA,CA,Tesla crashes into trees,2,1,1,0,0,2,-,-,-,-,-,https://web.archive.org/web/20220817113053/https://news24-680.com/2021/12/31/two-dead-one-injured-in-sunol-crash-friday/,,,,,
-198,2021,2021-12-28,USA,CA,Multi-crash involving DUI,1,0,0,1,0,0,3,1,13781-3900,1,-,https://web.archive.org/web/20220817112848/https://kesq.com/news/2021/12/28/chula-vista-man-identified-as-person-killed-in-suspected-dui-crash-in-downtown-palm-springs/,,,,,
-197,2021,2021-12-24,China,-,Tesla loses control and drives into river,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817113109/https://www.breakinglatest.news/news/police-report-jiangsu-liyang-tesla-crash-1-dead-and-1-rescued-news-cnbeta-com/,,,,,
-196,2021,2021-12-18,USA,CA,Multi-car accident,1,0,0,1,0,0,Y,-,-,-,-,https://web.archive.org/web/20220817113258/https://www.mercurynews.com/2021/12/18/san-jose-man-killed-after-being-thrown-off-motorcycle/,,Mitchell Moreno Jr.,,,
-195,2021,2021-12-11,France,-,Crash in public area including 20 injuries,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20220817113015/https://www.bbc.com/news/world-europe-59647069,,,,,
-194,2021,2021-12-07,USA,AZ,Vehicular collision,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817113015/https://www.12news.com/article/news/local/valley/woman-dead-tesla-crashed-into-truck-paradise-valley/75-98fb1f7c-d66d-4a9e-bc30-3806818d261a,,,,,
-193,2021,2021-12-07,Germany,-,"Tesla crashes into trees, flames erupt",1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817113406/https://www.bz-berlin.de/brandenburg/auto-prallt-gegen-mehrere-baeume-fahrer-tot,,Armin W.,,,
-192,2021,2021-12-02,China,-,Motorbiker killed by Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817113111/https://www.scmp.com/news/hong-kong/law-and-crime/article/3158164/ceo-hong-kong-manufacturing-company-arrested-after-his,,,,,
-191,2021,2021-12-01,USA,CA,"Collision with pole, battery ignited",1,1,0,0,0,1,3,-,-,-,-,https://web.archive.org/web/20220817113330/https://www.cbsnews.com/losangeles/news/driver-killed-after-fiery-tesla-crash-in-redondo-beach-amid-heavy-fog/,,,,,
-190,2021,2021-11-29,USA,CA,DUI crash with parked car,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817113102/https://www.cbsnews.com/sanfrancisco/news/union-city-fatal-dui-crash-i-880-whipple-road/,,,,,
-189,2021,2021-11-15,USA,CA,Pedestrian hit at crosswalk,1,0,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817113112/https://fox5sandiego.com/traffic/pedestrian-killed-in-crash-on-state-route-15/,,,,,
-188,2021,2021-11-08,USA,AZ,Three car collision,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817113111/https://www.12news.com/article/news/local/valley/one-dead-several-injured-multi-vehicle-crash-tempe-us-60-nov-8/75-e8a85333-8f8a-4786-aeb7-ebbf7b0cfa67,,,,,
-187,2021,2021-11-08,USA,OH,"Tesla hits fixture, catches fire",1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817113349/https://www.fox19.com/2021/11/08/fatal-crash-clermont-county/,,,,,
-186,2021,2021-11-06,USA,NV,DUI crash,1,0,1,0,0,1,Y,-,-,-,-,https://web.archive.org/web/20220817113120/https://www.8newsnow.com/news/local-news/person-killed-following-crash-near-arby-ave-babiana-st-las-vegas/,,,,,
-185,2021,2021-11-04,USA,FL,Tesla hits bicyclist before crashing,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20220817113537/https://www.wtsp.com/amp/article/news/local/hillsboroughcounty/deadly-bicycle-crash-tampa/67-a5d1fcc5-cdcb-408b-8976-47f99eb5d0e7,,,,,
-184,2021,2021-10-28,USA,GA,Multi-collision event on highway,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817113351/https://news.yahoo.com/state-patrol-man-killed-multi-004300038.html,,,,,
-183,2021,2021-10-15,USA,AZ,Toyota hits Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817113331/https://gcmaz.com/kaff-news/kaff_news/a-flagstaff-man-was-killed-in-a-two-vehicle-accident-thursday-afternoon-in-east-flagstaff/,,,,,
-182,2021,2021-09-17,USA,IA,Three-way car collision,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817113541/https://www.kcrg.com/2021/09/15/three-vehicle-crash-johnson-county-kills-one-hurts-another/,,,,,
-181,2021,2021-09-13,USA,FL,"Tesla suffers suspension failure, hits tree, and ignites on fire",2,1,1,0,0,2,3,-,-,-,-,https://web.archive.org/web/20220817113350/https://www.local10.com/news/local/2021/09/14/2-killed-after-tesla-crashes-into-tree-in-coral-gables/,,,,,
-180,2021,2021-09-04,China,-,Tesla hit pedestrian crossing road,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20220817113300/https://twitter.com/ton_aarts/status/1446439380185501712,,,,,
-179,2021,2021-09-04,USA,FL,"Tesla runs stop sign, crashes into house",2,0,1,0,1,2,S,-,-,-,-,https://web.archive.org/web/20220817113541/https://www.wfla.com/news/pinellas-county/two-killed-after-tesla-model-s-crashes-into-palm-harbor-home/,,,,,
-178,2021,2021-08-29,USA,NY,"Car hits utility pole, ignites",2,1,1,0,0,2,3,-,-,-,-,https://web.archive.org/web/20220817113701/https://www.hudsonvalley360.com/news/columbiacounty/police-two-dead-in-claverack-accident/article_5509017b-42d6-5eca-99f9-2c3f60c23ee6.html,Contacted by close friend who disclosed the car was a Tesla. Awaiting further confirmation.,Kyle Germann,Robert G. Bailly,,
-177,2021,2021-08-26,Netherlands,-,Tesla hits tree,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817113345/https://www.msn.com/nl-nl/nieuws/Buitenland/dode-en-gewonde-bij-silvolde-door-botsing-tesla-tegen-boom/ar-AANMTqa?ocid=entnewsntp,,,,,
-176,2021,2021-08-25,USA,AZ,Tesla runs a red light and hits another car,3,0,0,3,0,0,-,-,-,-,-,https://web.archive.org/web/20220817113431/https://www.abc15.com/news/region-west-valley/glendale/alleged-red-light-runner-kills-3-in-glendale-crash-still-no-arrest-nearly-2-months-later,,Ariyanna Parsad,Jazmine Marquez,Kiyvon Martin,
-175,2021,2021-08-17,USA,PA,Tesla crashes into guardrail,1,1,0,0,0,1,3,-,-,-,-,https://web.archive.org/web/20220817113743/https://www.ncnewsonline.com/news/local_news/ohio-man-dies-in-i-76-crash/article_393ca0ec-5789-5aaa-9c73-436e04314612.html,,,,,
-174,2021,2021-07-26,Netherlands,-,"Four vehicle collision, Tesla catches fire",1,0,0,0,0,0,-,-,-,-,-,https://web.archive.org/web/20220817113556/https://www.telegraaf.nl/nieuws/675387459/tesla-vliegt-in-brand-na-botsing-met-vrachtwagen-bij-bergambacht-een-dode-en-drie-gewonden,,,,,
-173,2021,2021-07-26,USA,NY,Pedestrian hit on shoulder,1,0,0,0,1,1,Y,1,13781-21,1,-,https://web.archive.org/web/20220817113540/https://www.cbsnews.com/newyork/news/man-killed-fixing-tire-in-queens/,,Jean Louis,,,
-172,2021,2021-07-23,USA,GA,Tesla Driver loses control and hits median barrier,1,1,0,0,0,1,3,-,-,-,-,https://web.archive.org/web/20220817113558/https://www.ajc.com/news/traffic-alert-crash-with-injuries-shuts-down-i-285-in-cobb-county/AUBTX3HUPVGMPFZ2KDTG5RFXCQ/,,,,,
-171,2021,2021-07-21,USA,GA,Tesla driver hits man on shoulder of highway,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20220817113830/https://www.yahoo.com/entertainment/woman-charged-felony-vehicular-homicide-221800206.html,,,,,
-170,2021,2021-07-07,USA,CA,Other driver dies in head-on collision,1,0,0,1,0,0,S,-,-,-,-,https://web.archive.org/web/20220817113830/https://www.pe.com/2021/07/07/motorist-killed-in-2-car-collision-in-moreno-valley/,,,,,
-169,2021,2021-06-29,USA,CA,"Car crashes into Tesla, fire breaks out",2,1,0,1,0,1,-,-,-,-,-,https://web.archive.org/web/20220817113844/https://www.latimes.com/california/story/2021-06-29/2-killed-in-wrong-way-crash-on-210-in-rialto,,,,,
-168,2021,2021-06-19,USA,MI,"Tesla hits power pole, runs off road, and ignites",2,1,1,0,0,2,-,-,-,-,-,https://web.archive.org/web/20220817113530/https://www.uppermichiganssource.com/2021/06/19/2-dead-after-1-car-crash-marquette-county-road-550/,,,,,
-167,2021,2021-06-16,USA,FL,"Tesla crashes, driver later dies in hospital",1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817113715/https://www.google.com/url?q=https://amp.news-press.com/amp/7817548002,,,,,
-166,2021,2021-06-16,Denmark,-,"Driver loses control of car, crashes into tree",1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817113750/https://www.berlingske.dk/samfund/53-aarig-mand-omkommer-i-bilulykke-uden-for-brande,,,,,
-165,2021,2021-06-11,USA,WA,Tesla crashes through backyard fence,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817113841/https://www.krem.com/article/news/local/driver-dead-after-crashing-tesla-through-backyard-fence-in-cheney/293-e7385a69-b534-4d32-b8ee-9109c62ceda0,,,,,
-164,2021,2021-06-11,USA,NY,Driver crashes into senior living facility,1,0,1,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817113704/https://www.nydailynews.com/new-york/nyc-crime/ny-nyc-fatal-crash-tesla-senior-living-facility-20210611-eom4yrt7onfkjb6w5rxoovdvxu-story.html,,,,,
-163,2021,2021-06-01,USA,WA,"Tesla hits concrete barrier, later catches on fire",1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817113728/https://account.bellinghamherald.com/paywall/subscriber-only?resume=251853803&intcid=ab_archive,,Samuel James Morson,,,
-162,2021,2021-05-26,USA,VA,Tesla involved in multi-car highway accident,4,0,0,4,0,0,-,-,-,-,-,https://web.archive.org/web/20220817114521/https://www.nbcnews.com/news/us-news/four-killed-three-injured-multivehicle-crash-virginia-n1268593,,,,,
-161,2021,2021-05-15,China,-,Tesla hits police officers and kills one,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20220817113856/https://www.globaltimes.cn/page/202105/1223741.shtml,,,,,
-160,2021,2021-05-07,China,-,Tesla runs into back of truck,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817113834/https://www.globaltimes.cn/page/202105/1222902.shtml,,,,,
-159,2021,2021-05-05,USA,CA,Multi-event collision with truck on highway,1,1,0,0,0,1,3,1,13781-5609,1,-,https://web.archive.org/web/20220817114117/https://apnews.com/article/california-business-technology-204e5600ec902d0bfda10feca74a9ed0,,,,,
-158,2021,2021-04-17,USA,TX,"Tesla crashes into tree, bursts into fire",2,0,0,0,0,2,S,2,-,-,-,https://web.archive.org/web/20220817114126/https://www.foxbusiness.com/lifestyle/two-killed-in-driverless-tesla-crash,,William Varner,Everette Talbot,,
-157,2021,2021-04-17,China,-,Tesla hits concrete barrier and spontaneously combusts,1,0,1,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817114130/https://finance.sina.cn/tech/2021-04-21/detail-ikmxzfmk8086812.d.html?fromtech=1&from=wap,,,,,
-156,2021,2021-04-16,France,-,Tesla crashes into tree with 5 occupants,2,0,0,0,0,2,-,-,-,-,-,https://web.archive.org/web/20220817114707/https://www.leprogres.fr/faits-divers-justice/2021/04/17/une-tesla-s-ecrase-contre-un-arbre-deux-morts-et-trois-blesses-graves,,,,,
-155,2021,2021-04-14,USA,TX,Head-on collision involving a Tesla,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817114138/https://www.statesman.com/story/news/2021/04/22/austin-traffic-fatalities-police-identify-80-year-old-man-killed/7337707002/,,,,,
-154,2021,2021-04-13,Germany,-,"Tesla goes off road, hits a tree, and bursts into flames",1,1,0,0,0,1,S,-,-,-,-,https://web.archive.org/web/20220817114406/https://www.focus.de/regional/mecklenburg-vorpommern/ursache-fuer-toedlichen-tesla-unfall-weiter-unklar_id_13215813.html,,,,,
-153,2021,2021-04-03,USA,PA,"Tesla loses control, hits railing and cut in half",2,1,1,0,0,2,-,-,-,-,-,https://web.archive.org/web/20220817114406/https://www.citizensvoice.com/news/crime-emergencies/double-fatal-butler-twp-crash-investigation-continues/article_e699403c-19a5-5a3d-9e76-38737719bd7b.html,,Crystal Stash,Henry H. Abrahams,,
-152,2021,2021-04-01,China,-,"Driver hit traffic island, Tesla catches on fire",1,1,0,0,0,1,3,-,-,-,-,https://web.archive.org/web/20220817114404/https://taiwanenglishnews.com/tesla-catches-fire-after-crash-driver-dies/,,,,,
-151,2021,2021-03-21,UK,-,"Pedestrian hit in collision, later dies in hospital weeks later",1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20220817114408/https://www.gloucestershirelive.co.uk/news/cheltenham-news/woman-dies-after-collision-involving-5328704,,,,,
-150,2021,2021-03-20,Belgium,-,"Driver runs over curb, loses control and hit pole",1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817114432/https://myprivacy.dpgmedia.be/consent?siteKey=Uqxf9TXhjmaG4pbQ&callbackUrl=https%3A%2F%2Fwww.hln.be%2Fprivacy-gate%2Faccept-tcf2%3FredirectUri%3D%252Froeselare%252F41-jarige-bestuurder-sterft-na-klap-met-tesla-tegen-elektriciteitspaal~acf62870%252F,,,,,
-149,2021,2021-03-13,UK,-,Tesla crashes into stationary van,1,0,0,1,0,0,3,-,-,-,-,https://web.archive.org/web/20220817114704/https://www.bucksfreepress.co.uk/news/19159878.man-dies-driver-crashes-stationary-van-milton-keynes/,,,,,
-148,2021,2021-03-10,USA,CA,"Tesla crashes into tree, occupants killed",2,1,1,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817114454/https://www.ocregister.com/2021/03/10/driver-killed-in-fiery-irvine-crash-prompting-road-closure/,,,,,
-147,2021,2021-03-07,USA,OH,3 car collision near intersection,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817114437/https://www.tribtoday.com/news/local-news/2021/03/man-killed-at-howland-intersection/,,,,,
-146.1,2021,2021-03-05,UK,-,Tesla hits crashed car,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20230810172806/https://www.oxfordmail.co.uk/news/23712071.oxford-man-30-killed-tesla-travelling-90mph-m40/,,Thomas Hazzard,,,
-146,2021,2021-02-22,USA,CA,High speed crash into telephone poll,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817114705/https://www.youtube.com/watch?v=C3x3fElDi8U,,,,,
-145,2021,2021-01-22,USA,AZ,"Tesla crashes into tree, occupants killed",2,1,1,0,0,2,-,-,-,-,-,https://web.archive.org/web/20220817114533/https://www.azcentral.com/story/news/local/phoenix-traffic/2021/01/22/2-dead-after-tesla-crashes-into-tree-phoenix-intersection-closed/6678414002/?cid=twitter_azcentral,,,,,
-144,2021,2021-01-21,USA,CO,"Tesla hits car and car crashes, driver later dies",1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817114531/https://www.kktv.com/2021/01/20/man-dies-from-injuries-in-weekend-crash/,,,,,
-143,2021,2021-01-15,USA,FL,"Head-on collision involving a Tesla, other driver dies",1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817114531/https://www.actionnewsjax.com/news/local/st-johns-county/fiery-fatal-crash-st-johns-county/RXTWMVQ37VAMPBQ575QXD3W2UA/,,,,,
-142,2021,2021-01-10,USA,UT,"Car collides with Tesla, both drivers die",2,1,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817114711/https://www.deseret.com/utah/2021/1/10/22224294/2-killed-when-car-traveling-wrong-way-hits-tesla-on-freeway-uhp-says,,,,,
-141,2020,2020-12-18,Portugal,-,Tesla driver crashes into pole and dies in resulting fire,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817114702/https://www.jn.pt/local/noticias/porto/felgueiras/homem-morre-carbonizado-em-tesla-que-se-incendiou-apos-despiste-em-felgueiras-13157645.html,,,,,
-140,2020,2020-12-11,USA,FL,"Pedestrians hit and run by Tesla, one died from injuries",1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20220817115009/https://nbc-2.com/news/local/2020/12/18/teen-killed-lehigh-acres-hit-and-run-arrest/,,,,,
-139,2020,2020-12-09,South Korea,-,"Car goes out of control and crashes into a wall, ignites",1,0,1,0,0,1,X,1,-,-,-,https://web.archive.org/web/20220817114815/https://lawtalknews.co.kr/3072,,Yoon Hong-geun,,,
-138,2020,2020-12-04,USA,CA,"Car loses control, goes airborne, hits telephone pole",1,0,1,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817114701/https://www.fox13news.com/news/community-mourning-after-sarasota-high-baseball-star-killed-in-late-night-car-crash,,Kevin Gallardo,,,
-137,2020,2020-11-16,USA,MO,Five-vehicle pileup involving truck,1,0,0,1,0,0,Y,-,-,-,-,https://web.archive.org/web/20220817114710/https://ksisradio.com/kc-woman-fatally-injured-in-multi-vehicle-crash-in-platte-county/,,,,,
-136,2020,2020-10-31,USA,CA,"Car hit by a Tesla, driver later died from injuries",1,0,0,1,0,0,Y,-,-,-,-,https://web.archive.org/web/20220817114721/https://www.10news.com/news/local-news/man-22-killed-in-crash-in-mission-valley-west,,,,,
-135,2020,2020-10-10,USA,CA,Motorcyclist died after rear-ending a Tesla,1,0,0,1,0,0,Y,-,-,-,-,https://web.archive.org/web/20220817114813/https://mynewsla.com/life/2020/10/10/biker-killed-in-three-vehicle-crash-on-foothill-freeway-in-irwindale-3/,,Matthew Hathaway,,,
-134,2020,2020-10-07,Belgium,-,"Driver going wrong direction hits Tesla, driver later dies",1,0,0,1,0,0,3,,-,-,-,https://web.archive.org/web/20220817114834/https://www.sudinfo.be/id263566/article/2020-10-11/la-tesla-dun-vervietois-explosee-par-un-conducteur-fantome-dans-lechangeur-de,,,,,
-133,2020,2020-09-17,USA,GA,"Car loses control, hits bus shelter",1,0,0,0,1,1,3,1,13781-3847,1,-,https://web.archive.org/web/20221117074935/https://www.cobbcounty.org/public-safety/police/news/fatal-traffic-collision-11,,,,,
-132,2020,2020-09-12,USA,CA,"Car lands on Tesla, other vehicle driver dies",1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817114837/https://fox5sandiego.com/news/local-news/1-person-killed-in-oceanside-rollover-crash/,,,,,
-131,2020,2020-09-06,USA,IL,"Tesla runs thru red light, crashes, driver dies at scene",1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817114809/https://www.dailyherald.com/news/20200906/driver-killed-in-crash-sunday-at-lisle-intersection,,,,,
-130,2020,2020-09-05,China,-,"Tesla crashes into crowd, 2 dead and several injured",2,0,0,0,2,2,X,-,-,-,-,https://web.archive.org/web/20220817115028/https://www.globaltimes.cn/content/1200006.shtml,,,,,
-129,2020,2020-08-24,USA,VA,"Two car collision at intersection, other driver dies afterwards",1,0,0,1,0,0,X,-,-,-,-,https://web.archive.org/web/20220815212556/https://www.loudountimes.com/news/update-multi-vehicle-crash-leaves-ashburn-woman-dead/article_99216112-e63b-11ea-b1c4-37cd3fabbd40.html,,,,,
-128,2020,2020-08-13,Germany,-,Tesla crashes into tree,1,1,0,0,0,1,X,1,-,-,-,https://web.archive.org/web/20220817115107/https://www.mopo.de/hamburg/polizei/unfall-in-hamburg-tesla-prallt-gegen-baum---fahrerin-stirbt-in-klinik-37181790/,,,,,
-127,2020,2020-08-12,USA,CA,Tesla hits two cars along exit ramp & catches fire,2,1,1,0,0,1,-,1,-,-,-,https://web.archive.org/web/20220817114835/https://www.mercurynews.com/2020/08/13/saratoga-man-killed-in-fiery-freeway-crash-identified/,,David Alan Brown,,,
-126,2020,2020-08-02,USA,CA,"Tesla crashes into tree, ignites, kills driver and passenger",2,1,1,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817114837/https://www.vcstar.com/story/news/local/communities/conejo-valley/2020/08/02/two-men-killed-fiery-crash-thousand-oaks/5568539002/,,,,,
-125,2020,2020-07-18,USA,UT,"Tesla races other car, other car crashes",1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20201004080801/sanpetemessenger.com/archives/18566,,,,,
-124,2020,2020-06-23,USA,GA,Vehicle collides with Tesla at intersection,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817115224/https://www.ajc.com/news/crime--law/woman-killed-vehicle-crash-south-fulton/NguJzzvD9eWtN403a2zAhP/,,,,,
-123,2020,2020-06-21,Germany,-,"Tesla veers into other lane, crashes into oncoming car",3,0,0,3,0,0,3,1,-,-,-,https://web.archive.org/web/20220817115020/https://www.freiepresse.de/drei-tote-bei-unfall-auf-autobahnzubringer-bei-aue-artikel10894951,,Claudia Günther,Frau Sarah,Claudias Mutter Sylvia,
-122,2020,2020-06-17,Canada,-,Motorcyclist killed in crash with Tesla,1,0,0,1,0,0,-,,-,-,-,https://web.archive.org/web/20220817115236/https://www.northdeltareporter.com/news/crash-kills-motorcyclist-in-surreys-strawberry-hill-neighbourhood/,,,,,
-121,2020,2020-06-08,Netherlands,-,Driver has heart attack and crashes Tesla,1,1,0,0,0,1,3,-,-,-,-,https://web.archive.org/web/20220817115242/https://112hm.nl/2020/06/08/automobilist-50-overleden-op-de-a4-bij-roelofarendsveen/rr46pt/,,,,,
-120,2020,2020-05-25,USA,CA,Tesla goes off cliff and later found,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817115234/https://www.sfgate.com/news/bayarea/article/Tesla-Goes-Off-Cliff-Driver-Found-Dead-15296778.php,,,,,
-119,2020,2020-05-14,USA,CA,Two-car collision,1,0,0,1,0,0,3,1,13781-2423,1,-,https://web.archive.org/web/20210117060156/https://www.newsopi.com/2020/05/15/fatal-two-car-crash-205-freeway-near-11th-street-tracy/,,Gary Marchi,,,
-118,2020,2020-05-05,USA,CA,Drunk driver strikes Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817115315/https://www.sfgate.com/news/bayarea/article/Sunday-Fatal-Dui-Crash-Victim-Was-70-Year-Old-San-15249727.php,,,,,
-117,2020,2020-05-04,Norway,-,Tesla strikes and kills a man standing next to his truck,1,0,0,1,0,0,S,1,missing,1,"""Undersøkelsen har videre vist at personbilens adaptive cruisekontroll og autostyring var aktivert på ulykkestidspunktet.""",https://web.archive.org/web/20230513180608/https://havarikommisjonen.no/Vei/Avgitte-rapporter/2022-06,,,,,
-116,2020,2020-04-24,Netherlands,-,"Tesla runs off road, crashes, catches fire",1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817115250/https://www.gld.nl/nieuws/2446697/tesla-vat-vlam-na-ongeluk-bestuurder-47-overleden,,,,,
-115,2020,2020-04-03,Taiwan,-,Tesla rolls over and catches on fire,1,1,0,0,0,1,3,-,-,-,-,https://web.archive.org/web/20220817115238/https://www.ddcar.com.tw/blogs/articles/detail/2136/Model-3-%E8%BB%8A%E7%A6%8D%E7%BF%BB%E8%A6%86%E5%BE%8C%E8%B5%B7%E7%81%AB%EF%BC%8C%E6%B6%88%E9%98%B2%E5%93%A1%E8%A9%B3%E8%BF%B0%E6%90%B6%E6%95%91%E8%88%87%E6%96%B7%E9%9B%BB%E6%BB%85%E7%81%AB%E9%81%8E%E7%A8%8B,,,,,
-114,2020,2020-04-01,USA,OH,Tesla drive off road into tree,1,1,0,0,0,1,3,-,-,-,-,https://web.archive.org/web/20220817115248/https://www.nbc4i.com/news/local-news/fatal-crash-in-madison-county/,,,,,
-113,2020,2020-03-08,USA,GA,Motorcyclist rear ends Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817115513/https://www.ajc.com/news/crime--law/motorcyclist-dies-after-vehicle-crash-gwinnett/SUGaJvGwLyPB4ye12V6zgO/,,Zachary Stringer,,,
-112,2020,2020-03-04,Netherlands,-,Three car collision,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20211224225452/https://112vechtdal.nl/page/Nieuwsdetail/56859/hardenberger-36-omgekomen-bij-heftig-ongeval-op-n36-bij-beerze,,,,,
-111,2020,2020-02-24,USA,CA,Driver dies as Tesla goes down embankment,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817115525/https://www.marinij.com/2020/02/24/coroner-ids-san-rafael-driver-killed-after-car-hits-home/,,Norma Jean Nixon,,,
-110,2020,2020-02-24,Canada,-,Tesla drives off cliff,3,1,2,0,0,3,3,-,-,-,-,https://web.archive.org/web/20211224225454/https://vancouversun.com/news/local-news/victims-in-fatal-crash-near-kamloops-were-father-and-two-sons-from-alberta,,Mike Cochlin,Liam Cochlin,Quinn Cochlin,
-109,2020,2020-01-31,USA,FL,Nissan in front of Tesla loses control,1,0,0,1,0,0,3,-,-,-,-,https://web.archive.org/web/20220817120039/https://www.winknews.com/2020/01/31/state-troopers-responding-to-charlotte-county-fatal-crash-along-us-41-tribune-blvd/,,Arthur Henry Oliver,,,
-108,2020,2020-01-26,USA,NJ,Tesla crashes into car at toll booth,1,0,0,1,0,0,X,-,-,-,-,https://web.archive.org/web/20220817120052/https://www.plainsite.org/dockets/download.html?id=305304167&z=7340d30a,,Vladmir Chen,,,
-107,2020,2020-01-21,Germany,-,Sudden unintended acceleration kills store patron,1,0,0,0,1,1,S,-,-,-,-,https://web.archive.org/web/20220817115515/https://www.ln-online.de/der-norden/tesla-faehrt-in-glasfassade-baumarkt-kundin-stirbt-KYGKVLVKS7HRX5MB4LDCMT3CFI.html,,,,,
-106,2020,2020-01-19,Taiwan,-,"Tesla t-bones sedan, kills pedestrian",1,0,0,0,1,1,X,-,-,-,-,https://web.archive.org/web/20220817115320/https://tw.appledaily.com/local/20200119/XX25RREJHMJLCRKF4ZZNV2VERI/,,Zhang,,,
-105,2020,2020-01-18,USA,CA,"Tesla strikes sign, burns",1,1,0,0,0,1,S,-,-,-,-,https://web.archive.org/web/20220817115312/https://abc7news.com/tesla-crash-fire-pleasanton-car/5862228/,,,,,
-104,2020,2020-01-05,USA,UT,"Tesla runs red, strikes car, burns",2,0,0,2,0,0,-,-,-,-,-,https://web.archive.org/web/20220817115312/https://www.deseret.com/utah/2020/1/10/21060343/tesla-west-valley-city-utah-woman-hit-in-weekend-collision-dies-north-temple,,Sarina Astorga,,,
-103,2020,2020-01-04,USA,FL,Tesla strikes Mercury,1,0,0,1,0,0,3,-,-,-,-,https://web.archive.org/web/20220817115514/https://www.news-press.com/story/news/local/2020/02/15/cape-coral-woman-dies-injuries-jan-4-crash/4770506002/,,Augustina Lillie,,,
-102,2019,2019-12-29,USA,IN,Tesla rear ends parked fire truck,1,0,1,0,0,1,3,1,missing,1,"""The involved subject vehicles were all confirmed to have been engaged in either Autopilot or Traffic Aware Cruise Control during the approach to the crashes.""",https://web.archive.org/web/20220817115512/https://static.nhtsa.gov/odi/inv/2021/INOA-PE21020-1893.PDF,Investigation still underway whether only TACC or full Autopilot mode was active.,Jenna Monet,,,
-101,2019,2019-12-29,USA,CA,Tesla runs red light after exiting freeway,2,0,0,2,0,0,S,2,missing,2,"""Prosecutors said the Tesla's Autosteer and Traffic Aware Cruise Control were active. A Tesla engineer testified that sensors indicated Riad had a hand on the steering wheel but crash data showed no brakes were applied in the six minutes before the crash.""",https://web.archive.org/web/20230513181103/https://www.cbsnews.com/losangeles/news/driver-to-stand-trial-in-tesla-autopilot-crash-which-killed-two-in-gardena/,,Maria Guadalupe Nieves,Gilberto Alcazar Lopez,,
-100,2019,2019-12-23,Slovenia,-,Drunk driver strikes Tesla,1,0,0,1,0,0,S,-,-,-,-,https://web.archive.org/web/20220817115516/https://www.vecer.com/kronika/za-smrtno-nesreco-v-mariboru-kriv-voznik-peugeota-ki-z-vozilom-sploh-ne-bi-smel-biti-v-prometu-10107555,,,,,
-99,2019,2019-12-19,USA,FL,Police SUV strikes Tesla,2,1,1,0,0,2,-,-,-,-,-,https://web.archive.org/web/20220817115513/https://www.wtsp.com/article/news/local/sarasotacounty/charles-barancik-philanthropist-killed-in-crash-involving-police-cruiser/67-df1c320b-0aa7-4e62-ba9e-99890579b43f,,Charles Barancik,,,
-98,2019,2019-12-11,USA,CA,Tesla strikes turning Lexus,1,0,0,1,0,0,X,-,-,-,-,https://web.archive.org/web/20220817115545/https://www.10news.com/news/local-news/san-diego-news/witness-comforts-driver-as-he-dies-from-crash-injuries?_amp=true&__twitter_impression=true,,,,,
-97,2019,2019-12-10,USA,NV,Kia rear ends Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817115522/https://www.8newsnow.com/news/local-news/police-driver-dies-weeks-after-crash-in-west-valley/,,,,,
-96,2019,2019-12-01,USA,TX,Struck Ford veers into Tesla's lane,2,0,0,2,0,0,-,-,-,-,-,https://web.archive.org/web/20220817115522/https://www.fox44news.com/news/local-news/two-killed-in-three-vehicle-crash-near-hearne/,,,,,
-95,2019,2019-11-24,Taiwan,-,"Tesla strikes divider, driver falls to death",1,1,0,0,0,1,3,-,-,-,-,https://web.archive.org/web/20220817115524/https://taiwanenglishnews.com/driver-falls-to-his-death-from-elevated-road-after-crashing-tesla/,,,,,
-94,2019,2019-11-22,USA,CA,Tire strikes Tesla,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817115551/https://patch.com/california/sanclemente/fatal-crash-northbound-i-5-after-tire-crashes-car,,,,,
-93,2019,2019-11-21,USA,CA,Tesla kills pedestrian,1,0,0,0,1,1,S,-,-,-,-,https://web.archive.org/web/20220817115548/http://teslaspacex.trendolizer.com/2019/11/abc7-breaking-news-emelio-perez-34-has-died-days.html,,Emelio Perez,,,
-92,2019,2019-11-20,Austria,-,Tesla strikes impact attenuator,1,1,0,0,0,1,3,-,-,-,-,https://web.archive.org/web/20220817115535/https://www.tt.com/artikel/16287163/tesla-fahrer-nach-unfall-auf-inntalautobahn-bei-inzing-verstorben,,,,,
-91,2019,2019-11-20,USA,FL,Tesla turns into oncoming traffic,1,1,0,0,0,1,3,-,-,-,-,https://web.archive.org/web/20220817115536/https://www.wptv.com/news/region-c-palm-beach-county/driver-dies-in-three-vehicle-crash-on-state-road-7,,Robert Krottner,,,
-90,2019,2019-11-20,USA,CA,Tesla in multi vehicle crash,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817115604/https://www.kron4.com/news/bay-area/man-killed-in-san-jose-hit-and-run-driver-sought/,,,,,
-89,2019,2019-11-14,Germany,-,Tesla kills pedestrian,1,0,0,0,1,1,3,-,-,-,-,https://web.archive.org/web/20220817115600/https://www.rtl.de/cms/tesla-unfall-bei-ulm-fahrer-erfasst-joggerin-auf-b19-und-verletzt-sie-toedlich-4437269.html,,,,,
-88,2019,2019-11-10,USA,FL,Wrong way driver strikes Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817115802/https://www.orlandosentinel.com/news/osceola-county/os-ne-fatal-crash-state-road-429-20191110-igqitu74urfsphce572av5x44e-story.html,,,,,
-87,2019,2019-11-07,USA,CA,Two car collision,1,0,0,1,0,0,3,-,-,-,-,https://web.archive.org/web/20220817115544/https://www.cbsnews.com/losangeles/news/fatal-crash-tesla-van-nuys/,,,,,
-86,2019,2019-11-01,Norway,-,Three car collision,1,0,0,0,0,0,S,-,-,-,-,https://web.archive.org/web/20220817115730/https://www.nettavisen.no/nyheter/politiet-frigir-navn-etter-dodsulykke-pa-e16-ber-om-tips/s/12-95-3423873110,,Nina Mogster,,,
-85,2019,2019-10-19,USA,PA,"Man thrown from vehicle, struck by Tesla",1,0,0,1,0,0,X,1,"13781-1979 | Currently marked as [Unknown] for ""Automated System Engaged?""",1,-,https://web.archive.org/web/20220817115624/https://www.dailyitem.com/news/local_news/driver-dies-after-being-ejected-from-vehicle/article_00ad5107-9d82-5fcb-b1ee-c7d31d39471e.html,,Joan Fernando Valerio Jimenez,,,
-84,2019,2019-10-17,Germany,-,Tesla turns into oncoming motorcyclist,1,0,0,1,0,0,S,-,-,-,-,https://web.archive.org/web/20220817115655/https://www.idowa.de/inhalt.niederviehbach-schwerer-unfall-zwischen-auto-und-motorrad.e2929434-cf9e-4536-bab3-4c54840748c1.html,,,,,
-83,2019,2019-10-12,USA,CA,"Wrong way driver strikes Tesla, Tesla burns",1,0,0,1,0,0,S,-,-,-,-,https://web.archive.org/web/20220817115556/https://onscene.tv/chino-hills-one-dead-after-fiery-crash/,,,,,
-82,2019,2019-09-22,USA,NV,Tesla runs red light,1,0,0,1,0,0,3,-,-,-,-,https://web.archive.org/web/20220817115729/https://www.reviewjournal.com/local/local-las-vegas/impairment-suspected-in-fatal-crash-in-northwest-las-vegas-1854434/,,,,,
-81,2019,2019-09-17,USA,FL,Tesla into oncoming traffic,1,1,0,0,0,1,-,1,-,-,-,https://web.archive.org/web/20220817115627/https://www.orlandosentinel.com/news/osceola-county/os-ne-osceola-polk-line-road-fatal-crash-20190918-m5hgbty6l5csfe2qo3mlmxr7sa-story.html,AP claimed in NHTSA complaint,,,,
-80,2019,2019-09-11,USA,OH,Subaru strikes Tesla,1,0,0,1,0,0,S,-,-,-,-,https://web.archive.org/web/20220817115741/https://www.wkyc.com/article/news/local/geauga-county/83-year-old-woman-dies-in-chardon-crash/95-ee8778bf-1f58-42ba-a16a-2f217c75f518,,Marjorie Hill,,,
-79,2019,2019-09-11,USA,VA,Tesla kills motorcyclist,1,0,0,1,0,0,S,-,-,-,-,https://web.archive.org/web/20211224225454/https://fcpdnews.wordpress.com/2019/09/12/fatal-crash-in-springfield-5/amp/?__twitter_impression=true,,Wayne Marbury,,,
-78,2019,2019-09-08,USA,CA,Honda rear ends Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817115741/https://www.mercurynews.com/2019/09/13/child-dies-days-after-san-jose-vehicle-accident/,,,,,
-77,2019,2019-09-07,USA,PA,"Tesla drives through T intersection, into woods",1,0,1,0,0,1,3,-,-,-,-,https://web.archive.org/web/20220817115836/https://www.post-gazette.com/local/east/2019/09/07/One-dead-vehicle-crash-in-Indiana-County-Daniel-Rodkey/stories/201909070084,,Daniel J. Rodkey,,,
-76,2019,2019-09-01,Germany,-,Tesla into oncoming traffic,2,0,0,2,0,0,-,-,-,-,-,https://web.archive.org/web/20220817115802/https://www.n-tv.de/wirtschaft/Tesla-Fahrer-sorgt-fuer-toedlichen-Crash-article21248572.html,,,,,
-75,2019,2019-08-24,USA,CA,Tesla rear ends Ford,1,0,0,1,0,0,3,1,missing,1,"""A six-second video captured by the Tesla and data it recorded show that neither Autopilot — Tesla’s much-vaunted system that can steer, brake and accelerate a car on its own — nor the driver slowed the vehicle until a fraction of a second before the crash.""",https://web.archive.org/web/20220817115818/https://www.nytimes.com/2021/07/05/business/tesla-autopilot-lawsuits-safety.html,,,,,
-74,2019,2019-08-15,Germany,-,Tesla kills motorcyclist,1,0,0,1,0,0,S,-,-,-,-,https://web.archive.org/web/20220817115744/http://www.wiesbadenaktuell.de/startseite/news-detail-view/article/toedlicher-unfall-rollerfahrer-stirbt-bei-kollision-auf-der-b455-bei-wiesbaden.html,,,,,
-73,2019,2019-08-12,USA,NY,Collision,1,0,0,0,0,1,X,1,13781-1785,1,-,NHTSA SGO,,,,,
-72,2019,2019-07-21,USA,DE,"Tesla drives into office building, kills occupant",1,0,0,0,1,1,3,-,-,-,-,https://web.archive.org/web/20220817115756/http://firststateupdate.com/2019/08/woman-injured-when-tesla-crashed-into-bay-to-the-beach-has-succumbed-to-her-injuries/,,Kaity West,,,
-71,2019,2019-07-21,USA,CA,Tesla kills pedestrian,1,0,0,0,1,1,3,-,-,-,-,https://web.archive.org/web/20220820195912/https://www.loudountimes.com/news/update-multi-vehicle-crash-leaves-ashburn-woman-dead/article_99216112-e63b-11ea-b1c4-37cd3fabbd40.html,,,,,
-70,2019,2019-07-13,USA,CA,Tesla kills pedestrian,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20220817115850/https://www.ocregister.com/2019/07/14/pedestrian-hit-killed-near-tustin-marketplace-saturday-night/,,,,,
-69,2019,2019-07-08,USA,IA,Car drifts into Tesla's lane,1,0,0,1,0,0,S,-,-,-,-,https://web.archive.org/web/20220817115850/https://www.desmoinesregister.com/story/news/2019/07/08/black-hawk-county-iowa-fatal-crash-elk-hauling-trucks-collision-honda-tesla-driving-safety/1678196001/,,,,,
-68,2019,2019-06-30,USA,CA,Single car crash near Menifee,1,1,0,0,0,1,3,1,-,-,-,https://www.youtube.com/watch?v=t0XqxsoslHQ,Case ID: 91121642,,,,
-67,2019,2019-06-07,Ukraine,-,Tesla strikes construction vehicle,1,0,1,0,0,1,X,-,-,-,-,https://web.archive.org/web/20220817115901/https://autogeek.com.ua/na-trasse-zhitomir-kiev-jelektromobil-tesla-model-x-vletel-pod-gruzovik/,,,,,
-66,2019,2019-06-04,USA,CA,Six vehicle crash,1,0,0,1,0,0,S,-,-,-,-,https://web.archive.org/web/20220817115908/https://www.pe.com/2019/06/04/fatal-crash-on-southbound-15-freeway-in-temecula-sends-car-into-city-hall-parking-building/,,Janet Genao,,,
-65,2019,2019-05-31,USA,CA,Tesla rear ends Ford,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817120048/https://www.mercurynews.com/2019/06/01/seven-people-injured-in-four-car-pile-up-in-downtown-berkeley/,,,,,
-64,2019,2019-04-30,Spain,-,Car drifts into Tesla's lane,1,0,0,1,0,0,S,-,-,-,-,https://web.archive.org/web/20220817115843/https://www.carscoops.com/2019/05/tesla-model-s-driver-survives-harsh-head-on-collision-in-spain/,,,,,
-63,2019,2019-04-25,USA,FL,Tesla kills pedestrian,1,0,0,0,1,1,S,1,missing,1,"""Neither he nor Autopilot noticed that the road was ending and the Model S drove past a stop sign and a flashing red light.""",https://web.archive.org/web/20230505003245/https://www.nytimes.com/2021/08/17/business/tesla-autopilot-accident.html,,,,,
-62,2019,2019-04-15,USA,CA,Tesla strikes on-ramp curb,1,0,1,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817115921/https://www.nbclosangeles.com/news/woman-77-ejected-from-tesla-struck-by-bmw-and-killed-on-405-in-long-beach/164434/,,,,,
-61,2019,2019-03-18,Canada,-,"Tesla strikes pole, burns",1,1,0,0,0,1,X,-,-,-,-,https://web.archive.org/web/20220817115913/https://bc.ctvnews.ca/driver-dead-after-tesla-crashes-into-pole-on-lougheed-highway-1.4340542,,,,,
-60,2019,2019-03-10,USA,FL,BMW strikes Tesla,1,0,1,0,0,1,3,-,-,-,-,https://web.archive.org/web/20220817115920/https://www.sun-sentinel.com/local/broward/deerfield-beach/fl-ne-deerfield-fatal-crash-20190311-story.html,,,,,
-59,2019,2019-03-01,USA,FL,Autopilot into firetruck,1,1,0,0,0,1,3,1,missing,1,"""The National Transportation Safety Board (NTSB) on Wednesday cited driver errors and Tesla Inc’s Autopilot design as the probable cause of a January 2018 crash of a Model S into a parked fire truck on a highway in California.""",https://web.archive.org/web/20190909023320/https://www.reuters.com/article/tesla-crash/u-s-ntsb-cites-driver-error-tesla-autopilot-design-in-crash-report-idUSL2N25V0Y1,,,,,
-58,2019,2019-02-24,USA,FL,"Tesla crashes into tree, burns",1,1,0,0,0,1,S,-,-,-,-,https://web.archive.org/web/20220817120158/https://www.local10.com/news/2019/02/25/tesla-crashes-into-tree-in-davie-killing-driver-police-say/?__vfz=medium%3Dsharebar,,Omar Awan,,,
-57,2019,2019-02-18,USA,CA,Tesla rear ends stopped car,1,1,0,0,0,1,S,-,-,-,-,https://web.archive.org/web/20220817120146/https://twitter.com/CaliforniaBrief/status/1098008474745679872,,,,,
-56,2019,2019-01-30,Netherlands,-,Driver mistakenly believes Autopilot is on,1,0,0,1,0,0,S,1,-,-,-,https://web.archive.org/web/20220817120400/https://linkeddata.overheid.nl/front/portal/document-viewer?id=http://linkeddata.overheid.nl/terms/jurisprudentie/id/ECLI:NL:RBOBR:2019:5057&callback=&dates=&fields=,,,,,
-55,2018,2018-12-30,USA,VA,"Early morning, single car collision",1,1,0,0,0,1,3,-,-,-,-,https://web.archive.org/web/20220817120153/https://www.legacy.com/us/obituaries/washingtonpost/name/rod-rhines-obituary?fhid=17018&n=rod-rhines&pid=191245630,Car model confirmed in personal correspondence,Rod Rhines,,,
-54,2018,2018-12-26,USA,NH,Burned in New Ipswich crash,1,0,1,0,0,1,X,-,-,-,-,https://web.archive.org/web/20220817120237/https://www.ledgertranscript.com/New-Ipswich-teen-passes-22902528,,,,,
-53,2018,2018-11-15,Denmark,-,Tesla into oncoming traffic,1,0,0,1,0,0,S,-,-,-,-,https://web.archive.org/web/20220817120204/https://www.tvmidtvest.dk/herning/29-arig-kvinde-draebt-i-ulykke-mand-alvorligt-kvaestet,,,,,
-52,2018,2018-11-10,USA,FL,Tesla kills motorcyclist,1,0,0,1,0,0,X,-,-,-,-,https://web.archive.org/web/20220817120159/https://www.ocala.com/story/news/local/2018/11/12/motorcyclist-33-killed-in-crash-sunday-near-micanopy/8398488007/,,,,,
-51,2018,2018-11-09,USA,CA,Tesla crashes into tree,2,0,2,0,0,2,S,-,-,-,-,https://web.archive.org/web/20190728223857/https://attorneysfortheinjured.com/palm-springs-ca-2-dead-2-injured-after-car-crashes-into-tree-at-north-farrell-and-francis-drives/,"John Renner, investigation #18119-2207",,,,
-50,2018,2018-10-26,Canada,-,Tesla drives off road,1,0,1,0,0,1,S,-,-,-,-,https://web.archive.org/web/20220817120340/https://www.cbc.ca/news/canada/montreal/jimmy-accurso-dies-car-collision-laurentians-1.4879309,,James Accurso,,,
-49,2018,2018-09-21,USA,CA,Single car collision in Anaheim on SR-91,1,1,0,0,0,1,S,-,-,-,-,https://web.archive.org/web/20220817120147/https://twitter.com/TotalTrafficLA/status/1043131566757699584?s=20,,,,,
-48,2018,2018-09-15,Japan,-,Tesla rear ends stopped car,2,0,0,2,0,0,X,-,-,-,-,https://web.archive.org/web/20220817120148/https://blog.goo.ne.jp/carintelligenceagency/e/13c86532c9a5dbdc8ef08ca9c006e782,,,,,
-47,2018,2018-08-04,Netherlands,-,Tesla crashes into tree,1,0,1,0,0,1,S,,-,-,-,https://web.archive.org/web/20220817120203/https://www.gld.nl/nieuws/2321309/vrouw-verliest-ongeboren-kindje-bij-ongeval-in-nijmegen,,,,,
-46,2018,2018-07-24,USA,MO,Concrete falls on Tesla,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817120318/https://www.dailymail.co.uk/news/article-5987991/Former-St-Louis-police-chiefs-wife-killed-freak-accident.html,,,,,
-45,2018,2018-05-20,USA,CA,Tesla drives into pond,1,1,0,0,0,1,S,-,-,-,-,https://web.archive.org/web/20220817120426/https://www.nbcbayarea.com/news/local/fatal-vehicle-crash-pond-san-ramon-crow-canyon-road/2059033/,,Keith Leund,,,
-44,2018,2018-05-10,Switzerland,-,"Tesla drives into median, burns",1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817120500/https://www.thelocal.ch/20180515/swiss-tesla-accident-crash-may-have-sparked-battery-fire/,,,,,
-43,2018,2018-05-08,USA,FL,Two teens trapped in burning Tesla,2,1,1,0,0,2,S,-,-,-,-,https://web.archive.org/web/20220817120457/https://www.abc.net.au/news/2018-05-10/tesla-crash-battery-fire-kills-two-teenagers/9747648,,Edgar Martinez,Barrett Riley,,
-42,2018,2018-04-29,Japan,-,Sleeping Tesla driver kills pedestrian,1,0,0,1,0,0,X,1,missing,1,"""On April 29, 2018, on an expressway near Tokyo, Japan, Tesla Model X vehicle with
-Autopilot on suddenly accelerated when the car in front of it switched lanes in a common, textbook 'cutout' situation""",https://web.archive.org/web/20230505004948/https://www.forbes.com/sites/lanceeliot/2020/05/16/lawsuit-against-tesla-for-autopilot-engaged-pedestrian-death-could-disrupt-full-self-driving-progress/?sh=42b2c0a771f4,,,,,
-41,2018,2018-04-28,USA,OH,Ohio prom night crash,1,0,1,0,0,1,S,-,-,-,-,https://web.archive.org/web/20220817120455/https://www.journal-news.com/news/teen-admits-guilt-fatal-monroe-prom-night-crash/D5kGMQdhmoIIMF08eubVQL/,,,,,
-40,2018,2018-03-23,USA,CA,Autopilot into highway barrier,1,1,0,0,0,1,-,1,missing,1,"""Tesla has said a car that crashed in California last week, killing its driver, was operating on Autopilot.""",https://web.archive.org/web/20220817120445/https://www.theguardian.com/technology/2018/mar/31/tesla-car-crash-autopilot-mountain-view,,Walter Huang,,,
-39,2018,2018-03-12,China,-,Tesla kills pedestrian,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20180312053226/http://www.atimes.com/article/filipino-dies-run-car-causeway-bay/,,,,,
-38,2018,2018-03-12,Norway,-,Sudden unintended acceleration into wall,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817120455/https://www.reddit.com/r/teslamotors/comments/83wmpe/first_death_recorded_in_a_tesla_in_norway/,,,,,
-37,2017,2017-11-22,Switzerland,-,Tesla rear ends stopped car,1,0,0,1,0,0,S,-,-,-,-,https://web.archive.org/web/20220817120447/https://www.blick.ch/schweiz/zuerich/nach-auffahrunfall-auf-der-a4-wegen-fahrlaessiger-toetung-verurteilt-tesla-fahrer-kommt-mit-busse-davon-id15140089.html,,,,,
-36,2017,2017-11-14,Australia,-,Tesla kills cyclist,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20220817120500/https://www.dailymail.co.uk/news/article-5081395/Champion-poker-player-49-involved-fatal-crash.html,,,,,
-35,2017,2017-09-24,USA,TN,Tesla drives off road,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20190406164855/https://www.wkrn.com/news/deadly-morning-on-middle-tennessee-roads-5-dead-in-3-crashes/1057466355,"Twitter search for ""Cruzelite"" and ""Tesla"" confirms Joel owned a Tesla. Also had a TMC account.",Joel Michael,,,
-34,2017,2017-08-13,USA,AZ,Tesla kills motorcyclist,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817120505/https://www.fox10phoenix.com/news/friends-remember-man-who-was-killed-in-a-motorcycle-crash-in-scottsdale,,Greg Dolphin,,,
-33,2017,2017-07-21,USA,AZ,Wrong way driver strikes Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817120507/https://www.abc15.com/news/region-northeast-valley/scottsdale/wrong-way-driver-dead-in-l-101-crash-in-scottsdale,,,,,
-32,2017,2017-06-25,USA,CA,Tesla strikes Camry,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817120506/https://www.nbcsandiego.com/news/local/1-killed-in-collision-on-del-dios-hwy-in-escondido/19052/,,,,,
-31,2017,2017-06-10,USA,HI,Unclear; see note at right,1,0,0,1,0,0,S,-,-,-,-,https://web.archive.org/web/20180502015310/http://www.khon2.com/news/local-news/waimanalo-man-killed-in-crash-on-pali-hwy/901491841,"News report describes a speeding driver striking a Tesla; video footage and Copart photos of car show an unblemished Tesla missing a rear wheel, suggesting another of Tesla's characteristic ""snap off"" wheels",,,,
-30,2017,2017-05-11,USA,FL,Tesla into oncoming traffic,1,0,0,1,0,0,-,-,-,-,-,https://www.companyowl.com/i/n/just-tesla-driver-loses-license-wreck-killed-glades-man/3310548,,Bryant Gonzalez,,,
-29,2017,2017-04-26,Norway,-,Tesla into oncoming traffic,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817120615/https://www.dt.no/nyheter/royken/ulykke/mann-i-50-arene-siktet-for-uaktsomt-drap-etter-dodsulykke/s/5-57-620919,,,,,
-28,2017,2017-03-13,USA,CA,Tesla kills pedestrian,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20220817120645/http://thefoothillspaper.com/2017/03/16/traffic-fatality-on-wentworth/,,,,,
-27,2017,2017-01-17,Germany,-,Driver died in pileup,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817120612/https://www.ln-online.de/lokales/stormarn/massenkarambolage-unfall-tesla-wird-untersucht-IBDG5MHZX7HH7STOGAQOF5ISPE.html,,,,,
-26,2016,2016-12-20,USA,CA,Tesla kills pedestrian,1,0,0,0,1,1,X,-,-,-,-,https://walterclark.com/blog/elderly-man-killed-palm-springs-pedestrian-collision/?mode=list,,James Scott,,,
-25,2016,2016-11-23,USA,IL,Driver dead in Winnebago County,1,1,0,0,0,1,S,-,-,-,-,https://web.archive.org/web/20220817120614/https://medium.com/@MidwesternHedgi/teslas-driver-fatality-rate-is-more-than-triple-that-of-luxury-cars-and-likely-even-higher-433670ddde17,"In NHTSA-FARS database, CaseNum=964&StateNum=17&CaseYear=2016",,,,
-24,2016,2016-11-03,USA,IN,Indianapolis fire,2,1,1,0,0,2,-,-,-,-,-,https://web.archive.org/web/20220817120611/https://www.indystar.com/story/news/crime/2016/11/03/2-killed-fiery-tesla-crash-near-downtown/93227456/,,Casey Speckman,Kevin McCarthy,,
-23,2016,2016-10-10,USA,NH,Pileup,1,0,0,1,0,0,S,-,-,-,-,https://web.archive.org/web/20220817120611/https://patch.com/new-hampshire/londonderry/one-killed-others-injured-5-vehicle-accident-i-93-nh,,,,,
-22,2016,2016-10-07,USA,CA,Tesla kills motorcyclist,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817120702/https://www.latimes.com/local/lanow/la-me-ln-pasadena-hit-and-run-20161007-snap-story.html,,,,,
-21,2016,2016-09-07,Netherlands,-,Drove into wooded ravine,1,1,0,0,0,1,-,-,-,-,-,https://archive.ph/wip/kco0E,,,,,
-20,2016,2016-09-01,USA,FL,Motorcyclist rear ends Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817120817/https://www.local10.com/news/2016/09/02/fhp-identifies-motorcyclist-killed-in-i-95-crash/,,,,,
-19,2016,2016-08-15,USA,CA,Tesla rear ended,1,0,1,0,0,1,S,-,-,-,-,https://web.archive.org/web/20220817120829/https://electrek.co/2016/08/15/rare-fatal-accident-tesla-model-s-rear-ended-large-suv/,,,,,
-18,2016,2016-07-29,USA,FL,Tesla kills pedestrian,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20220817120828/https://www.local10.com/traffic/2016/07/29/police-investigate-womans-death-near-miami-shores/,,,,,
-17,2016,2016-07-22,USA,CA,Passat strikes Tesla,1,0,0,1,0,0,S,-,-,-,-,https://web.archive.org/web/20220817120734/https://www.ojaivalleynews.com/?view=article&id=12017:woman-in-fatal-baldwin-road-crash-identified&catid=864,,,,,
-16,2016,2016-06-08,USA,HI,Nissan Altima wrong way into Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817120738/https://www.khon2.com/news/maui-woman-killed-another-critically-injured-in-paia-crash/,,,,,
-15,2016,2016-05-07,USA,FL,Autopilot into 18 wheeler,1,1,0,0,0,1,-,1,missing,1,"""But Mr. Brown became a victim of an innovation geared precisely to people like him when his Tesla Model S electric sedan collided with a semitrailer truck on a Florida highway in May, making him the first known fatality in a self-driving car.""",https://web.archive.org/web/20220817120738/https://www.nytimes.com/2016/07/02/business/joshua-brown-technology-enthusiast-tested-the-limits-of-his-tesla.html,,Joshua Brown,,,
-14,2016,2016-04-22,USA,CA,Pedestrian killed in pileup,1,0,0,0,1,1,S,-,-,-,-,https://web.archive.org/web/20220817120736/https://www.ocregister.com/2016/04/26/homeless-man-identified-as-pedestrian-killed-after-getting-hit-by-cars-in-huntington-beach/,,,,,
-13,2016,2016-04-08,USA,OH,Chevy Cobalt wrong way into Tesla,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20180813153941/https://www.nbc4i.com/local-news/serious-crash-shuts-down-part-of-i-270-in-west-columbus/1114360123,,,,,
-12,2016,2016-01-20,China,-,Autopilot into street sweeper,1,1,0,0,0,1,S,1,missing,1,"""Vehicle maker Tesla has confirmed that one of its electric vehicles involved in a fatal crash in northern China two years ago did have its ""Autopilot"" function engaged at the time of the crash, reports China Central Television (CCTV).""",https://web.archive.org/web/20230513211421/http://www.ecns.cn/2018/02-28/293992.shtml,,Gao Yaning,,,
-11,2015,2015-12-28,USA,TX,Sudden unintended acceleration into pool,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817120752/https://www.chron.com/houston/article/Man-dies-after-crashing-Tesla-into-Houston-6723626.php,,,,,
-10,2015,2015-12-22,Canada,-,Struck by dump truck,1,1,0,0,0,1,-,,-,-,-,https://web.archive.org/web/20220817120756/https://electrek.co/2015/12/22/man-dies-tesla-model-s-crash-dump-truck-first-death/,,,,,
-9,2015,2015-11-18,USA,CA,Tesla kills pedestrian,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20220817120754/https://patch.com/california/fremont/pedestrian-dies-injuries-following-wednesdays-crash-0,,,,,
-8,2015,2015-06-22,USA,CA,Tesla drives off cliff,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817120755/https://www.dailynews.com/2015/06/25/malibu-tesla-crash-victim-is-tim-devine-woodland-hills-husband-father/,,Tim Devine,,,
-7,2015,2015-01-22,USA,CA,Tesla drives off cliff,1,1,0,0,0,1,S,-,-,-,-,https://web.archive.org/web/20220817120837/https://www.mercurynews.com/2015/01/22/los-gatos-man-killed-in-solo-vehicle-crash/,,Peter Kleis,,,
-6,2014,2014-12-30,USA,CA,Tesla drives off cliff,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817120806/https://www.pressdemocrat.com/article/news/pd-default-story-headline-xy-yxyxy-yyxyxyxyxyx/?gallery=3314901,,Louis Francis Thoelecke,,,
-5,2014,2014-07-14,USA,CA,Tesla kills motorcyclist,1,0,0,1,0,0,-,-,-,-,-,https://web.archive.org/web/20220817120807/http://injurylawcentral.com/blog/dwight-dene-palmer-killed-newport-beach-motorcycle-accident-car,,,,,
-4,2014,2014-07-04,USA,CA,Thief crashes stolen Tesla,1,1,0,0,0,1,-,-,-,-,-,https://web.archive.org/web/20220817120839/https://www.theverge.com/2014/7/10/5888463/car-thief-becomes-first-tesla-model-s-fatality,,Joshua Slot,,,
-3,2014,2014-07-04,USA,CA,Tesla rear ends stopped car,3,0,0,3,0,0,-,-,-,-,-,https://web.archive.org/web/20220412004559/https://insideevs.com/news/322934/breaking-3-dead-in-toyota-corolla-tesla-model-s-collision-video/,,,,,
-2,2013,2013-11-02,USA,CA,Tesla kills cyclist,1,0,0,0,1,1,-,-,-,-,-,https://web.archive.org/web/20220817121049/https://www.santacruzsentinel.com/2014/07/18/judge-sentences-man-for-fatal-tesla-vs-bike-collision-calls-driver-a-saint-victim-an-angel/,,,,,
-1,2013,2013-04-02,USA,CA,Tesla veers into opposite lane,2,0,0,2,0,0,S,-,-,-,-,https://web.archive.org/web/20150425055520/http://articles.latimes.com/2013/apr/02/local/la-me-ln-laguna-beach-accident-20130402,,Alberto Casique-Salinas,Armando Garcia-Gonzales,,
+Case #,Year,Date,Country,State,Description,Deaths,Tesla driver,Tesla occupant,Other vehicle,Cyclists/ Peds,TSLA+cycl / peds
+444,2024,2024-09-02,USA,CA,Tesla DUI hits other car,1,0,0,1,0,0
+443,2024,2024-09-01,Germany,-,Car hit during road race,1,0,0,1,0,0
+442,2024,2024-08-27,UK,-,Pedestrian hit,1,0,0,0,1,1
+441,2024,2024-08-27,USA,OR,Head-on collision,1,1,0,0,0,1
+440,2024,2024-08-26,USA,CA,Pickup hits Tesla,2,1,1,0,0,2
+439,2024,2024-08-23,USA,FL,DUI,1,1,0,0,0,1
+438,2024,2024-08-20,USA,NJ,Tesla hits tree,1,0,1,0,0,1
+437,2024,2024-08-18,USA,NJ,"Tesla hits tree, catches on fire",1,1,0,0,0,1
+436.1,2024,2024-08-11,USA,FL,Multi-car accident caused by Tesla speeding,2,0,0,2,0,0
+436,2024,2024-08-10,USA,CA,Head-on collision,1,0,1,0,0,1
+435,2024,2024-08-05,USA,TX,"Cybertruck crashes, ignites",1,1,0,0,0,1
+434.1,2024,2024-07-22,USA,CA,Pedestrian on highway hit,1,0,0,0,1,1
+434,2024,2024-07-21,USA,OR,Multi-car accident,2,0,0,2,0,0
+433,2024,2024-07-10,USA,IN,Tesla and truck collide,1,1,0,0,0,1
+432,2024,2024-07-01,USA,NM,Tesla hit by drunk driver,1,1,0,0,0,1
+431.1,2024,2024-06-29,USA,IN,DUI collision,1,0,0,1,0,0
+430,2024,2024-06-29,UK,-,Bus and Tesla collide,1,0,1,0,0,1
+429,2024,2024-06-27,USA,MA,"Tesla hits tree, catches on fire",1,1,0,0,0,1
+428,2024,2024-06-20,USA,FL,"Tesla crashes into tree, goes up in flames",1,1,0,0,0,1
+427,2024,2024-06-17,Estonia,-,Tesla runs into tractor trailer,1,1,0,0,0,1
+426,2024,2024-06-14,USA,CA,Scooter hit by Tesla,1,0,0,1,0,0
+425,2024,2024-06-11,USA,CA,Tesla flips,3,0,3,0,0,0
+424,2024,2024-06-09,USA,CA,Pedestrian hit,1,0,0,0,1,1
+423.1,2024,2024-06-08,USA,FL,Motorcycle hits Tesla,1,0,0,1,0,0
+423,2024,2024-06-03,USA,TX,Tesla hits parked tractor-trailer,1,1,0,0,0,1
+422,2024,2024-06-01,USA,MD,Tesla hit motorcycle,1,0,0,1,0,0
+421,2024,2024-05-29,USA,WA,"Tesla runs red light, collides with two cars",1,0,0,1,0,0
+420,2024,2024-05-26,USA,FL,Tesla crashes into a support column and burns,1,1,0,0,0,1
+419,2024,2024-05-24,Germany,-,"Tesla crashes under bridge, burns",1,1,0,0,0,1
+418,2024,2024-05-23,UK,-,Three-way crash,1,1,0,0,0,1
+417,2024,2024-05-22,USA,WA,Tesla crashes offroad,1,1,0,0,0,1
+416,2024,2024-05-19,USA,WI,DUI,1,0,0,1,0,0
+415,2024,2024-05-11,USA,CA,Car crashes into house,3,1,2,0,0,3
+414.1,2024,2024-05-07,Taiwan,-,Tesla loses control and crashes,2,1,1,0,0,0
+414.1,2024,2024-05-07,Taiwan,-,Tesla loses control and crashes,2,1,1,0,0,0
+413,2024,2024-05-04,USA,CA,Tesla hits pole,1,1,0,0,0,1
+412,2024,2024-04-27,China,-,Tesla falls off cliff,2,1,1,0,0,2
+411,2024,2024-04-26,USA,MO,Head-on collision,1,0,0,1,0,0
+410.1,2024,2024-04-22,Germany,-,Tesla hits bicyclist,1,0,0,0,1,1
+410,2024,2024-04-19,USA,WA,Tesla runs into motorcycle,1,1,1,0,0,0
+409,2024,2024-04-07,USA,CA,"Tesla drives in wrong direction, hits cars",1,0,0,1,0,0
+408,2024,2024-04-02,USA,GA,Multi-car crash,1,0,0,0,0,0
+407,2024,2024-04-01,USA,OH,Tesla runs stop sign,2,0,0,2,0,0
+406,2024,2024-03-24,USA,IN,Tesla hits embankment,1,1,0,0,0,1
+405,2024,2024-03-22,USA,AZ,Tesla collides with car head-on,1,0,0,1,0,0
+404,2024,2024-03-18,USA,FL,Tesla hits pedestrian,1,0,0,0,1,1
+403,2024,2024-02-21,USA,GA,Multi-car crash,2,0,0,2,0,0
+402,2024,2024-02-21,USA,CA,Tesla hits pedestrian,1,0,0,0,1,1
+401,2024,2024-02-20,USA,UT,Car crashes into turning Tesla,1,0,1,0,0,1
+400,2024,2024-02-18,Canada,-,SUV hits Tesla on highway,1,0,1,0,0,1
+399,2024,2024-02-14,USA,CA,"Tesla hits pole, catches fire",1,1,0,0,0,1
+398,2024,2024-02-14,USA,CA,"Tesla driver has ""health incidentt""",1,1,0,0,0,1
+397,2024,2024-02-14,UK,-,Mult-car accident,2,1,1,0,0,2
+396,2024,2024-02-11,USA,TX,Tesla backs into pond,1,1,0,0,0,1
+395,2024,2024-02-11,USA,CA,"Tesla hits pole, ignites",1,1,0,0,0,1
+394,2024,2024-02-07,USA,PA,Tesla crashes into turning car,1,0,0,1,0,0
+393,2024,2024-02-01,USA,CA,Tesla hits pedestrian,1,0,0,0,1,1
+392,2024,2024-01-28,USA,CA,Tesla hits railing,1,1,0,0,0,0
+391,2024,2024-01-26,USA,CT,Tesla hits tree,1,1,0,0,0,0
+390.1,2024,2024-01-24,Germany,-,Tesla hits pedestrian leaving car crash,1,0,0,0,1,1
+390,2024,2024-01-24,USA,PA,Tesla rolls over and crashes into creek,1,1,0,0,0,0
+389.1,2024,2024-01-19,Germany,-,Tesla crashes into car,1,0,0,1,0,1
+389,2024,2024-01-16,USA,FL,Tesla goes airborne and hits tree,1,1,0,0,0,0
+388,2024,2024-01-12,USA,CA,Multi-car accident,2,0,0,2,0,0
+387,2024,2024-01-07,USA,TX,Speeding Tesla hits car,1,1,0,0,0,1
+386.1,2024,2024-01-05,USA,CA,Three-way crash,1,0,0,1,0,0
+386,2023,2023-12-31,USA,CA,Tesla hits man lying in road,1,0,0,0,1,1
+385,2023,2023-12-29,USA,WY,"Tesla crosses into incoming traffic, hit, and spins off road",1,0,1,0,0,1
+384,2023,2023-12-28,USA,NJ,Multi-car accident,1,0,0,1,0,0
+383,2023,2023-12-24,USA,CA,DUI hit and run,1,0,0,0,1,1
+382,2023,2023-12-20,USA,GA,"Tesla crashes into telephone pole, ignites",2,1,1,0,0,2
+381,2023,2023-12-16,USA,CA,Tesla hits highway divider,1,1,0,0,0,1
+380,2023,2023-12-14,USA,CA,Tesla crashes into trees,1,0,0,0,0,1
+379,2023,2023-12-04,UK,-,Truck and Tesla collide,1,1,0,0,0,1
+378,2023,2023-11-30,USA,AR,Tesla hit other car on highway,2,0,1,1,0,1
+377,2023,2023-11-15,USA,NC,Moped runs into Tesla,1,0,0,1,0,0
+376.1,2023,2023-11-14,USA,MN,Hit and run,1,0,0,0,1,1
+376.1,2023,2023-11-14,USA,MN,Hit and run,1,0,0,0,1,1
+376,2023,2023-11-04,USA,WA,Tesla rolls over and hits enbankment,1,1,0,0,0,0
+375,2023,2023-11-03,USA,FL,Tesla hits a dislodged motorcyclist,1,0,0,0,1,1
+374.1,2023,2023-11-12,USA,AZ,Pedestrian killed,1,0,0,0,1,1
+374,2023,2023-10-30,USA,NY,Tesla hits multiple cars,1,0,1,0,0,0
+373,2023,2023-10-30,USA,NY,DUI,1,0,0,1,0,0
+372,2023,2023-10-26,USA,CA,Motorcycle crashes into Tesla,1,0,0,1,0,0
+371,2023,2023-10-14,UK,-,Cyclist hit by Tesla,1,0,0,0,1,1
+370,2023,2023-10-14,USA,WA,Car hit by oncoming Tesla,1,0,0,1,0,0
+369,2023,2023-10-14,USA,CA,Stolen Tesla hits minivan,2,1,0,1,0,1
+368,2023,2023-10-13,USA,CA,"Tesla hits divider and tree, ignites",2,1,1,0,0,2
+367.1,2023,2023-10-12,USA,SC,"Tesla hits trees, catches fire",1,1,0,0,0,0
+367,2023,2023-10-10,USA,MA,Tesla hits car making u-turn,1,0,0,1,0,0
+366,2023,2023-10-04,USA,CA,"Head-on collision, Tesla catches fire",1,1,0,0,0,1
+365,2023,2023-10-02,USA,CA,Tesla heading in wrong direction collides with car,2,1,0,1,0,1
+364,2023,2023-09-30,USA,CA,Tesla hits pole,1,1,0,0,0,1
+363,2023,2023-09-25,USA,VA,Rear-end car crash,1,0,0,1,0,0
+361,2023,2023-09-24,USA,PA,Collision,3,0,0,0,0,0
+360,2023,2023-09-04,USA,VA,Motorcycle and Tesla head-on collide,1,0,0,1,0,0
+359,2023,2023-09-01,USA,ID,Tesla crosses center line and hits oncoming car,4,1,2,1,0,4
+358,2023,2023-08-29,USA,TX,Tesla crashes into wall of hospital,2,1,1,0,0,2
+357.2,2023,2023-08-14,New Zealand,-,"Tesla crashes into tree, ignites",1,1,0,0,0,1
+357.1,2023,2023-08-14,UK,-,Tesla hits bicyclist,1,0,0,0,1,1
+357,2023,2023-08-13,USA,NJ,Motorcycle hits Tesla,1,0,0,1,0,0
+356,2023,2023-08-12,Germany,-,Tesla hits guardrail and burns,1,1,0,0,0,1
+355,2023,2023-08-12,USA,CA,Multi-car accident involving semi,1,0,0,0,0,0
+354.1,2023,2023-08-07,USA,FL,Tesla collides with pickup,1,1,0,0,0,1
+354,2023,2023-08-01,USA,CA,Motorcycle hits Tesla,1,0,0,1,0,0
+353,2023,2023-07-31,USA,TX,Hit and run,1,0,0,0,1,1
+352,2023,2023-07-29,USA,UT,"Tesla crashes into tree, burns",3,1,2,0,0,3
+351,2023,2023-07-29,USA,TX,"Tesla crashes into tree, burns",1,1,0,0,0,1
+350,2023,2023-07-22,USA,NC,Tesla crashes into trees,1,1,0,0,0,1
+349,2023,2023-07-21,USA,VA,Tesla crashes into side of truck,1,1,0,0,0,1
+348,2023,2023-07-20,USA,CA,Multi-car accident,1,0,0,0,0,0
+346,2023,2023-07-16,USA,FL,Tesla runs off road and crashes into pole,1,1,0,0,0,1
+345,2023,2023-07-08,USA,MN,Speeding Tesla crashes into minivan,1,0,0,1,0,0
+344,2023,2023-07-08,USA,CA,Tesla crashes in parking lot,3,1,2,0,0,3
+343,2023,2023-07-08,Germany,-,Tesla crashes into trees,1,1,0,0,0,1
+342.2,2023,2023-07-07,USA,CA,Tesla hits fire hydrant and burns,2,1,1,0,0,2
+342.1,2023,2023-07-07,USA,CA,Multi Car accident involving DUI,1,0,0,1,0,0
+342,2023,2023-07-05,USA,CA,Collision,2,0,1,1,0,1
+341,2023,2023-07-04,USA,FL,Tesla crashes into divider,1,1,0,0,0,1
+340,2023,2023-07-01,Italy,-,Tesla drives into opposite lane,1,0,0,1,0,0
+339,2023,2023-07-01,France,-,Tesla hits tree,1,1,0,0,0,1
+338,2023,2023-06-29,USA,NY,"Tesla crashes into house, explodes",2,1,0,0,0,1
+337.1,2023,2023-06-26,USA,WA,"Tesla hits trees, ignites",1,1,0,0,0,0
+337,2023,2023-06-26,USA,CA,Tesla t-bones car,1,0,0,1,0,0
+336,2023,2023-06-22,USA,MD,Tesla crashes into divider,1,1,0,0,0,0
+335.1,2023,2023-06-20,USA,CA,Car collides with Tesla,1,0,0,1,0,0
+335,2023,2023-06-15,USA,FL,Tesla loses control and hits divider,1,1,0,0,0,0
+334,2023,2023-06-14,USA,CA,"Tesla loses control and hits tree, catches fire",2,1,1,0,0,0
+333,2023,2023-06-13,USA,CA,Tesla rolls off road and hits culvert,1,1,0,0,0,0
+332,2023,2023-06-11,USA,NY,Tesla rolls off road,4,1,3,0,0,4
+331,2023,2023-06-11,USA,MA,Motorcycle crashes into Tesla,1,0,0,1,0,0
+330,2023,2023-06-07,USA,NY,Tesla hits pedestrian,1,0,0,0,1,1
+329,2023,2023-06-06,USA,OR,"Tesla drifts off interstate, hits tree, catches fire",1,1,0,0,0,1
+328,2023,2023-05-31,USA,CA,SUV and Tesla collide,2,1,0,1,0,1
+327,2023,2023-05-28,USA,IL,Tesla hits ejected motorcyclist,1,0,0,0,1,1
+326.1,2023,2023-05-24,USA,FL,Tesla t-bones car,1,1,3,0,0,0
+326,2023,2023-05-23,USA,CT,Tesla crashes in nine cars,1,1,0,0,0,1
+325,2023,2023-05-22,USA,GA,"Tesla crashes into woods, catches fire",2,1,1,0,0,2
+324.1,2023,2023-05-15,UK,-,Cyclist hit by Tesla,1,0,0,0,1,1
+324,2023,2023-05-14,USA,CA,SUV filled with family members and Tesla collide,3,0,0,3,0,0
+323,2023,2023-05-13,USA,OR,Tesla collides with tow truck,1,1,0,0,0,1
+322,2023,2023-05-07,Ireland,-,Tesla and motorbike collide,1,0,0,1,0,0
+321,2023,2023-05-05,USA,CA,Motorcycle crashes into Tesla,1,0,0,1,0,0
+320,2023,2023-05-05,China,-,"Tesla hits barrier, DUI",2,1,1,0,0,2
+319,2023,2023-04-30,USA,NJ,Collision,1,0,0,1,0,0
+318,2023,2023-04-25,USA,CA,Tesla hits electric bike,1,0,0,0,1,1
+317,2023,2023-04-23,USA,CA,Multi Car crash,2,0,0,2,0,0
+316,2023,2023-04-18,USA,CT,"Tesla hits car, car crashes into median",1,0,0,1,0,0
+315,2023,2023-04-17,USA,TX,Two car collision,1,1,1,0,0,1
+314,2023,2023-04-14,USA,AL,Tesla crashes into semi,2,1,1,0,0,2
+313,2023,2023-04-03,USA,CA,Fiery crash,1,0,1,0,0,1
+312.1,2023,2023-03-28,USA,CA,Pickup hits Tesla,1,0,0,0,0,1
+312,2023,2023-03-25,USA,CA,Hit and run,1,0,0,0,1,1
+311.1,2023,2023-03-15,USA,NJ,"Tesla hits tree during snow storm, ignites",1,1,0,0,0,1
+311,2023,2023-03-12,USA,UT,Car hits Tesla that crashed into cable barrier; inclement weather,1,0,0,1,0,0
+310,2023,2023-02-25,USA,MO,Tesla hits turning car,1,0,0,1,0,0
+309,2023,2023-02-25,USA,CA,Collision,2,1,1,0,0,2
+308,2023,2023-02-21,USA,DC,Multi-car crash,1,1,0,0,0,1
+307,2023,2023-02-20,USA,ID,Tesla drives into embankment,1,1,0,0,0,1
+306,2023,2023-02-20,USA,CA,Tesla drives into opposite lane,3,0,2,1,0,2
+305,2023,2023-02-18,USA,CA,Tesla crashes into fire truck,1,1,0,0,0,1
+304,2023,2023-02-17,China,-,"Tesla lands on front end, crashes into vehicles",1,0,1,0,0,0
+303,2023,2023-02-17,USA,NY,Tesla collides with car head-on,4,1,1,2,0,2
+302,2023,2023-02-15,USA,CO,Four vehicle collision,1,0,0,1,0,0
+301,2023,2023-02-14,USA,NJ,Pickup hits Tesla,1,0,0,1,0,0
+300,2023,2023-02-07,USA,TN,Two-car collision,2,1,1,0,0,2
+299,2023,2023-01-31,USA,PA,Speeding Tesla hits pedestrian,1,0,0,0,1,1
+298,2023,2023-01-30,USA,MO,Speeding Tesla crashes into car,1,0,0,1,0,0
+297,2023,2023-01-21,USA,CA,Tesla crashes into resident's pool,1,1,0,0,0,1
+296,2023,2023-01-17,USA,CA,Tesla crashes into back of semi,1,1,0,0,0,1
+295,2023,2023-01-07,Canada,-,Tesla crashes,1,1,0,0,0,1
+294,2023,2023-01-07,USA,WA,"Tesla hits pole, catches on fire",1,0,1,0,0,1
+293.1,2023,2023-01-07,USA,WA,"Tesla hits pole, ignites",1,0,1,0,0,1
+293,2022,2022-12-22,USA,GA,Tesla crashes and burns,1,1,0,0,0,1
+292,2022,2022-12-19,Canada,-,Tesla crashes into storefront,1,0,0,0,1,1
+291,2022,2022-12-18,USA,CA,Tesla hit two other cars,1,0,1,0,0,0
+290,2022,2022-12-17,USA,CA,Tesla hits pedestrian on highway,1,0,0,0,1,1
+289,2022,2022-12-11,USA,CA,Tesla crashes into wall,1,1,0,0,0,0
+288,2022,2022-12-11,USA,MO,Collision at intersection,1,0,0,1,0,0
+287,2022,2022-12-06,Canada,-,"Tesla veers, collides with truck",1,1,0,0,0,0
+286,2022,2022-11-28,China,-,"Tesla runs red light, collides with two cars",2,0,0,2,0,0
+285,2022,2022-11-27,USA,CA,"Tesla careens off road, hits trees",1,1,0,0,0,1
+284,2022,2022-11-26,USA,AR,Tesla hits pedestrian,1,0,0,0,1,1
+283,2022,2022-11-18,China,-,Tesla crashes into dump truck,1,1,0,0,0,1
+282,2022,2022-11-12,Mexico,-,Tesla hits Toyota,1,0,0,1,0,0
+281,2022,2022-11-12,USA,CA,Multi-vehicle accident,1,0,0,1,0,0
+280,2022,2022-11-11,USA,CA,"Tesla hits wall, catches fire",1,0,1,0,0,0
+279,2022,2022-11-05,China,-,Out of control Tesla hits bicyclist and motorcyclist,2,0,0,1,1,1
+278,2022,2022-11-04,USA,IL,"Collision at intersection, Tesla driver dies in hospital",1,1,0,0,0,1
+277,2022,2022-10-19,USA,CA,Multi-car crash,1,1,0,0,0,1
+276,2022,2022-10-18,USA,FL,"Tesla collides with minivan, engulfed by flames",4,1,1,2,0,2
+275,2022,2022-10-12,UK,-,Tesla crashes into ditch,1,1,0,0,0,1
+274,2022,2022-10-09,USA,CA,Tesla hits concrete block,1,0,1,0,0,1
+273,2022,2022-10-01,USA,FL,Tesla hits tree and catches fire,1,1,0,0,0,1
+272,2022,2022-09-18,USA,SC,"Tesla crashes into tree, ignites",2,1,1,0,0,2
+271,2022,2022-09-18,USA,MD,Multi-car accident,1,0,0,1,0,0
+270,2022,2022-09-16,USA,GA,"Tesla loses control and crashes into bus shelter, kills man inside",1,0,0,0,1,1
+269,2022,2022-09-13,USA,CA,Tesla runs off highway,1,1,0,0,0,1
+268,2022,2022-09-12,USA,NY,"Tesla runs off road, catches fire",1,1,0,0,0,0
+267,2022,2022-09-07,USA,CA,Motorcycle collides with Tesla,1,1,0,0,0,0
+266.1,2022,2022-09-12,USA,FL,[REDACTED],1,0,0,0,0,0
+266,2022,2022-08-30,USA,CA,Tesla hits motorcycle,1,0,0,1,0,0
+265,2022,2022-08-26,USA,FL,Tesla hits motorcycle,1,0,0,1,0,0
+264,2022,2022-08-24,USA,MA,Motorcyclist hits Tesla,1,0,0,1,0,0
+263,2022,2022-08-23,USA,SC,Multi-car accident on highway,2,0,0,2,0,0
+262,2022,2022-08-21,UK,-,"Car drives thru garage, hits Tesla, lands on railroad tracks",1,0,0,1,0,0
+261,2022,2022-08-20,USA,FL,"Tesla swerves, runs off roadway, overturns",1,1,0,0,0,1
+260,2022,2022-08-20,USA,FL,Pedestrian hit in road,1,0,0,0,1,1
+259,2022,2022-08-16,Germany,-,"Tesla car crashes into tree, burns",3,0,0,0,0,3
+258,2022,2022-08-14,USA,CA,Tesla veers into oncoming traffic,4,1,3,0,0,4
+257,2022,2022-08-14,Finland,-,Unlicensed driver hits pedestrian,1,0,0,0,1,1
+256,2022,2022-08-02,USA,FL,Man in wheelchair hit crossing road,1,0,0,0,1,1
+255,2022,2022-07-27,Canada,-,Tesla hits cyclist,1,0,0,0,1,1
+254,2022,2022-07-27,USA,ME,Tesla crashes at high speed,1,1,0,0,0,1
+253,2022,2022-07-24,USA,UT,Tesla hits motorcycle,1,0,0,1,0,0
+252,2022,2022-07-16,USA,PA,Tesla goes airborne and crashes,1,1,0,0,0,1
+251,2022,2022-07-12,China,-,Out of control Tesla hits pedestrians,2,0,0,0,2,2
+250,2022,2022-07-08,USA,CA,3-car accident involving Tesla,1,0,0,1,0,0
+249,2022,2022-07-08,USA,HA,Motorcycle crashes into Tesla,1,0,0,1,0,0
+248,2022,2022-07-07,USA,CA,Motorcycle hit by Tesla,1,0,0,1,0,0
+247,2022,2022-07-06,USA,FL,Tesla hits parked tractor-trailer,2,1,1,0,0,2
+246,2022,2022-07-05,USA,GA,"Tesla strikes pole, burns",1,1,0,0,0,1
+245,2022,2022-06-26,USA,CA,Tesla drives into opposite lane,1,0,0,1,0,0
+244,2022,2022-06-20,USA,AL,Tesla crashes into car,1,0,0,1,0,0
+243,2022,2022-06-20,USA,PA,Tesla hit and run,1,0,0,0,1,1
+242,2022,2022-06-20,Canada,-,Tesla runs into overpass,1,1,0,0,0,1
+241,2022,2022-06-19,USA,MI,"Tesla hits telephone pole, ignites",2,1,1,0,0,2
+240,2022,2022-06-17,USA,CA,Head-on collision,2,1,1,0,0,2
+239,2022,2022-06-14,USA,CA,Tesla moves into opposite lane and head-on crashes,1,0,0,1,0,0
+238,2022,2022-06-13,USA,CA,Two-car collision,1,1,0,0,0,1
+237,2022,2022-06-07,USA,CA,DUI crash,1,0,0,0,1,1
+236,2022,2022-06-03,USA,NV,Motorcycle crashes into Tesla,1,0,0,1,0,0
+235,2022,2022-06-12,USA,NJ,[REDACTED],1,0,0,0,1,3
+234,2022,2022-05-28,USA,NY,Tesla DUI crash,1,0,0,1,0,0
+233,2022,2022-05-28,USA,OR,Tesla loses control and crashes into car,2,1,0,1,0,1
+232,2022,2022-05-28,USA,CA,Speeding tesla crashes into tree,1,1,0,0,0,1
+231,2022,2022-05-25,USA,OR,Tesla crashes into pole,1,0,1,0,0,1
+230,2022,2022-05-23,USA,AZ,Tesla driver hit in multi-car accident,1,1,0,0,0,1
+229,2022,2022-05-21,China,-,Tesla hits pedestrian,1,0,0,0,1,1
+228,2022,2022-05-19,USA,NJ,"Tesla hits trees, ignites",1,1,0,0,0,1
+227,2022,2022-05-19,USA,NJ,Multiple car crash on highway,1,1,0,0,0,1
+226,2022,2022-05-18,USA,CA,Tesla hits pedestrian,1,0,0,0,1,1
+225,2022,2022-05-17,USA,CO,Fiery crash,1,1,0,0,0,1
+224,2022,2022-05-12,Australia,-,Tesla hits electric bike who dies 5 days later from injuries,1,0,0,0,1,1
+223,2022,2022-05-12,USA,CA,Tesla smashes into construction equipment,3,1,2,0,0,3
+222,2022,2022-05-07,USA,UT,Tesla DUI involving another vehicle,2,0,0,2,0,0
+221,2022,2022-05-01,USA,PA,Tesla DUI hits pedestrian,1,0,0,0,1,1
+220,2022,2022-04-29,USA,NC,"Highway accident, Tesla goes airborne",1,1,0,0,0,0
+219,2022,2022-04-14,USA,FL,Crash with motorcycle,1,0,0,1,0,0
+218,2022,2022-04-10,UK,-,Two car accident,1,0,0,1,0,0
+217,2022,2022-04-08,Netherlands,-,Head-on collision with truck and Tesla,1,0,0,0,0,1
+216,2022,2022-03-27,USA,CA,"DUI crash on highway, Tesla catches fire",1,0,0,0,0,1
+215,2022,2022-03-21,USA,CA,Three car collision involving Tesla,2,0,0,2,0,0
+214,2022,2022-03-20,USA,CA,Car crosses double yellow and crashes with a Tesla,2,1,0,1,0,1
+213,2022,2022-03-14,USA,CA,Tesla collides into rail on highway,2,1,1,0,0,1
+212,2022,2022-03-14,USA,FL,Tesla crash that ends in fire,1,1,0,0,0,1
+211,2022,2022-03-13,Switzerland,-,Frontal collision between Tesla and VW,1,0,0,1,0,1
+210,2022,2022-03-12,USA,NY,Tesla ignites on parkway,1,1,0,0,0,1
+209,2022,2022-03-07,China,-,"Tesla on Autopilot hits maintenance car, then BMW hits responder",1,0,0,0,1,1
+208,2022,2022-03-07,USA,CA,Car found overturned in a ravine,1,1,0,0,0,1
+207,2022,2022-03-05,USA,CA,Tesla crashes head on with other car,1,0,0,1,0,0
+206,2022,2022-02-28,USA,ID,Car found in water-swollen ditch,1,1,0,0,0,1
+205,2022,2022-02-27,USA,MO,Tesla breaks down in traffic and causes pile-up,1,1,0,0,0,1
+204,2022,2022-02-12,USA,CA,Tesla crashes into a tree,1,1,0,0,0,1
+203,2022,2022-02-07,USA,FL,"Tesla loses control, hits pole, ignites",1,1,0,0,0,1
+202,2022,2022-01-16,USA,CA,Three-car collision near intersection,1,0,0,1,0,0
+201,2022,2022-01-01,USA,CA,Motorcyclist crashes into Tesla,1,0,0,1,0,0
+200,2022,2022-01-01,USA,CA,Single-collision on onramp,1,1,0,0,0,1
+199,2021,2021-12-31,USA,CA,Tesla crashes into trees,2,1,1,0,0,2
+198,2021,2021-12-28,USA,CA,Multi-crash involving DUI,1,0,0,1,0,0
+197,2021,2021-12-24,China,-,Tesla loses control and drives into river,1,1,0,0,0,1
+196,2021,2021-12-18,USA,CA,Multi-car accident,1,0,0,1,0,0
+195,2021,2021-12-11,France,-,Crash in public area including 20 injuries,1,0,0,0,1,1
+194,2021,2021-12-07,USA,AZ,Vehicular collision,1,1,0,0,0,1
+193,2021,2021-12-07,Germany,-,"Tesla crashes into trees, flames erupt",1,1,0,0,0,1
+192,2021,2021-12-02,China,-,Motorbiker killed by Tesla,1,0,0,1,0,0
+191,2021,2021-12-01,USA,CA,"Collision with pole, battery ignited",1,1,0,0,0,1
+190,2021,2021-11-29,USA,CA,DUI crash with parked car,1,0,0,1,0,0
+189,2021,2021-11-15,USA,CA,Pedestrian hit at crosswalk,1,0,0,0,0,1
+188,2021,2021-11-08,USA,AZ,Three car collision,1,0,0,1,0,0
+187,2021,2021-11-08,USA,OH,"Tesla hits fixture, catches fire",1,1,0,0,0,1
+186,2021,2021-11-06,USA,NV,DUI crash,1,0,1,0,0,1
+185,2021,2021-11-04,USA,FL,Tesla hits bicyclist before crashing,1,0,0,0,1,1
+184,2021,2021-10-28,USA,GA,Multi-collision event on highway,1,0,0,1,0,0
+183,2021,2021-10-15,USA,AZ,Toyota hits Tesla,1,0,0,1,0,0
+182,2021,2021-09-17,USA,IA,Three-way car collision,1,0,0,1,0,0
+181,2021,2021-09-13,USA,FL,"Tesla suffers suspension failure, hits tree, and ignites on fire",2,1,1,0,0,2
+180,2021,2021-09-04,China,-,Tesla hit pedestrian crossing road,1,0,0,0,1,1
+179,2021,2021-09-04,USA,FL,"Tesla runs stop sign, crashes into house",2,0,1,0,1,2
+178,2021,2021-08-29,USA,NY,"Car hits utility pole, ignites",2,1,1,0,0,2
+177,2021,2021-08-26,Netherlands,-,Tesla hits tree,1,1,0,0,0,1
+176,2021,2021-08-25,USA,AZ,Tesla runs a red light and hits another car,3,0,0,3,0,0
+175,2021,2021-08-17,USA,PA,Tesla crashes into guardrail,1,1,0,0,0,1
+174,2021,2021-07-26,Netherlands,-,"Four vehicle collision, Tesla catches fire",1,0,0,0,0,0
+173,2021,2021-07-26,USA,NY,Pedestrian hit on shoulder,1,0,0,0,1,1
+172,2021,2021-07-23,USA,GA,Tesla Driver loses control and hits median barrier,1,1,0,0,0,1
+171,2021,2021-07-21,USA,GA,Tesla driver hits man on shoulder of highway,1,0,0,0,1,1
+170,2021,2021-07-07,USA,CA,Other driver dies in head-on collision,1,0,0,1,0,0
+169,2021,2021-06-29,USA,CA,"Car crashes into Tesla, fire breaks out",2,1,0,1,0,1
+168,2021,2021-06-19,USA,MI,"Tesla hits power pole, runs off road, and ignites",2,1,1,0,0,2
+167,2021,2021-06-16,USA,FL,"Tesla crashes, driver later dies in hospital",1,1,0,0,0,1
+166,2021,2021-06-16,Denmark,-,"Driver loses control of car, crashes into tree",1,1,0,0,0,1
+165,2021,2021-06-11,USA,WA,Tesla crashes through backyard fence,1,1,0,0,0,1
+164,2021,2021-06-11,USA,NY,Driver crashes into senior living facility,1,0,1,0,0,1
+163,2021,2021-06-01,USA,WA,"Tesla hits concrete barrier, later catches on fire",1,1,0,0,0,1
+162,2021,2021-05-26,USA,VA,Tesla involved in multi-car highway accident,4,0,0,4,0,0
+161,2021,2021-05-15,China,-,Tesla hits police officers and kills one,1,0,0,0,1,1
+160,2021,2021-05-07,China,-,Tesla runs into back of truck,1,1,0,0,0,1
+159,2021,2021-05-05,USA,CA,Multi-event collision with truck on highway,1,1,0,0,0,1
+158,2021,2021-04-17,USA,TX,"Tesla crashes into tree, bursts into fire",2,0,0,0,0,2
+157,2021,2021-04-17,China,-,Tesla hits concrete barrier and spontaneously combusts,1,0,1,0,0,1
+156,2021,2021-04-16,France,-,Tesla crashes into tree with 5 occupants,2,0,0,0,0,2
+155,2021,2021-04-14,USA,TX,Head-on collision involving a Tesla,1,1,0,0,0,1
+154,2021,2021-04-13,Germany,-,"Tesla goes off road, hits a tree, and bursts into flames",1,1,0,0,0,1
+153,2021,2021-04-03,USA,PA,"Tesla loses control, hits railing and cut in half",2,1,1,0,0,2
+152,2021,2021-04-01,China,-,"Driver hit traffic island, Tesla catches on fire",1,1,0,0,0,1
+151,2021,2021-03-21,UK,-,"Pedestrian hit in collision, later dies in hospital weeks later",1,0,0,0,1,1
+150,2021,2021-03-20,Belgium,-,"Driver runs over curb, loses control and hit pole",1,1,0,0,0,1
+149,2021,2021-03-13,UK,-,Tesla crashes into stationary van,1,0,0,1,0,0
+148,2021,2021-03-10,USA,CA,"Tesla crashes into tree, occupants killed",2,1,1,0,0,1
+147,2021,2021-03-07,USA,OH,3 car collision near intersection,1,0,0,1,0,0
+146.1,2021,2021-03-05,UK,-,Tesla hits crashed car,1,0,0,1,0,0
+146,2021,2021-02-22,USA,CA,High speed crash into telephone poll,1,1,0,0,0,1
+145,2021,2021-01-22,USA,AZ,"Tesla crashes into tree, occupants killed",2,1,1,0,0,2
+144,2021,2021-01-21,USA,CO,"Tesla hits car and car crashes, driver later dies",1,0,0,1,0,0
+143,2021,2021-01-15,USA,FL,"Head-on collision involving a Tesla, other driver dies",1,0,0,1,0,0
+142,2021,2021-01-10,USA,UT,"Car collides with Tesla, both drivers die",2,1,0,1,0,0
+141,2020,2020-12-18,Portugal,-,Tesla driver crashes into pole and dies in resulting fire,1,1,0,0,1,0
+140,2020,2020-12-11,USA,FL,"Pedestrians hit and run by Tesla, one died from injuries",1,0,0,0,1,1
+139,2020,2020-12-09,South Korea,-,"Car goes out of control and crashes into a wall, ignites",1,0,1,0,0,1
+138,2020,2020-12-04,USA,CA,"Car loses control, goes airborne, hits telephone pole",1,0,1,0,0,1
+137,2020,2020-11-16,USA,MO,Five-vehicle pileup involving truck,1,0,0,1,0,0
+136,2020,2020-10-31,USA,CA,"Car hit by a Tesla, driver later died from injuries",1,0,0,1,0,0
+135,2020,2020-10-10,USA,CA,Motorcyclist died after rear-ending a Tesla,1,0,0,1,0,0
+134,2020,2020-10-07,Belgium,-,"Driver going wrong direction hits Tesla, driver later dies",1,0,0,1,0,0
+133,2020,2020-09-17,USA,GA,"Car loses control, hits bus shelter",1,0,0,1,1,3
+132,2020,2020-09-12,USA,CA,"Car lands on Tesla, other vehicle driver dies",1,0,0,1,0,0
+131,2020,2020-09-06,USA,IL,"Tesla runs thru red light, crashes, driver dies at scene",1,1,0,0,0,1
+130,2020,2020-09-05,China,-,"Tesla crashes into crowd, 2 dead and several injured",2,0,0,0,2,2
+129,2020,2020-08-24,USA,VA,"Two car collision at intersection, other driver dies afterwards",1,0,0,1,0,0
+128,2020,2020-08-13,Germany,-,Tesla crashes into tree,1,1,0,0,0,1
+127,2020,2020-08-12,USA,CA,Tesla hits two cars along exit ramp & catches fire,2,1,1,0,0,1
+126,2020,2020-08-02,USA,CA,"Tesla crashes into tree, ignites, kills driver and passenger",2,1,1,0,0,1
+125,2020,2020-07-18,USA,UT,"Tesla races other car, other car crashes",1,0,0,1,0,0
+124,2020,2020-06-23,USA,GA,Vehicle collides with Tesla at intersection,1,0,0,1,0,0
+123,2020,2020-06-21,Germany,-,"Tesla veers into other lane, crashes into oncoming car",3,0,0,3,0,0
+122,2020,2020-06-17,Canada,-,Motorcyclist killed in crash with Tesla,1,0,0,1,0,0
+121,2020,2020-06-08,Netherlands,-,Driver has heart attack and crashes Tesla,1,1,0,0,0,1
+120,2020,2020-05-25,USA,CA,Tesla goes off cliff and later found,1,1,0,0,0,1
+119,2020,2020-05-14,USA,CA,Two-car collision,1,0,0,1,0,0
+118,2020,2020-05-05,USA,CA,Drunk driver strikes Tesla,1,0,0,1,0,0
+117,2020,2020-05-04,Norway,-,Tesla strikes and kills a man standing next to his truck,1,0,0,1,0,0
+116,2020,2020-04-24,Netherlands,-,"Tesla runs off road, crashes, catches fire",1,1,0,0,0,1
+115,2020,2020-04-03,Taiwan,-,Tesla rolls over and catches on fire,1,1,0,0,0,1
+114,2020,2020-04-01,USA,OH,Tesla drive off road into tree,1,1,0,0,0,1
+113,2020,2020-03-08,USA,GA,Motorcyclist rear ends Tesla,1,0,0,1,0,0
+112,2020,2020-03-04,Netherlands,-,Three car collision,1,0,0,1,0,0
+111,2020,2020-02-24,USA,CA,Driver dies as Tesla goes down embankment,1,1,0,0,0,1
+110,2020,2020-02-24,Canada,-,Tesla drives off cliff,3,1,2,0,0,3
+109,2020,2020-01-31,USA,FL,Nissan in front of Tesla loses control,1,0,0,1,0,0
+108,2020,2020-01-26,USA,NJ,Tesla crashes into car at toll booth,1,0,0,1,0,0
+107,2020,2020-01-21,Germany,-,Sudden unintended acceleration kills store patron,1,0,0,0,1,1
+106,2020,2020-01-19,Taiwan,-,"Tesla t-bones sedan, kills pedestrian",1,0,0,0,1,1
+105,2020,2020-01-18,USA,CA,"Tesla strikes sign, burns",1,1,0,0,0,1
+104,2020,2020-01-05,USA,UT,"Tesla runs red, strikes car, burns",2,0,0,2,0,0
+103,2020,2020-01-04,USA,FL,Tesla strikes Mercury,1,0,0,1,0,0
+102,2019,2019-12-29,USA,IN,Tesla rear ends parked fire truck,1,0,1,0,0,1
+101,2019,2019-12-29,USA,CA,Tesla runs red light after exiting freeway,2,0,0,2,0,0
+100,2019,2019-12-23,Slovenia,-,Drunk driver strikes Tesla,1,0,0,1,0,0
+99,2019,2019-12-19,USA,FL,Police SUV strikes Tesla,2,1,1,0,0,2
+98,2019,2019-12-11,USA,CA,Tesla strikes turning Lexus,1,0,0,1,0,0
+97,2019,2019-12-10,USA,NV,Kia rear ends Tesla,1,0,0,1,0,0
+96,2019,2019-12-01,USA,TX,Struck Ford veers into Tesla's lane,2,0,0,2,0,0
+95,2019,2019-11-24,Taiwan,-,"Tesla strikes divider, driver falls to death",1,1,0,0,0,1
+94,2019,2019-11-22,USA,CA,Tire strikes Tesla,1,1,0,0,0,1
+93,2019,2019-11-21,USA,CA,Tesla kills pedestrian,1,0,0,0,1,1
+92,2019,2019-11-20,Austria,-,Tesla strikes impact attenuator,1,1,0,0,0,1
+91,2019,2019-11-20,USA,FL,Tesla turns into oncoming traffic,1,1,0,0,0,1
+90,2019,2019-11-20,USA,CA,Tesla in multi vehicle crash,1,0,0,1,0,0
+89,2019,2019-11-14,Germany,-,Tesla kills pedestrian,1,0,0,0,1,1
+88,2019,2019-11-10,USA,FL,Wrong way driver strikes Tesla,1,0,0,1,0,0
+87,2019,2019-11-07,USA,CA,Two car collision,1,0,0,1,0,0
+86,2019,2019-11-01,Norway,-,Three car collision,1,0,0,0,0,0
+85,2019,2019-10-19,USA,PA,"Man thrown from vehicle, struck by Tesla",1,0,0,1,0,0
+84,2019,2019-10-17,Germany,-,Tesla turns into oncoming motorcyclist,1,0,0,1,0,0
+83,2019,2019-10-12,USA,CA,"Wrong way driver strikes Tesla, Tesla burns",1,0,0,1,0,0
+82,2019,2019-09-22,USA,NV,Tesla runs red light,1,0,0,1,0,0
+81,2019,2019-09-17,USA,FL,Tesla into oncoming traffic,1,1,0,0,0,1
+80,2019,2019-09-11,USA,OH,Subaru strikes Tesla,1,0,0,1,0,0
+79,2019,2019-09-11,USA,VA,Tesla kills motorcyclist,1,0,0,1,0,0
+78,2019,2019-09-08,USA,CA,Honda rear ends Tesla,1,0,0,1,0,0
+77,2019,2019-09-07,USA,PA,"Tesla drives through T intersection, into woods",1,0,1,0,0,1
+76,2019,2019-09-01,Germany,-,Tesla into oncoming traffic,2,0,0,2,0,0
+75,2019,2019-08-24,USA,CA,Tesla rear ends Ford,1,0,0,1,0,0
+74,2019,2019-08-15,Germany,-,Tesla kills motorcyclist,1,0,0,1,0,0
+73,2019,2019-08-12,USA,NY,Collision,1,1,0,1,0,1
+72,2019,2019-07-21,USA,DE,"Tesla drives into office building, kills occupant",1,0,0,0,1,1
+71,2019,2019-07-21,USA,CA,Tesla kills pedestrian,1,0,0,0,1,1
+70,2019,2019-07-13,USA,CA,Tesla kills pedestrian,1,0,0,0,1,1
+69,2019,2019-07-08,USA,IA,Car drifts into Tesla's lane,1,0,0,1,0,0
+68,2019,2019-06-30,USA,CA,Single car crash near Menifee,1,1,0,0,0,1
+67,2019,2019-06-07,Ukraine,-,Tesla strikes construction vehicle,1,0,1,0,0,1
+66,2019,2019-06-04,USA,CA,Six vehicle crash,1,0,0,1,0,0
+65,2019,2019-05-31,USA,CA,Tesla rear ends Ford,1,0,0,1,0,0
+64,2019,2019-04-30,Spain,-,Car drifts into Tesla's lane,1,0,0,1,0,0
+63,2019,2019-04-25,USA,FL,Tesla kills pedestrian,1,0,0,0,1,1
+62,2019,2019-04-15,USA,CA,Tesla strikes on-ramp curb,1,0,1,0,0,1
+61,2019,2019-03-18,Canada,-,"Tesla strikes pole, burns",1,1,0,0,0,1
+60,2019,2019-03-10,USA,FL,BMW strikes Tesla,1,0,1,0,0,1
+59,2019,2019-03-01,USA,FL,Autopilot into firetruck,1,1,0,0,0,1
+58,2019,2019-02-24,USA,FL,"Tesla crashes into tree, burns",1,1,0,0,0,1
+57,2019,2019-02-18,USA,CA,Tesla rear ends stopped car,1,1,0,0,0,1
+56,2019,2019-01-30,Netherlands,-,Driver mistakenly believes Autopilot is on,1,0,0,1,0,0
+55,2018,2018-12-30,USA,VA,"Early morning, single car collision",1,1,0,0,0,1
+54,2018,2018-12-26,USA,NH,Burned in New Ipswich crash,1,0,1,0,0,1
+53,2018,2018-11-15,Denmark,-,Tesla into oncoming traffic,1,0,0,1,0,0
+52,2018,2018-11-10,USA,FL,Tesla kills motorcyclist,1,0,0,1,0,0
+51,2018,2018-11-09,USA,CA,Tesla crashes into tree,2,0,2,0,0,2
+50,2018,2018-10-26,Canada,-,Tesla drives off road,1,0,1,0,0,1
+49,2018,2018-09-21,USA,CA,Single car collision in Anaheim on SR-91,1,1,0,0,0,1
+48,2018,2018-09-15,Japan,-,Tesla rear ends stopped car,2,0,0,2,0,0
+47,2018,2018-08-04,Netherlands,-,Tesla crashes into tree,1,0,1,0,0,1
+46,2018,2018-07-24,USA,MO,Concrete falls on Tesla,1,1,0,0,0,1
+45,2018,2018-05-20,USA,CA,Tesla drives into pond,1,1,0,0,0,1
+44,2018,2018-05-10,Switzerland,-,"Tesla drives into median, burns",1,1,0,0,0,1
+43,2018,2018-05-08,USA,FL,Two teens trapped in burning Tesla,2,1,1,0,0,2
+42,2018,2018-04-29,Japan,-,Sleeping Tesla driver kills pedestrian,1,0,0,1,0,0
+41,2018,2018-04-28,USA,OH,Ohio prom night crash,1,0,1,0,0,1
+40,2018,2018-03-23,USA,CA,Autopilot into highway barrier,1,1,0,0,0,1
+39,2018,2018-03-12,China,-,Tesla kills pedestrian,1,0,0,0,1,1
+38,2018,2018-03-12,Norway,-,Sudden unintended acceleration into wall,1,1,0,0,0,1
+37,2017,2017-11-22,Switzerland,-,Tesla rear ends stopped car,1,0,0,1,0,0
+36,2017,2017-11-14,Australia,-,Tesla kills cyclist,1,0,0,0,1,1
+35,2017,2017-09-24,USA,TN,Tesla drives off road,1,1,0,0,0,1
+34,2017,2017-08-13,USA,AZ,Tesla kills motorcyclist,1,0,0,1,0,0
+33,2017,2017-07-21,USA,AZ,Wrong way driver strikes Tesla,1,0,0,1,0,0
+32,2017,2017-06-25,USA,CA,Tesla strikes Camry,1,0,0,1,0,0
+31,2017,2017-06-10,USA,HI,Unclear; see note at right,1,0,0,1,0,0
+30,2017,2017-05-11,USA,FL,Tesla into oncoming traffic,1,0,0,1,0,0
+29,2017,2017-04-26,Norway,-,Tesla into oncoming traffic,1,0,0,1,0,0
+28,2017,2017-03-13,USA,CA,Tesla kills pedestrian,1,0,0,0,1,1
+27,2017,2017-01-17,Germany,-,Driver died in pileup,1,1,0,0,0,1
+26,2016,2016-12-20,USA,CA,Tesla kills pedestrian,1,0,0,0,1,1
+25,2016,2016-11-23,USA,IL,Driver dead in Winnebago County,1,1,0,0,0,1
+24,2016,2016-11-03,USA,IN,Indianapolis fire,2,1,1,0,0,2
+23,2016,2016-10-10,USA,NH,Pileup,1,0,0,1,0,0
+22,2016,2016-10-07,USA,CA,Tesla kills motorcyclist,1,0,0,1,0,0
+21,2016,2016-09-07,Netherlands,-,Drove into wooded ravine,1,1,0,0,0,1
+20,2016,2016-09-01,USA,FL,Motorcyclist rear ends Tesla,1,0,0,1,0,0
+19,2016,2016-08-15,USA,CA,Tesla rear ended,1,0,1,0,0,1
+18,2016,2016-07-29,USA,FL,Tesla kills pedestrian,1,0,0,0,1,1
+17,2016,2016-07-22,USA,CA,Passat strikes Tesla,1,0,0,1,0,0
+16,2016,2016-06-08,USA,HI,Nissan Altima wrong way into Tesla,1,0,0,1,0,0
+15,2016,2016-05-07,USA,FL,Autopilot into 18 wheeler,1,1,0,0,0,1
+14,2016,2016-04-22,USA,CA,Pedestrian killed in pileup,1,0,0,0,1,1
+13,2016,2016-04-08,USA,OH,Chevy Cobalt wrong way into Tesla,1,0,0,1,0,0
+12,2016,2016-01-20,China,-,Autopilot into street sweeper,1,1,0,0,0,1
+11,2015,2015-12-28,USA,TX,Sudden unintended acceleration into pool,1,1,0,0,0,1
+10,2015,2015-12-22,Canada,-,Struck by dump truck,1,1,0,0,0,1
+9,2015,2015-11-18,USA,CA,Tesla kills pedestrian,1,0,0,0,1,1
+8,2015,2015-06-22,USA,CA,Tesla drives off cliff,1,1,0,0,0,1
+7,2015,2015-01-22,USA,CA,Tesla drives off cliff,1,1,0,0,0,1
+6,2014,2014-12-30,USA,CA,Tesla drives off cliff,1,1,0,0,0,1
+5,2014,2014-07-14,USA,CA,Tesla kills motorcyclist,1,0,0,1,0,0
+4,2014,2014-07-04,USA,CA,Thief crashes stolen Tesla,1,1,0,0,0,1
+3,2014,2014-07-04,USA,CA,Tesla rear ends stopped car,3,0,0,3,0,0
+2,2013,2013-11-02,USA,CA,Tesla kills cyclist,1,0,0,0,1,1
+1,2013,2013-04-02,USA,CA,Tesla veers into opposite lane,2,0,0,2,0,0
