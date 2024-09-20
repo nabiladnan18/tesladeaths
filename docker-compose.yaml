@@ -8,4 +8,4 @@ services:
     image: nadnan18/tesla_deaths:v0.5
     ports:
       - 8501:8501
-    
+      - 8502:8501
