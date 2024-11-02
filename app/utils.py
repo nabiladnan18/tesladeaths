@@ -43,8 +43,7 @@ def get_table_headers(table: Element) -> list:
 def get_table_data(table: Element) -> list:
     # The last 14 tr's do not have useful data
     # The first tr has all the headings
-    table_data = table.find("tr")[1:-14]
-
+    table_data = table.find("tr")[1:]
     rows = [row.text.split("\n")[:12] for row in table_data]
 
     return rows
@@ -80,6 +79,8 @@ def get_table_df(r: HTMLResponse) -> pd.DataFrame:
         df[integer_columns].apply(pd.to_numeric, errors="coerce").fillna(0).astype(int)
     )
 
+    df = clean_table(df)
+
     # Converting Date column with meaningful dates
     df["Date"] = df["Date"].apply(convert_dates)
 
@@ -88,5 +89,12 @@ def get_table_df(r: HTMLResponse) -> pd.DataFrame:
 
     # Fix Holland --> Netherlands
     df["Country"].replace({"Holland": "Netherlands"}, inplace=True)
+
+    return df
+
+
+def clean_table(df: pd.DataFrame) -> pd.DataFrame:
+    cutoff_point = df[df["Case #"] == "1"].index.values[0] + 1
+    df = df.iloc[:cutoff_point]
 
     return df
