@@ -1,11 +1,12 @@
 version: "3"
 services:
-  tesla_deaths:
-    container_name: tesla_deaths
-    build:
-      context: .
-      dockerfile: Dockerfile
-    image: nadnan18/tesla_deaths:v0.5
-    ports:
-      - 8501:8501
-      - 8502:8501
+    tesla_deaths:
+        container_name: tesla_deaths
+        build:
+            context: .
+            dockerfile: Dockerfile
+        image: nadnan18/tesla_deaths:v0.6
+        ports:
+            - 8501:8501
+            - 8502:8501
+

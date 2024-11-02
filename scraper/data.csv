@@ -1,5 +1,25 @@
 Case #,Year,Date,Country,State,Description,Deaths,Tesla driver,Tesla occupant,Other vehicle,Cyclists/ Peds,TSLA+cycl / peds
-444,2024,2024-09-02,USA,CA,Tesla DUI hits other car,1,0,0,1,0,0
+458,2024,2024-10-16,USA,CA,Head-on collision,1,0,0,1,0,0
+457,2024,2024-10-15,USA,CA,Tesla crashes into apartment building,1,1,0,0,0,1
+456,2024,2024-10-14,Korea,-,"Tesla crashes, burns",1,1,0,0,0,1
+455,2024,2024-10-13,France,-,Tesla ignites for undetermined reason,4,1,3,0,0,4
+454,2024,2024-10-07,Australia,-,Head-on collision on highway,1,1,0,0,0,0
+453,2024,2024-10-05,Mexico,-,"Tesla tries to pass, collides with van, fire, 3 dead",3,0,0,3,0,0
+452.1,2024,2024-10-02,China,-,Speeding Tesla hits three pedestrians,3,0,0,0,3,3
+452,2024,2024-09-27,USA,IL,"Tesla tries to pass, collides head on, kills other driver",1,0,0,1,0,0
+451.1,2024,2024-09-24,USA,IL,Tesla crashes into guardrail,1,1,0,0,0,1
+451,2024,2024-09-24,China,-,Multi-car accident,1,0,0,1,0,0
+450,2024,2024-09-23,Canada,-,"3 Dead, 3 Injured, Crash Near Kitchener Ontario",3,1,2,0,0,3
+449,2024,2024-09-22,USA,IN,Tesla drives into guardrail then ditch on straight road,1,1,0,0,0,0
+448,2024,2024-09-18,USA,MI,Wrong-way driver crashes into Tesla which bursts into flame,3,1,0,2,0,1
+447,2024,2024-09-16,USA,NY,Tesla explodes after crashing into apartment building,2,1,1,0,0,1
+446,2024,2024-09-14,USA,NJ,"Tesla Model S veers off road, driver and 2 passengers killed.",3,1,2,0,0,2
+445.1,2024,2024-09-12,Austria,-,Kia and Tesla collide,1,0,0,0,0,0
+445,2024,2024-09-09,Canada,-,"Tesla taxi leaves road, collides with trees. Under investigation.",1,1,0,0,0,0
+444.3,2024,2024-09-07,USA,AL,Multi-car accident,1,1,0,0,0,1
+444.2,2024,2024-09-03,USA,CA,Cars go over cliff,1,0,0,1,0,0
+444.1,2024,2024-09-02,USA,CA,Pickup hits Tesla,2,0,0,2,0,0
+444,2024,2024-09-01,USA,CA,Tesla DUI hits other car,1,0,0,1,0,0
 443,2024,2024-09-01,Germany,-,Car hit during road race,1,0,0,1,0,0
 442,2024,2024-08-27,UK,-,Pedestrian hit,1,0,0,0,1,1
 441,2024,2024-08-27,USA,OR,Head-on collision,1,1,0,0,0,1
@@ -7,14 +27,16 @@ Case #,Year,Date,Country,State,Description,Deaths,Tesla driver,Tesla occupant,Ot
 439,2024,2024-08-23,USA,FL,DUI,1,1,0,0,0,1
 438,2024,2024-08-20,USA,NJ,Tesla hits tree,1,0,1,0,0,1
 437,2024,2024-08-18,USA,NJ,"Tesla hits tree, catches on fire",1,1,0,0,0,1
-436.1,2024,2024-08-11,USA,FL,Multi-car accident caused by Tesla speeding,2,0,0,2,0,0
+436.1,2024,2024-08-11,USA,FL,Mult-car accident caused by Tesla speeding,2,0,0,2,0,0
 436,2024,2024-08-10,USA,CA,Head-on collision,1,0,1,0,0,1
 435,2024,2024-08-05,USA,TX,"Cybertruck crashes, ignites",1,1,0,0,0,1
 434.1,2024,2024-07-22,USA,CA,Pedestrian on highway hit,1,0,0,0,1,1
 434,2024,2024-07-21,USA,OR,Multi-car accident,2,0,0,2,0,0
+433.1,2024,2024-07-14,USA,OK,Tesla hits ejected passenger,1,0,0,1,0,0
 433,2024,2024-07-10,USA,IN,Tesla and truck collide,1,1,0,0,0,1
 432,2024,2024-07-01,USA,NM,Tesla hit by drunk driver,1,1,0,0,0,1
 431.1,2024,2024-06-29,USA,IN,DUI collision,1,0,0,1,0,0
+431,2024,2024-06-29,USA,CA,Multi-vehicle accident,1,1,0,0,0,1
 430,2024,2024-06-29,UK,-,Bus and Tesla collide,1,0,1,0,0,1
 429,2024,2024-06-27,USA,MA,"Tesla hits tree, catches on fire",1,1,0,0,0,1
 428,2024,2024-06-20,USA,FL,"Tesla crashes into tree, goes up in flames",1,1,0,0,0,1
@@ -33,12 +55,12 @@ Case #,Year,Date,Country,State,Description,Deaths,Tesla driver,Tesla occupant,Ot
 416,2024,2024-05-19,USA,WI,DUI,1,0,0,1,0,0
 415,2024,2024-05-11,USA,CA,Car crashes into house,3,1,2,0,0,3
 414.1,2024,2024-05-07,Taiwan,-,Tesla loses control and crashes,2,1,1,0,0,0
-414.1,2024,2024-05-07,Taiwan,-,Tesla loses control and crashes,2,1,1,0,0,0
+414,2024,2024-05-07,USA,CA,Car goes off cliff,1,1,0,0,0,1
 413,2024,2024-05-04,USA,CA,Tesla hits pole,1,1,0,0,0,1
 412,2024,2024-04-27,China,-,Tesla falls off cliff,2,1,1,0,0,2
 411,2024,2024-04-26,USA,MO,Head-on collision,1,0,0,1,0,0
 410.1,2024,2024-04-22,Germany,-,Tesla hits bicyclist,1,0,0,0,1,1
-410,2024,2024-04-19,USA,WA,Tesla runs into motorcycle,1,1,1,0,0,0
+410,2024,2024-04-19,USA,WA,Tesla runs into motorcycle,1,0,0,1,0,0
 409,2024,2024-04-07,USA,CA,"Tesla drives in wrong direction, hits cars",1,0,0,1,0,0
 408,2024,2024-04-02,USA,GA,Multi-car crash,1,0,0,0,0,0
 407,2024,2024-04-01,USA,OH,Tesla runs stop sign,2,0,0,2,0,0
@@ -74,12 +96,11 @@ Case #,Year,Date,Country,State,Description,Deaths,Tesla driver,Tesla occupant,Ot
 380,2023,2023-12-14,USA,CA,Tesla crashes into trees,1,0,0,0,0,1
 379,2023,2023-12-04,UK,-,Truck and Tesla collide,1,1,0,0,0,1
 378,2023,2023-11-30,USA,AR,Tesla hit other car on highway,2,0,1,1,0,1
+377.1,2023,2024-11-27,USA,AZ,Pedestrian killed,1,0,0,0,1,1
 377,2023,2023-11-15,USA,NC,Moped runs into Tesla,1,0,0,1,0,0
-376.1,2023,2023-11-14,USA,MN,Hit and run,1,0,0,0,1,1
 376.1,2023,2023-11-14,USA,MN,Hit and run,1,0,0,0,1,1
 376,2023,2023-11-04,USA,WA,Tesla rolls over and hits enbankment,1,1,0,0,0,0
 375,2023,2023-11-03,USA,FL,Tesla hits a dislodged motorcyclist,1,0,0,0,1,1
-374.1,2023,2023-11-12,USA,AZ,Pedestrian killed,1,0,0,0,1,1
 374,2023,2023-10-30,USA,NY,Tesla hits multiple cars,1,0,1,0,0,0
 373,2023,2023-10-30,USA,NY,DUI,1,0,0,1,0,0
 372,2023,2023-10-26,USA,CA,Motorcycle crashes into Tesla,1,0,0,1,0,0
@@ -107,9 +128,10 @@ Case #,Year,Date,Country,State,Description,Deaths,Tesla driver,Tesla occupant,Ot
 353,2023,2023-07-31,USA,TX,Hit and run,1,0,0,0,1,1
 352,2023,2023-07-29,USA,UT,"Tesla crashes into tree, burns",3,1,2,0,0,3
 351,2023,2023-07-29,USA,TX,"Tesla crashes into tree, burns",1,1,0,0,0,1
+350.1,2023,2023-07-26,USA,CA,Tesla falls from height,1,1,0,0,0,1
 350,2023,2023-07-22,USA,NC,Tesla crashes into trees,1,1,0,0,0,1
-349,2023,2023-07-21,USA,VA,Tesla crashes into side of truck,1,1,0,0,0,1
-348,2023,2023-07-20,USA,CA,Multi-car accident,1,0,0,0,0,0
+349,2023,2023-07-20,USA,CA,Multi-car accident,1,0,0,0,0,0
+348,2023,2023-07-19,USA,VA,Tesla crashes into side of truck,1,1,0,0,0,1
 346,2023,2023-07-16,USA,FL,Tesla runs off road and crashes into pole,1,1,0,0,0,1
 345,2023,2023-07-08,USA,MN,Speeding Tesla crashes into minivan,1,0,0,1,0,0
 344,2023,2023-07-08,USA,CA,Tesla crashes in parking lot,3,1,2,0,0,3
@@ -120,7 +142,7 @@ Case #,Year,Date,Country,State,Description,Deaths,Tesla driver,Tesla occupant,Ot
 341,2023,2023-07-04,USA,FL,Tesla crashes into divider,1,1,0,0,0,1
 340,2023,2023-07-01,Italy,-,Tesla drives into opposite lane,1,0,0,1,0,0
 339,2023,2023-07-01,France,-,Tesla hits tree,1,1,0,0,0,1
-338,2023,2023-06-29,USA,NY,"Tesla crashes into house, explodes",2,1,0,0,0,1
+`,2023,2023-06-29,USA,NY,"Tesla crashes into house, explodes",2,1,0,0,0,1
 337.1,2023,2023-06-26,USA,WA,"Tesla hits trees, ignites",1,1,0,0,0,0
 337,2023,2023-06-26,USA,CA,Tesla t-bones car,1,0,0,1,0,0
 336,2023,2023-06-22,USA,MD,Tesla crashes into divider,1,1,0,0,0,0
@@ -142,7 +164,7 @@ Case #,Year,Date,Country,State,Description,Deaths,Tesla driver,Tesla occupant,Ot
 323,2023,2023-05-13,USA,OR,Tesla collides with tow truck,1,1,0,0,0,1
 322,2023,2023-05-07,Ireland,-,Tesla and motorbike collide,1,0,0,1,0,0
 321,2023,2023-05-05,USA,CA,Motorcycle crashes into Tesla,1,0,0,1,0,0
-320,2023,2023-05-05,China,-,"Tesla hits barrier, DUI",2,1,1,0,0,2
+320,2023,2023-05-05,Taiwan,-,"Tesla hits barrier, DUI",2,1,1,0,0,2
 319,2023,2023-04-30,USA,NJ,Collision,1,0,0,1,0,0
 318,2023,2023-04-25,USA,CA,Tesla hits electric bike,1,0,0,0,1,1
 317,2023,2023-04-23,USA,CA,Multi Car crash,2,0,0,2,0,0
@@ -150,7 +172,7 @@ Case #,Year,Date,Country,State,Description,Deaths,Tesla driver,Tesla occupant,Ot
 315,2023,2023-04-17,USA,TX,Two car collision,1,1,1,0,0,1
 314,2023,2023-04-14,USA,AL,Tesla crashes into semi,2,1,1,0,0,2
 313,2023,2023-04-03,USA,CA,Fiery crash,1,0,1,0,0,1
-312.1,2023,2023-03-28,USA,CA,Pickup hits Tesla,1,0,0,0,0,1
+312.1,2023,2023-03-28,USA,CA,Pickup hits Tesla,1,0,0,0,1,0
 312,2023,2023-03-25,USA,CA,Hit and run,1,0,0,0,1,1
 311.1,2023,2023-03-15,USA,NJ,"Tesla hits tree during snow storm, ignites",1,1,0,0,0,1
 311,2023,2023-03-12,USA,UT,Car hits Tesla that crashed into cable barrier; inclement weather,1,0,0,1,0,0
@@ -213,6 +235,7 @@ Case #,Year,Date,Country,State,Description,Deaths,Tesla driver,Tesla occupant,Ot
 256,2022,2022-08-02,USA,FL,Man in wheelchair hit crossing road,1,0,0,0,1,1
 255,2022,2022-07-27,Canada,-,Tesla hits cyclist,1,0,0,0,1,1
 254,2022,2022-07-27,USA,ME,Tesla crashes at high speed,1,1,0,0,0,1
+253.1,2022,2022-07-24,USA,TN,Tesla drunk driver,1,0,0,1,0,0
 253,2022,2022-07-24,USA,UT,Tesla hits motorcycle,1,0,0,1,0,0
 252,2022,2022-07-16,USA,PA,Tesla goes airborne and crashes,1,1,0,0,0,1
 251,2022,2022-07-12,China,-,Out of control Tesla hits pedestrians,2,0,0,0,2,2
@@ -241,7 +264,7 @@ Case #,Year,Date,Country,State,Description,Deaths,Tesla driver,Tesla occupant,Ot
 228,2022,2022-05-19,USA,NJ,"Tesla hits trees, ignites",1,1,0,0,0,1
 227,2022,2022-05-19,USA,NJ,Multiple car crash on highway,1,1,0,0,0,1
 226,2022,2022-05-18,USA,CA,Tesla hits pedestrian,1,0,0,0,1,1
-225,2022,2022-05-17,USA,CO,Fiery crash,1,1,0,0,0,1
+225,2022,2022-05-16,USA,CO,Fiery crash,1,1,0,0,0,1
 224,2022,2022-05-12,Australia,-,Tesla hits electric bike who dies 5 days later from injuries,1,0,0,0,1,1
 223,2022,2022-05-12,USA,CA,Tesla smashes into construction equipment,3,1,2,0,0,3
 222,2022,2022-05-07,USA,UT,Tesla DUI involving another vehicle,2,0,0,2,0,0
@@ -264,9 +287,9 @@ Case #,Year,Date,Country,State,Description,Deaths,Tesla driver,Tesla occupant,Ot
 205,2022,2022-02-27,USA,MO,Tesla breaks down in traffic and causes pile-up,1,1,0,0,0,1
 204,2022,2022-02-12,USA,CA,Tesla crashes into a tree,1,1,0,0,0,1
 203,2022,2022-02-07,USA,FL,"Tesla loses control, hits pole, ignites",1,1,0,0,0,1
-202,2022,2022-01-16,USA,CA,Three-car collision near intersection,1,0,0,1,0,0
-201,2022,2022-01-01,USA,CA,Motorcyclist crashes into Tesla,1,0,0,1,0,0
-200,2022,2022-01-01,USA,CA,Single-collision on onramp,1,1,0,0,0,1
+202,2022,2022-01-01,USA,CA,Motorcyclist crashes into Tesla,1,0,0,1,0,0
+201,2022,2022-01-01,USA,CA,Single-collision on onramp,1,1,0,0,0,1
+200,2022,2022-01-12,USA,CA,Accident reported in SGO - # fatalities unclear,1,0,1,0,0,0
 199,2021,2021-12-31,USA,CA,Tesla crashes into trees,2,1,1,0,0,2
 198,2021,2021-12-28,USA,CA,Multi-crash involving DUI,1,0,0,1,0,0
 197,2021,2021-12-24,China,-,Tesla loses control and drives into river,1,1,0,0,0,1
@@ -314,7 +337,7 @@ Case #,Year,Date,Country,State,Description,Deaths,Tesla driver,Tesla occupant,Ot
 155,2021,2021-04-14,USA,TX,Head-on collision involving a Tesla,1,1,0,0,0,1
 154,2021,2021-04-13,Germany,-,"Tesla goes off road, hits a tree, and bursts into flames",1,1,0,0,0,1
 153,2021,2021-04-03,USA,PA,"Tesla loses control, hits railing and cut in half",2,1,1,0,0,2
-152,2021,2021-04-01,China,-,"Driver hit traffic island, Tesla catches on fire",1,1,0,0,0,1
+152,2021,2021-04-01,Taiwan,-,"Driver hit traffic island, Tesla catches on fire",1,1,0,0,0,1
 151,2021,2021-03-21,UK,-,"Pedestrian hit in collision, later dies in hospital weeks later",1,0,0,0,1,1
 150,2021,2021-03-20,Belgium,-,"Driver runs over curb, loses control and hit pole",1,1,0,0,0,1
 149,2021,2021-03-13,UK,-,Tesla crashes into stationary van,1,0,0,1,0,0
